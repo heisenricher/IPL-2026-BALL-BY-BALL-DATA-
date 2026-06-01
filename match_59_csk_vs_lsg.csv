@@ -1,0 +1,222 @@
+Innings,Over,Ball,Bowler,Batter,Non-Striker,Runs_Off_Bat,Extras,Extra_Type,Wicket_Type,Player_Dismissed,Fielder,Total_Team_Runs,Wickets_Lost
+1,0,1,Deepak Chahar,KL Rahul,Quinton de Kock,1,0,,,,,1,0
+1,0,2,Deepak Chahar,Quinton de Kock,KL Rahul,2,0,,,,,3,0
+1,0,3,Deepak Chahar,Quinton de Kock,KL Rahul,0,0,,,,,3,0
+1,0,4,Deepak Chahar,Quinton de Kock,KL Rahul,0,0,,,,,3,0
+1,0,5,Deepak Chahar,Quinton de Kock,KL Rahul,4,0,,,,,7,0
+1,0,6,Deepak Chahar,Quinton de Kock,KL Rahul,4,0,,,,,11,0
+1,1,1,Ravindra Jadeja,KL Rahul,Quinton de Kock,1,0,,,,,12,0
+1,1,2,Ravindra Jadeja,Quinton de Kock,KL Rahul,0,0,,,,,12,0
+1,1,3,Ravindra Jadeja,Quinton de Kock,KL Rahul,4,0,,,,,16,0
+1,1,4,Ravindra Jadeja,Quinton de Kock,KL Rahul,1,0,,,,,17,0
+1,1,5,Ravindra Jadeja,KL Rahul,Quinton de Kock,1,0,,,,,18,0
+1,1,6,Ravindra Jadeja,Quinton de Kock,KL Rahul,1,0,,,,,19,0
+1,2,1,Shardul Thakur,Quinton de Kock,KL Rahul,0,0,,,,,19,0
+1,2,2,Shardul Thakur,Quinton de Kock,KL Rahul,0,0,,,,,19,0
+1,2,3,Shardul Thakur,Quinton de Kock,KL Rahul,0,0,,run out,Quinton de Kock,Sameer Rizvi,19,1
+1,2,4,Shardul Thakur,Nicholas Pooran,KL Rahul,0,1,wide,,,,20,1
+1,2,4,Shardul Thakur,Nicholas Pooran,KL Rahul,4,0,,,,,24,1
+1,2,5,Shardul Thakur,Nicholas Pooran,KL Rahul,0,0,,,,,24,1
+1,2,6,Shardul Thakur,Nicholas Pooran,KL Rahul,1,0,,,,,25,1
+1,3,1,Matheesha Pathirana,Nicholas Pooran,KL Rahul,2,0,,,,,27,1
+1,3,2,Matheesha Pathirana,Nicholas Pooran,KL Rahul,4,0,,,,,31,1
+1,3,3,Matheesha Pathirana,Nicholas Pooran,KL Rahul,1,0,,,,,32,1
+1,3,4,Matheesha Pathirana,KL Rahul,Nicholas Pooran,3,0,,,,,35,1
+1,3,5,Matheesha Pathirana,Nicholas Pooran,KL Rahul,1,0,,,,,36,1
+1,3,6,Matheesha Pathirana,KL Rahul,Nicholas Pooran,1,0,,,,,37,1
+1,4,1,Ravindra Jadeja,KL Rahul,Nicholas Pooran,1,0,,,,,38,1
+1,4,2,Ravindra Jadeja,Nicholas Pooran,KL Rahul,0,0,,,,,38,1
+1,4,3,Ravindra Jadeja,Nicholas Pooran,KL Rahul,0,0,,,,,38,1
+1,4,4,Ravindra Jadeja,Nicholas Pooran,KL Rahul,3,0,,,,,41,1
+1,4,5,Ravindra Jadeja,KL Rahul,Nicholas Pooran,0,0,,,,,41,1
+1,4,6,Ravindra Jadeja,KL Rahul,Nicholas Pooran,0,0,,,,,41,1
+1,5,1,Mitchell Santner,Nicholas Pooran,KL Rahul,1,0,,,,,42,1
+1,5,2,Mitchell Santner,KL Rahul,Nicholas Pooran,0,0,,,,,42,1
+1,5,3,Mitchell Santner,KL Rahul,Nicholas Pooran,0,0,,run out,KL Rahul,Shivam Dube,42,2
+1,5,4,Mitchell Santner,Marcus Stoinis,Nicholas Pooran,2,0,,,,,44,2
+1,5,5,Mitchell Santner,Marcus Stoinis,Nicholas Pooran,0,0,,stumped,Marcus Stoinis,Mitchell Santner,44,3
+1,5,6,Mitchell Santner,Ayush Badoni,Nicholas Pooran,4,0,,,,,48,3
+1,6,1,Shardul Thakur,Nicholas Pooran,Ayush Badoni,0,0,,,,,48,3
+1,6,2,Shardul Thakur,Nicholas Pooran,Ayush Badoni,2,0,,,,,50,3
+1,6,3,Shardul Thakur,Nicholas Pooran,Ayush Badoni,1,0,,,,,51,3
+1,6,4,Shardul Thakur,Ayush Badoni,Nicholas Pooran,1,0,,,,,52,3
+1,6,5,Shardul Thakur,Nicholas Pooran,Ayush Badoni,0,0,,,,,52,3
+1,6,6,Shardul Thakur,Nicholas Pooran,Ayush Badoni,1,0,,,,,53,3
+1,7,1,Ravindra Jadeja,Nicholas Pooran,Ayush Badoni,2,0,,,,,55,3
+1,7,2,Ravindra Jadeja,Nicholas Pooran,Ayush Badoni,0,0,,,,,55,3
+1,7,3,Ravindra Jadeja,Nicholas Pooran,Ayush Badoni,0,0,,,,,55,3
+1,7,4,Ravindra Jadeja,Nicholas Pooran,Ayush Badoni,0,0,,,,,55,3
+1,7,5,Ravindra Jadeja,Nicholas Pooran,Ayush Badoni,0,0,,run out,Nicholas Pooran,Moeen Ali,55,4
+1,7,6,Ravindra Jadeja,Deepak Hooda,Ayush Badoni,4,0,,,,,59,4
+1,8,1,Ravindra Jadeja,Ayush Badoni,Deepak Hooda,0,0,,,,,59,4
+1,8,2,Ravindra Jadeja,Ayush Badoni,Deepak Hooda,4,0,,,,,63,4
+1,8,3,Ravindra Jadeja,Ayush Badoni,Deepak Hooda,3,0,,,,,66,4
+1,8,4,Ravindra Jadeja,Deepak Hooda,Ayush Badoni,2,0,,,,,68,4
+1,8,5,Ravindra Jadeja,Deepak Hooda,Ayush Badoni,2,0,,,,,70,4
+1,8,6,Ravindra Jadeja,Deepak Hooda,Ayush Badoni,0,0,,bowled,Deepak Hooda,Ruturaj Gaikwad,70,5
+1,9,1,Deepak Chahar,Ayush Badoni,Krunal Pandya,0,0,,,,,70,5
+1,9,2,Deepak Chahar,Ayush Badoni,Krunal Pandya,2,0,,,,,72,5
+1,9,3,Deepak Chahar,Ayush Badoni,Krunal Pandya,0,0,,,,,72,5
+1,9,4,Deepak Chahar,Ayush Badoni,Krunal Pandya,0,0,,,,,72,5
+1,9,5,Deepak Chahar,Ayush Badoni,Krunal Pandya,0,0,,,,,72,5
+1,9,6,Deepak Chahar,Ayush Badoni,Krunal Pandya,4,0,,,,,76,5
+1,10,1,Ravindra Jadeja,Krunal Pandya,Ayush Badoni,0,0,,,,,76,5
+1,10,2,Ravindra Jadeja,Krunal Pandya,Ayush Badoni,1,0,,,,,77,5
+1,10,3,Ravindra Jadeja,Ayush Badoni,Krunal Pandya,0,0,,,,,77,5
+1,10,4,Ravindra Jadeja,Ayush Badoni,Krunal Pandya,2,0,,,,,79,5
+1,10,5,Ravindra Jadeja,Ayush Badoni,Krunal Pandya,2,0,,,,,81,5
+1,10,6,Ravindra Jadeja,Ayush Badoni,Krunal Pandya,0,0,,lbw,Ayush Badoni,MS Dhoni,81,6
+1,11,1,Ravindra Jadeja,Krunal Pandya,Ayush Badoni,0,0,,,,,81,6
+1,11,2,Ravindra Jadeja,Krunal Pandya,Ayush Badoni,0,0,,,,,81,6
+1,11,3,Ravindra Jadeja,Krunal Pandya,Ayush Badoni,1,0,,,,,82,6
+1,11,4,Ravindra Jadeja,Ayush Badoni,Krunal Pandya,4,0,,,,,86,6
+1,11,5,Ravindra Jadeja,Ayush Badoni,Krunal Pandya,1,0,,,,,87,6
+1,11,6,Ravindra Jadeja,Krunal Pandya,Ayush Badoni,2,0,,,,,89,6
+1,12,1,Mitchell Santner,Ayush Badoni,Krunal Pandya,4,0,,,,,93,6
+1,12,2,Mitchell Santner,Ayush Badoni,Krunal Pandya,1,0,,,,,94,6
+1,12,3,Mitchell Santner,Krunal Pandya,Ayush Badoni,0,0,,,,,94,6
+1,12,4,Mitchell Santner,Krunal Pandya,Ayush Badoni,3,0,,,,,97,6
+1,12,5,Mitchell Santner,Ayush Badoni,Krunal Pandya,6,0,,,,,103,6
+1,12,6,Mitchell Santner,Ayush Badoni,Krunal Pandya,0,0,,,,,103,6
+1,13,1,Tushar Deshpande,Krunal Pandya,Ayush Badoni,2,0,,,,,105,6
+1,13,2,Tushar Deshpande,Krunal Pandya,Ayush Badoni,4,0,,,,,109,6
+1,13,3,Tushar Deshpande,Krunal Pandya,Ayush Badoni,0,0,,,,,109,6
+1,13,4,Tushar Deshpande,Krunal Pandya,Ayush Badoni,0,0,,,,,109,6
+1,13,5,Tushar Deshpande,Krunal Pandya,Ayush Badoni,1,0,,,,,110,6
+1,13,6,Tushar Deshpande,Ayush Badoni,Krunal Pandya,0,0,,,,,110,6
+1,14,1,Matheesha Pathirana,Krunal Pandya,Ayush Badoni,0,0,,,,,110,6
+1,14,2,Matheesha Pathirana,Krunal Pandya,Ayush Badoni,0,0,,,,,110,6
+1,14,3,Matheesha Pathirana,Krunal Pandya,Ayush Badoni,1,0,,,,,111,6
+1,14,4,Matheesha Pathirana,Ayush Badoni,Krunal Pandya,0,1,legbye,,,,112,6
+1,14,5,Matheesha Pathirana,Ayush Badoni,Krunal Pandya,2,0,,,,,114,6
+1,14,6,Matheesha Pathirana,Ayush Badoni,Krunal Pandya,0,0,,,,,114,6
+1,15,1,Matheesha Pathirana,Krunal Pandya,Ayush Badoni,1,0,,,,,115,6
+1,15,2,Matheesha Pathirana,Ayush Badoni,Krunal Pandya,4,0,,,,,119,6
+1,15,3,Matheesha Pathirana,Ayush Badoni,Krunal Pandya,0,1,wide,,,,120,6
+1,15,3,Matheesha Pathirana,Ayush Badoni,Krunal Pandya,3,0,,,,,123,6
+1,15,4,Matheesha Pathirana,Krunal Pandya,Ayush Badoni,1,0,,,,,124,6
+1,15,5,Matheesha Pathirana,Ayush Badoni,Krunal Pandya,1,0,,,,,125,6
+1,15,6,Matheesha Pathirana,Krunal Pandya,Ayush Badoni,3,0,,,,,128,6
+1,16,1,Tushar Deshpande,Krunal Pandya,Ayush Badoni,0,0,,,,,128,6
+1,16,2,Tushar Deshpande,Krunal Pandya,Ayush Badoni,1,0,,,,,129,6
+1,16,3,Tushar Deshpande,Ayush Badoni,Krunal Pandya,0,0,,,,,129,6
+1,16,4,Tushar Deshpande,Ayush Badoni,Krunal Pandya,1,0,,,,,130,6
+1,16,5,Tushar Deshpande,Krunal Pandya,Ayush Badoni,6,0,,,,,136,6
+1,16,6,Tushar Deshpande,Krunal Pandya,Ayush Badoni,2,0,,,,,138,6
+1,17,1,Deepak Chahar,Ayush Badoni,Krunal Pandya,0,0,,,,,138,6
+1,17,2,Deepak Chahar,Ayush Badoni,Krunal Pandya,1,0,,,,,139,6
+1,17,3,Deepak Chahar,Krunal Pandya,Ayush Badoni,0,0,,stumped,Krunal Pandya,MS Dhoni,139,7
+1,18,1,Mitchell Santner,Ayush Badoni,Krunal Pandya,0,1,bye,,,,140,7
+1,18,2,Mitchell Santner,Ayush Badoni,Krunal Pandya,2,0,,,,,142,7
+1,18,3,Mitchell Santner,Ayush Badoni,Krunal Pandya,0,0,,,,,142,7
+1,18,4,Mitchell Santner,Ayush Badoni,Krunal Pandya,0,0,,,,,142,7
+1,18,5,Mitchell Santner,Ayush Badoni,Krunal Pandya,0,0,,,,,142,7
+1,18,6,Mitchell Santner,Ayush Badoni,Krunal Pandya,2,0,,,,,144,7
+1,19,1,Deepak Chahar,Krunal Pandya,Ayush Badoni,0,0,,,,,144,7
+1,19,2,Deepak Chahar,Krunal Pandya,Ayush Badoni,0,0,,,,,144,7
+1,19,3,Deepak Chahar,Krunal Pandya,Ayush Badoni,6,0,,,,,150,7
+1,19,4,Deepak Chahar,Krunal Pandya,Ayush Badoni,0,0,,,,,150,7
+1,19,5,Deepak Chahar,Krunal Pandya,Ayush Badoni,0,0,,caught,Krunal Pandya,Ravindra Jadeja,150,8
+2,0,1,Mohsin Khan,Ruturaj Gaikwad,Rachin Ravindra,0,0,,,,,0,0
+2,0,2,Mohsin Khan,Ruturaj Gaikwad,Rachin Ravindra,0,0,,,,,0,0
+2,0,3,Mohsin Khan,Ruturaj Gaikwad,Rachin Ravindra,0,0,,,,,0,0
+2,0,4,Mohsin Khan,Ruturaj Gaikwad,Rachin Ravindra,0,0,,,,,0,0
+2,0,5,Mohsin Khan,Ruturaj Gaikwad,Rachin Ravindra,6,0,,,,,6,0
+2,0,6,Mohsin Khan,Ruturaj Gaikwad,Rachin Ravindra,1,0,,,,,7,0
+2,1,1,Naveen-ul-Haq,Ruturaj Gaikwad,Rachin Ravindra,0,0,,,,,7,0
+2,1,2,Naveen-ul-Haq,Ruturaj Gaikwad,Rachin Ravindra,0,0,,,,,7,0
+2,1,3,Naveen-ul-Haq,Ruturaj Gaikwad,Rachin Ravindra,0,0,,,,,7,0
+2,1,4,Naveen-ul-Haq,Ruturaj Gaikwad,Rachin Ravindra,0,0,,,,,7,0
+2,1,5,Naveen-ul-Haq,Ruturaj Gaikwad,Rachin Ravindra,6,0,,,,,13,0
+2,1,6,Naveen-ul-Haq,Ruturaj Gaikwad,Rachin Ravindra,0,0,,,,,13,0
+2,2,1,Mohsin Khan,Rachin Ravindra,Ruturaj Gaikwad,0,0,,,,,13,0
+2,2,2,Mohsin Khan,Rachin Ravindra,Ruturaj Gaikwad,6,0,,,,,19,0
+2,2,3,Mohsin Khan,Rachin Ravindra,Ruturaj Gaikwad,1,0,,,,,20,0
+2,2,4,Mohsin Khan,Ruturaj Gaikwad,Rachin Ravindra,3,0,,,,,23,0
+2,2,5,Mohsin Khan,Rachin Ravindra,Ruturaj Gaikwad,1,0,,,,,24,0
+2,2,6,Mohsin Khan,Ruturaj Gaikwad,Rachin Ravindra,0,0,,,,,24,0
+2,3,1,Marcus Stoinis,Rachin Ravindra,Ruturaj Gaikwad,4,0,,,,,28,0
+2,3,2,Marcus Stoinis,Rachin Ravindra,Ruturaj Gaikwad,0,0,,,,,28,0
+2,3,3,Marcus Stoinis,Rachin Ravindra,Ruturaj Gaikwad,0,0,,,,,28,0
+2,3,4,Marcus Stoinis,Rachin Ravindra,Ruturaj Gaikwad,3,0,,,,,31,0
+2,3,5,Marcus Stoinis,Ruturaj Gaikwad,Rachin Ravindra,0,0,,,,,31,0
+2,3,6,Marcus Stoinis,Ruturaj Gaikwad,Rachin Ravindra,1,0,,,,,32,0
+2,4,1,Mohsin Khan,Ruturaj Gaikwad,Rachin Ravindra,1,0,,,,,33,0
+2,4,2,Mohsin Khan,Rachin Ravindra,Ruturaj Gaikwad,6,0,,,,,39,0
+2,4,3,Mohsin Khan,Rachin Ravindra,Ruturaj Gaikwad,0,1,legbye,,,,40,0
+2,4,4,Mohsin Khan,Rachin Ravindra,Ruturaj Gaikwad,0,0,,,,,40,0
+2,4,5,Mohsin Khan,Rachin Ravindra,Ruturaj Gaikwad,1,0,,,,,41,0
+2,4,6,Mohsin Khan,Ruturaj Gaikwad,Rachin Ravindra,2,0,,,,,43,0
+2,5,1,Yash Thakur,Rachin Ravindra,Ruturaj Gaikwad,4,0,,,,,47,0
+2,5,2,Yash Thakur,Rachin Ravindra,Ruturaj Gaikwad,4,0,,,,,51,0
+2,5,3,Yash Thakur,Rachin Ravindra,Ruturaj Gaikwad,0,0,,caught,Rachin Ravindra,Deepak Hooda,51,1
+2,5,4,Yash Thakur,Shivam Dube,Ruturaj Gaikwad,4,0,,,,,55,1
+2,5,5,Yash Thakur,Shivam Dube,Ruturaj Gaikwad,2,0,,,,,57,1
+2,5,6,Yash Thakur,Shivam Dube,Ruturaj Gaikwad,0,0,,,,,57,1
+2,6,1,Marcus Stoinis,Ruturaj Gaikwad,Shivam Dube,4,0,,,,,61,1
+2,6,2,Marcus Stoinis,Ruturaj Gaikwad,Shivam Dube,2,0,,,,,63,1
+2,6,3,Marcus Stoinis,Ruturaj Gaikwad,Shivam Dube,0,0,,,,,63,1
+2,6,4,Marcus Stoinis,Ruturaj Gaikwad,Shivam Dube,0,0,,,,,63,1
+2,6,5,Marcus Stoinis,Ruturaj Gaikwad,Shivam Dube,0,0,,,,,63,1
+2,6,6,Marcus Stoinis,Ruturaj Gaikwad,Shivam Dube,2,0,,,,,65,1
+2,7,1,Ravi Bishnoi,Shivam Dube,Ruturaj Gaikwad,2,0,,,,,67,1
+2,7,2,Ravi Bishnoi,Shivam Dube,Ruturaj Gaikwad,1,0,,,,,68,1
+2,7,3,Ravi Bishnoi,Ruturaj Gaikwad,Shivam Dube,4,0,,,,,72,1
+2,7,4,Ravi Bishnoi,Ruturaj Gaikwad,Shivam Dube,1,0,,,,,73,1
+2,7,5,Ravi Bishnoi,Shivam Dube,Ruturaj Gaikwad,1,0,,,,,74,1
+2,7,6,Ravi Bishnoi,Ruturaj Gaikwad,Shivam Dube,0,0,,,,,74,1
+2,8,1,Naveen-ul-Haq,Shivam Dube,Ruturaj Gaikwad,1,0,,,,,75,1
+2,8,2,Naveen-ul-Haq,Ruturaj Gaikwad,Shivam Dube,0,0,,lbw,Ruturaj Gaikwad,Nicholas Pooran,75,2
+2,8,3,Naveen-ul-Haq,Ravindra Jadeja,Shivam Dube,0,0,,,,,75,2
+2,8,4,Naveen-ul-Haq,Ravindra Jadeja,Shivam Dube,3,0,,,,,78,2
+2,8,5,Naveen-ul-Haq,Shivam Dube,Ravindra Jadeja,1,0,,,,,79,2
+2,8,6,Naveen-ul-Haq,Ravindra Jadeja,Shivam Dube,3,0,,,,,82,2
+2,9,1,Marcus Stoinis,Ravindra Jadeja,Shivam Dube,0,0,,,,,82,2
+2,9,2,Marcus Stoinis,Ravindra Jadeja,Shivam Dube,0,0,,,,,82,2
+2,9,3,Marcus Stoinis,Ravindra Jadeja,Shivam Dube,1,0,,,,,83,2
+2,9,4,Marcus Stoinis,Shivam Dube,Ravindra Jadeja,0,0,,,,,83,2
+2,9,5,Marcus Stoinis,Shivam Dube,Ravindra Jadeja,3,0,,,,,86,2
+2,9,6,Marcus Stoinis,Ravindra Jadeja,Shivam Dube,0,0,,lbw,Ravindra Jadeja,Krunal Pandya,86,3
+2,10,1,Yash Thakur,Shivam Dube,MS Dhoni,1,0,,,,,87,3
+2,10,2,Yash Thakur,MS Dhoni,Shivam Dube,0,0,,,,,87,3
+2,10,3,Yash Thakur,MS Dhoni,Shivam Dube,1,0,,,,,88,3
+2,10,4,Yash Thakur,Shivam Dube,MS Dhoni,2,0,,,,,90,3
+2,10,5,Yash Thakur,Shivam Dube,MS Dhoni,0,0,,,,,90,3
+2,10,6,Yash Thakur,Shivam Dube,MS Dhoni,1,0,,,,,91,3
+2,11,1,Mohsin Khan,Shivam Dube,MS Dhoni,4,0,,,,,95,3
+2,11,2,Mohsin Khan,Shivam Dube,MS Dhoni,0,0,,,,,95,3
+2,11,3,Mohsin Khan,Shivam Dube,MS Dhoni,0,0,,,,,95,3
+2,11,4,Mohsin Khan,Shivam Dube,MS Dhoni,0,0,,,,,95,3
+2,11,5,Mohsin Khan,Shivam Dube,MS Dhoni,0,0,,,,,95,3
+2,11,6,Mohsin Khan,Shivam Dube,MS Dhoni,0,0,,,,,95,3
+2,12,1,Marcus Stoinis,MS Dhoni,Shivam Dube,0,0,,,,,95,3
+2,12,2,Marcus Stoinis,MS Dhoni,Shivam Dube,6,0,,,,,101,3
+2,12,3,Marcus Stoinis,MS Dhoni,Shivam Dube,1,0,,,,,102,3
+2,12,4,Marcus Stoinis,Shivam Dube,MS Dhoni,6,0,,,,,108,3
+2,12,5,Marcus Stoinis,Shivam Dube,MS Dhoni,3,0,,,,,111,3
+2,12,6,Marcus Stoinis,MS Dhoni,Shivam Dube,0,0,,,,,111,3
+2,13,1,Yash Thakur,Shivam Dube,MS Dhoni,3,0,,,,,114,3
+2,13,2,Yash Thakur,MS Dhoni,Shivam Dube,1,0,,,,,115,3
+2,13,3,Yash Thakur,Shivam Dube,MS Dhoni,2,0,,,,,117,3
+2,13,4,Yash Thakur,Shivam Dube,MS Dhoni,4,0,,,,,121,3
+2,13,5,Yash Thakur,Shivam Dube,MS Dhoni,0,1,legbye,,,,122,3
+2,13,6,Yash Thakur,Shivam Dube,MS Dhoni,0,0,,,,,122,3
+2,14,1,Naveen-ul-Haq,MS Dhoni,Shivam Dube,0,0,,,,,122,3
+2,14,2,Naveen-ul-Haq,MS Dhoni,Shivam Dube,0,0,,,,,122,3
+2,14,3,Naveen-ul-Haq,MS Dhoni,Shivam Dube,2,0,,,,,124,3
+2,14,4,Naveen-ul-Haq,MS Dhoni,Shivam Dube,0,0,,lbw,MS Dhoni,Marcus Stoinis,124,4
+2,14,5,Naveen-ul-Haq,Sameer Rizvi,Shivam Dube,3,0,,,,,127,4
+2,14,6,Naveen-ul-Haq,Shivam Dube,Sameer Rizvi,0,1,bye,,,,128,4
+2,15,1,Naveen-ul-Haq,Sameer Rizvi,Shivam Dube,4,0,,,,,132,4
+2,15,2,Naveen-ul-Haq,Sameer Rizvi,Shivam Dube,2,0,,,,,134,4
+2,15,3,Naveen-ul-Haq,Sameer Rizvi,Shivam Dube,0,0,,,,,134,4
+2,15,4,Naveen-ul-Haq,Sameer Rizvi,Shivam Dube,1,0,,,,,135,4
+2,15,5,Naveen-ul-Haq,Shivam Dube,Sameer Rizvi,0,0,,,,,135,4
+2,15,6,Naveen-ul-Haq,Shivam Dube,Sameer Rizvi,0,0,,,,,135,4
+2,16,1,Naveen-ul-Haq,Sameer Rizvi,Shivam Dube,2,0,,,,,137,4
+2,16,2,Naveen-ul-Haq,Sameer Rizvi,Shivam Dube,6,0,,,,,143,4
+2,16,3,Naveen-ul-Haq,Sameer Rizvi,Shivam Dube,0,0,,,,,143,4
+2,16,4,Naveen-ul-Haq,Sameer Rizvi,Shivam Dube,0,0,,,,,143,4
+2,16,5,Naveen-ul-Haq,Sameer Rizvi,Shivam Dube,1,0,,,,,144,4
+2,16,6,Naveen-ul-Haq,Shivam Dube,Sameer Rizvi,0,1,noball,,,,145,4
+2,16,6,Naveen-ul-Haq,Shivam Dube,Sameer Rizvi,6,0,,,,,151,4

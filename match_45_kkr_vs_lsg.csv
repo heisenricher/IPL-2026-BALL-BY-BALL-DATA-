@@ -1,0 +1,242 @@
+Innings,Over,Ball,Bowler,Batter,Non-Striker,Runs_Off_Bat,Extras,Extra_Type,Wicket_Type,Player_Dismissed,Fielder,Total_Team_Runs,Wickets_Lost
+1,0,1,Andre Russell,KL Rahul,Quinton de Kock,0,0,,,,,0,0
+1,0,2,Andre Russell,KL Rahul,Quinton de Kock,0,0,,,,,0,0
+1,0,3,Andre Russell,KL Rahul,Quinton de Kock,0,0,,,,,0,0
+1,0,4,Andre Russell,KL Rahul,Quinton de Kock,0,0,,,,,0,0
+1,0,5,Andre Russell,KL Rahul,Quinton de Kock,1,0,,,,,1,0
+1,0,6,Andre Russell,Quinton de Kock,KL Rahul,1,0,,,,,2,0
+1,1,1,Mitchell Starc,Quinton de Kock,KL Rahul,4,0,,,,,6,0
+1,1,2,Mitchell Starc,Quinton de Kock,KL Rahul,0,0,,,,,6,0
+1,1,3,Mitchell Starc,Quinton de Kock,KL Rahul,1,0,,,,,7,0
+1,1,4,Mitchell Starc,KL Rahul,Quinton de Kock,3,0,,,,,10,0
+1,1,5,Mitchell Starc,Quinton de Kock,KL Rahul,0,0,,stumped,Quinton de Kock,Phil Salt,10,1
+1,1,6,Mitchell Starc,Nicholas Pooran,KL Rahul,3,0,,,,,13,1
+1,2,1,Vaibhav Arora,Nicholas Pooran,KL Rahul,1,0,,,,,14,1
+1,2,2,Vaibhav Arora,KL Rahul,Nicholas Pooran,6,0,,,,,20,1
+1,2,3,Vaibhav Arora,KL Rahul,Nicholas Pooran,0,1,noball,,,,21,1
+1,2,3,Vaibhav Arora,KL Rahul,Nicholas Pooran,0,0,,,,,21,1
+1,2,4,Vaibhav Arora,KL Rahul,Nicholas Pooran,0,0,,,,,21,1
+1,2,5,Vaibhav Arora,KL Rahul,Nicholas Pooran,2,0,,,,,23,1
+1,2,6,Vaibhav Arora,KL Rahul,Nicholas Pooran,6,0,,,,,29,1
+1,3,1,Vaibhav Arora,Nicholas Pooran,KL Rahul,0,0,,,,,29,1
+1,3,2,Vaibhav Arora,Nicholas Pooran,KL Rahul,1,0,,,,,30,1
+1,3,3,Vaibhav Arora,KL Rahul,Nicholas Pooran,0,0,,,,,30,1
+1,3,4,Vaibhav Arora,KL Rahul,Nicholas Pooran,0,1,bye,,,,31,1
+1,3,5,Vaibhav Arora,KL Rahul,Nicholas Pooran,2,0,,,,,33,1
+1,3,6,Vaibhav Arora,KL Rahul,Nicholas Pooran,0,0,,,,,33,1
+1,4,1,Varun Chakaravarthy,Nicholas Pooran,KL Rahul,2,0,,,,,35,1
+1,4,2,Varun Chakaravarthy,Nicholas Pooran,KL Rahul,4,0,,,,,39,1
+1,4,3,Varun Chakaravarthy,Nicholas Pooran,KL Rahul,1,0,,,,,40,1
+1,4,4,Varun Chakaravarthy,KL Rahul,Nicholas Pooran,2,0,,,,,42,1
+1,4,5,Varun Chakaravarthy,KL Rahul,Nicholas Pooran,0,1,noball,,,,43,1
+1,4,5,Varun Chakaravarthy,KL Rahul,Nicholas Pooran,0,0,,,,,43,1
+1,4,6,Varun Chakaravarthy,KL Rahul,Nicholas Pooran,4,0,,,,,47,1
+1,5,1,Harshit Rana,Nicholas Pooran,KL Rahul,0,0,,,,,47,1
+1,5,2,Harshit Rana,Nicholas Pooran,KL Rahul,4,0,,,,,51,1
+1,5,3,Harshit Rana,Nicholas Pooran,KL Rahul,4,0,,,,,55,1
+1,5,4,Harshit Rana,Nicholas Pooran,KL Rahul,0,0,,,,,55,1
+1,5,5,Harshit Rana,Nicholas Pooran,KL Rahul,0,0,,,,,55,1
+1,5,6,Harshit Rana,Nicholas Pooran,KL Rahul,3,0,,,,,58,1
+1,6,1,Varun Chakaravarthy,Nicholas Pooran,KL Rahul,0,0,,,,,58,1
+1,6,2,Varun Chakaravarthy,Nicholas Pooran,KL Rahul,0,0,,,,,58,1
+1,6,3,Varun Chakaravarthy,Nicholas Pooran,KL Rahul,0,1,legbye,,,,59,1
+1,6,4,Varun Chakaravarthy,Nicholas Pooran,KL Rahul,1,0,,,,,60,1
+1,6,5,Varun Chakaravarthy,KL Rahul,Nicholas Pooran,0,0,,,,,60,1
+1,6,6,Varun Chakaravarthy,KL Rahul,Nicholas Pooran,0,1,noball,,,,61,1
+1,6,6,Varun Chakaravarthy,KL Rahul,Nicholas Pooran,2,0,,,,,63,1
+1,7,1,Andre Russell,Nicholas Pooran,KL Rahul,2,0,,,,,65,1
+1,7,2,Andre Russell,Nicholas Pooran,KL Rahul,0,0,,,,,65,1
+1,7,3,Andre Russell,Nicholas Pooran,KL Rahul,2,0,,,,,67,1
+1,7,4,Andre Russell,Nicholas Pooran,KL Rahul,2,0,,,,,69,1
+1,7,5,Andre Russell,Nicholas Pooran,KL Rahul,1,0,,,,,70,1
+1,7,6,Andre Russell,KL Rahul,Nicholas Pooran,4,0,,,,,74,1
+1,8,1,Varun Chakaravarthy,Nicholas Pooran,KL Rahul,0,0,,,,,74,1
+1,8,2,Varun Chakaravarthy,Nicholas Pooran,KL Rahul,0,0,,,,,74,1
+1,8,3,Varun Chakaravarthy,Nicholas Pooran,KL Rahul,2,0,,,,,76,1
+1,8,4,Varun Chakaravarthy,Nicholas Pooran,KL Rahul,4,0,,,,,80,1
+1,8,5,Varun Chakaravarthy,Nicholas Pooran,KL Rahul,1,0,,,,,81,1
+1,8,6,Varun Chakaravarthy,KL Rahul,Nicholas Pooran,0,0,,,,,81,1
+1,9,1,Varun Chakaravarthy,Nicholas Pooran,KL Rahul,0,0,,bowled,Nicholas Pooran,Angkrish Raghuvanshi,81,2
+1,9,2,Varun Chakaravarthy,Marcus Stoinis,KL Rahul,1,0,,,,,82,2
+1,9,3,Varun Chakaravarthy,KL Rahul,Marcus Stoinis,1,0,,,,,83,2
+1,9,4,Varun Chakaravarthy,Marcus Stoinis,KL Rahul,0,0,,,,,83,2
+1,9,5,Varun Chakaravarthy,Marcus Stoinis,KL Rahul,1,0,,,,,84,2
+1,9,6,Varun Chakaravarthy,KL Rahul,Marcus Stoinis,0,0,,,,,84,2
+1,10,1,Andre Russell,Marcus Stoinis,KL Rahul,2,0,,,,,86,2
+1,10,2,Andre Russell,Marcus Stoinis,KL Rahul,4,0,,,,,90,2
+1,10,3,Andre Russell,Marcus Stoinis,KL Rahul,1,0,,,,,91,2
+1,10,4,Andre Russell,KL Rahul,Marcus Stoinis,0,0,,,,,91,2
+1,10,5,Andre Russell,KL Rahul,Marcus Stoinis,1,0,,,,,92,2
+1,10,6,Andre Russell,Marcus Stoinis,KL Rahul,2,0,,,,,94,2
+1,11,1,Sunil Narine,KL Rahul,Marcus Stoinis,0,0,,,,,94,2
+1,11,2,Sunil Narine,KL Rahul,Marcus Stoinis,4,0,,,,,98,2
+1,11,3,Sunil Narine,KL Rahul,Marcus Stoinis,4,0,,,,,102,2
+1,11,4,Sunil Narine,KL Rahul,Marcus Stoinis,2,0,,,,,104,2
+1,11,5,Sunil Narine,KL Rahul,Marcus Stoinis,0,0,,,,,104,2
+1,11,6,Sunil Narine,KL Rahul,Marcus Stoinis,2,0,,,,,106,2
+1,12,1,Mitchell Starc,Marcus Stoinis,KL Rahul,3,0,,,,,109,2
+1,12,2,Mitchell Starc,KL Rahul,Marcus Stoinis,0,0,,,,,109,2
+1,12,3,Mitchell Starc,KL Rahul,Marcus Stoinis,1,0,,,,,110,2
+1,12,4,Mitchell Starc,Marcus Stoinis,KL Rahul,6,0,,,,,116,2
+1,12,5,Mitchell Starc,Marcus Stoinis,KL Rahul,0,0,,,,,116,2
+1,12,6,Mitchell Starc,Marcus Stoinis,KL Rahul,1,0,,,,,117,2
+1,13,1,Andre Russell,Marcus Stoinis,KL Rahul,1,0,,,,,118,2
+1,13,2,Andre Russell,KL Rahul,Marcus Stoinis,1,0,,,,,119,2
+1,13,3,Andre Russell,Marcus Stoinis,KL Rahul,2,0,,,,,121,2
+1,13,4,Andre Russell,Marcus Stoinis,KL Rahul,2,0,,,,,123,2
+1,13,5,Andre Russell,Marcus Stoinis,KL Rahul,0,0,,,,,123,2
+1,13,6,Andre Russell,Marcus Stoinis,KL Rahul,0,0,,,,,123,2
+1,14,1,Vaibhav Arora,KL Rahul,Marcus Stoinis,6,0,,,,,129,2
+1,14,2,Vaibhav Arora,KL Rahul,Marcus Stoinis,1,0,,,,,130,2
+1,14,3,Vaibhav Arora,Marcus Stoinis,KL Rahul,0,0,,,,,130,2
+1,14,4,Vaibhav Arora,Marcus Stoinis,KL Rahul,4,0,,,,,134,2
+1,14,5,Vaibhav Arora,Marcus Stoinis,KL Rahul,0,0,,,,,134,2
+1,14,6,Vaibhav Arora,Marcus Stoinis,KL Rahul,3,0,,,,,137,2
+1,15,1,Vaibhav Arora,Marcus Stoinis,KL Rahul,1,0,,,,,138,2
+1,15,2,Vaibhav Arora,KL Rahul,Marcus Stoinis,0,0,,,,,138,2
+1,15,3,Vaibhav Arora,KL Rahul,Marcus Stoinis,2,0,,,,,140,2
+1,15,4,Vaibhav Arora,KL Rahul,Marcus Stoinis,0,0,,,,,140,2
+1,15,5,Vaibhav Arora,KL Rahul,Marcus Stoinis,0,0,,,,,140,2
+1,15,6,Vaibhav Arora,KL Rahul,Marcus Stoinis,3,0,,,,,143,2
+1,16,1,Vaibhav Arora,KL Rahul,Marcus Stoinis,0,0,,,,,143,2
+1,16,2,Vaibhav Arora,KL Rahul,Marcus Stoinis,3,0,,,,,146,2
+1,16,3,Vaibhav Arora,Marcus Stoinis,KL Rahul,0,0,,,,,146,2
+1,16,4,Vaibhav Arora,Marcus Stoinis,KL Rahul,0,0,,,,,146,2
+1,16,5,Vaibhav Arora,Marcus Stoinis,KL Rahul,4,0,,,,,150,2
+1,16,6,Vaibhav Arora,Marcus Stoinis,KL Rahul,1,0,,,,,151,2
+1,17,1,Mitchell Starc,Marcus Stoinis,KL Rahul,4,0,,,,,155,2
+1,17,2,Mitchell Starc,Marcus Stoinis,KL Rahul,0,1,bye,,,,156,2
+1,17,3,Mitchell Starc,Marcus Stoinis,KL Rahul,0,0,,,,,156,2
+1,17,4,Mitchell Starc,Marcus Stoinis,KL Rahul,1,0,,,,,157,2
+1,17,5,Mitchell Starc,KL Rahul,Marcus Stoinis,3,0,,,,,160,2
+1,17,6,Mitchell Starc,Marcus Stoinis,KL Rahul,3,0,,,,,163,2
+1,18,1,Andre Russell,Marcus Stoinis,KL Rahul,6,0,,,,,169,2
+1,18,2,Andre Russell,Marcus Stoinis,KL Rahul,0,0,,,,,169,2
+1,18,3,Andre Russell,Marcus Stoinis,KL Rahul,1,0,,,,,170,2
+1,18,4,Andre Russell,KL Rahul,Marcus Stoinis,0,0,,,,,170,2
+1,18,5,Andre Russell,KL Rahul,Marcus Stoinis,0,0,,,,,170,2
+1,18,6,Andre Russell,KL Rahul,Marcus Stoinis,1,0,,,,,171,2
+1,19,1,Vaibhav Arora,KL Rahul,Marcus Stoinis,1,0,,,,,172,2
+1,19,2,Vaibhav Arora,Marcus Stoinis,KL Rahul,1,0,,,,,173,2
+1,19,3,Vaibhav Arora,KL Rahul,Marcus Stoinis,2,0,,,,,175,2
+1,19,4,Vaibhav Arora,KL Rahul,Marcus Stoinis,2,0,,,,,177,2
+1,19,5,Vaibhav Arora,KL Rahul,Marcus Stoinis,3,0,,,,,180,2
+1,19,6,Vaibhav Arora,Marcus Stoinis,KL Rahul,0,0,,,,,180,2
+2,0,1,Yash Thakur,Shreyas Iyer,Rinku Singh,2,0,,,,,2,0
+2,0,2,Yash Thakur,Shreyas Iyer,Rinku Singh,0,0,,,,,2,0
+2,0,3,Yash Thakur,Shreyas Iyer,Rinku Singh,0,0,,,,,2,0
+2,0,4,Yash Thakur,Shreyas Iyer,Rinku Singh,4,0,,,,,6,0
+2,0,5,Yash Thakur,Shreyas Iyer,Rinku Singh,0,1,legbye,,,,7,0
+2,0,6,Yash Thakur,Shreyas Iyer,Rinku Singh,1,0,,,,,8,0
+2,1,1,Ravi Bishnoi,Shreyas Iyer,Rinku Singh,1,0,,,,,9,0
+2,1,2,Ravi Bishnoi,Rinku Singh,Shreyas Iyer,1,0,,,,,10,0
+2,1,3,Ravi Bishnoi,Shreyas Iyer,Rinku Singh,0,0,,,,,10,0
+2,1,4,Ravi Bishnoi,Shreyas Iyer,Rinku Singh,2,0,,,,,12,0
+2,1,5,Ravi Bishnoi,Shreyas Iyer,Rinku Singh,3,0,,,,,15,0
+2,1,6,Ravi Bishnoi,Rinku Singh,Shreyas Iyer,1,0,,,,,16,0
+2,2,1,Ravi Bishnoi,Rinku Singh,Shreyas Iyer,0,0,,,,,16,0
+2,2,2,Ravi Bishnoi,Rinku Singh,Shreyas Iyer,4,0,,,,,20,0
+2,2,3,Ravi Bishnoi,Rinku Singh,Shreyas Iyer,0,0,,,,,20,0
+2,2,4,Ravi Bishnoi,Rinku Singh,Shreyas Iyer,0,0,,,,,20,0
+2,2,5,Ravi Bishnoi,Rinku Singh,Shreyas Iyer,0,0,,,,,20,0
+2,2,6,Ravi Bishnoi,Rinku Singh,Shreyas Iyer,3,0,,,,,23,0
+2,3,1,Yash Thakur,Rinku Singh,Shreyas Iyer,1,0,,,,,24,0
+2,3,2,Yash Thakur,Shreyas Iyer,Rinku Singh,3,0,,,,,27,0
+2,3,3,Yash Thakur,Rinku Singh,Shreyas Iyer,4,0,,,,,31,0
+2,3,4,Yash Thakur,Rinku Singh,Shreyas Iyer,3,0,,,,,34,0
+2,3,5,Yash Thakur,Shreyas Iyer,Rinku Singh,3,0,,,,,37,0
+2,3,6,Yash Thakur,Rinku Singh,Shreyas Iyer,1,0,,,,,38,0
+2,4,1,Marcus Stoinis,Rinku Singh,Shreyas Iyer,1,0,,,,,39,0
+2,4,2,Marcus Stoinis,Shreyas Iyer,Rinku Singh,0,0,,,,,39,0
+2,4,3,Marcus Stoinis,Shreyas Iyer,Rinku Singh,4,0,,,,,43,0
+2,4,4,Marcus Stoinis,Shreyas Iyer,Rinku Singh,0,0,,,,,43,0
+2,4,5,Marcus Stoinis,Shreyas Iyer,Rinku Singh,1,0,,,,,44,0
+2,4,6,Marcus Stoinis,Rinku Singh,Shreyas Iyer,0,1,noball,,,,45,0
+2,4,6,Marcus Stoinis,Rinku Singh,Shreyas Iyer,6,0,,,,,51,0
+2,5,1,Marcus Stoinis,Shreyas Iyer,Rinku Singh,3,0,,,,,54,0
+2,5,2,Marcus Stoinis,Rinku Singh,Shreyas Iyer,2,0,,,,,56,0
+2,5,3,Marcus Stoinis,Rinku Singh,Shreyas Iyer,0,0,,,,,56,0
+2,5,4,Marcus Stoinis,Rinku Singh,Shreyas Iyer,0,0,,caught,Rinku Singh,Nicholas Pooran,56,1
+2,5,5,Marcus Stoinis,Sunil Narine,Shreyas Iyer,1,0,,,,,57,1
+2,5,6,Marcus Stoinis,Shreyas Iyer,Sunil Narine,0,0,,,,,57,1
+2,6,1,Yash Thakur,Sunil Narine,Shreyas Iyer,1,0,,,,,58,1
+2,6,2,Yash Thakur,Shreyas Iyer,Sunil Narine,4,0,,,,,62,1
+2,6,3,Yash Thakur,Shreyas Iyer,Sunil Narine,0,0,,,,,62,1
+2,6,4,Yash Thakur,Shreyas Iyer,Sunil Narine,2,0,,,,,64,1
+2,6,5,Yash Thakur,Shreyas Iyer,Sunil Narine,3,0,,,,,67,1
+2,6,6,Yash Thakur,Sunil Narine,Shreyas Iyer,0,0,,,,,67,1
+2,7,1,Mohsin Khan,Shreyas Iyer,Sunil Narine,2,0,,,,,69,1
+2,7,2,Mohsin Khan,Shreyas Iyer,Sunil Narine,4,0,,,,,73,1
+2,7,3,Mohsin Khan,Shreyas Iyer,Sunil Narine,3,0,,,,,76,1
+2,7,4,Mohsin Khan,Sunil Narine,Shreyas Iyer,0,0,,,,,76,1
+2,7,5,Mohsin Khan,Sunil Narine,Shreyas Iyer,3,0,,,,,79,1
+2,7,6,Mohsin Khan,Shreyas Iyer,Sunil Narine,1,0,,,,,80,1
+2,8,1,Yash Thakur,Shreyas Iyer,Sunil Narine,1,0,,,,,81,1
+2,8,2,Yash Thakur,Sunil Narine,Shreyas Iyer,1,0,,,,,82,1
+2,8,3,Yash Thakur,Shreyas Iyer,Sunil Narine,0,1,wide,,,,83,1
+2,8,3,Yash Thakur,Shreyas Iyer,Sunil Narine,0,0,,,,,83,1
+2,8,4,Yash Thakur,Shreyas Iyer,Sunil Narine,0,0,,,,,83,1
+2,8,5,Yash Thakur,Shreyas Iyer,Sunil Narine,0,0,,stumped,Shreyas Iyer,Quinton de Kock,83,2
+2,8,6,Yash Thakur,Andre Russell,Sunil Narine,2,0,,,,,85,2
+2,9,1,Marcus Stoinis,Sunil Narine,Andre Russell,2,0,,,,,87,2
+2,9,2,Marcus Stoinis,Sunil Narine,Andre Russell,0,0,,,,,87,2
+2,9,3,Marcus Stoinis,Sunil Narine,Andre Russell,0,0,,,,,87,2
+2,9,4,Marcus Stoinis,Sunil Narine,Andre Russell,0,0,,,,,87,2
+2,9,5,Marcus Stoinis,Sunil Narine,Andre Russell,1,0,,,,,88,2
+2,9,6,Marcus Stoinis,Andre Russell,Sunil Narine,6,0,,,,,94,2
+2,10,1,Marcus Stoinis,Sunil Narine,Andre Russell,3,0,,,,,97,2
+2,10,2,Marcus Stoinis,Andre Russell,Sunil Narine,0,1,noball,,,,98,2
+2,10,2,Marcus Stoinis,Andre Russell,Sunil Narine,1,0,,,,,99,2
+2,10,3,Marcus Stoinis,Sunil Narine,Andre Russell,0,0,,,,,99,2
+2,10,4,Marcus Stoinis,Sunil Narine,Andre Russell,0,0,,,,,99,2
+2,10,5,Marcus Stoinis,Sunil Narine,Andre Russell,1,0,,,,,100,2
+2,10,6,Marcus Stoinis,Andre Russell,Sunil Narine,1,0,,,,,101,2
+2,11,1,Naveen-ul-Haq,Andre Russell,Sunil Narine,3,0,,,,,104,2
+2,11,2,Naveen-ul-Haq,Sunil Narine,Andre Russell,4,0,,,,,108,2
+2,11,3,Naveen-ul-Haq,Sunil Narine,Andre Russell,0,0,,,,,108,2
+2,11,4,Naveen-ul-Haq,Sunil Narine,Andre Russell,0,0,,,,,108,2
+2,11,5,Naveen-ul-Haq,Sunil Narine,Andre Russell,1,0,,,,,109,2
+2,11,6,Naveen-ul-Haq,Andre Russell,Sunil Narine,4,0,,,,,113,2
+2,12,1,Mohsin Khan,Sunil Narine,Andre Russell,0,1,noball,,,,114,2
+2,12,1,Mohsin Khan,Sunil Narine,Andre Russell,1,0,,,,,115,2
+2,12,2,Mohsin Khan,Andre Russell,Sunil Narine,6,0,,,,,121,2
+2,12,3,Mohsin Khan,Andre Russell,Sunil Narine,0,0,,,,,121,2
+2,12,4,Mohsin Khan,Andre Russell,Sunil Narine,3,0,,,,,124,2
+2,12,5,Mohsin Khan,Sunil Narine,Andre Russell,0,1,wide,,,,125,2
+2,12,5,Mohsin Khan,Sunil Narine,Andre Russell,2,0,,,,,127,2
+2,12,6,Mohsin Khan,Sunil Narine,Andre Russell,0,1,noball,,,,128,2
+2,12,6,Mohsin Khan,Sunil Narine,Andre Russell,1,0,,,,,129,2
+2,13,1,Ravi Bishnoi,Sunil Narine,Andre Russell,2,0,,,,,131,2
+2,13,2,Ravi Bishnoi,Sunil Narine,Andre Russell,4,0,,,,,135,2
+2,13,3,Ravi Bishnoi,Sunil Narine,Andre Russell,2,0,,,,,137,2
+2,13,4,Ravi Bishnoi,Sunil Narine,Andre Russell,0,0,,run out,Sunil Narine,Deepak Hooda,137,3
+2,13,5,Ravi Bishnoi,Phil Salt,Andre Russell,0,0,,,,,137,3
+2,13,6,Ravi Bishnoi,Phil Salt,Andre Russell,0,0,,,,,137,3
+2,14,1,Mohsin Khan,Andre Russell,Phil Salt,1,0,,,,,138,3
+2,14,2,Mohsin Khan,Phil Salt,Andre Russell,0,0,,lbw,Phil Salt,Ayush Badoni,138,4
+2,14,3,Mohsin Khan,Angkrish Raghuvanshi,Andre Russell,6,0,,,,,144,4
+2,14,4,Mohsin Khan,Angkrish Raghuvanshi,Andre Russell,0,0,,,,,144,4
+2,14,5,Mohsin Khan,Angkrish Raghuvanshi,Andre Russell,0,0,,,,,144,4
+2,14,6,Mohsin Khan,Angkrish Raghuvanshi,Andre Russell,0,0,,caught,Angkrish Raghuvanshi,KL Rahul,144,5
+2,15,1,Yash Thakur,Andre Russell,Ramandeep Singh,4,0,,,,,148,5
+2,15,2,Yash Thakur,Andre Russell,Ramandeep Singh,0,0,,,,,148,5
+2,15,3,Yash Thakur,Andre Russell,Ramandeep Singh,0,0,,,,,148,5
+2,15,4,Yash Thakur,Andre Russell,Ramandeep Singh,1,0,,,,,149,5
+2,15,5,Yash Thakur,Ramandeep Singh,Andre Russell,4,0,,,,,153,5
+2,15,6,Yash Thakur,Ramandeep Singh,Andre Russell,4,0,,,,,157,5
+2,16,1,Marcus Stoinis,Andre Russell,Ramandeep Singh,4,0,,,,,161,5
+2,16,2,Marcus Stoinis,Andre Russell,Ramandeep Singh,2,0,,,,,163,5
+2,16,3,Marcus Stoinis,Andre Russell,Ramandeep Singh,2,0,,,,,165,5
+2,16,4,Marcus Stoinis,Andre Russell,Ramandeep Singh,0,0,,,,,165,5
+2,16,5,Marcus Stoinis,Andre Russell,Ramandeep Singh,0,0,,,,,165,5
+2,16,6,Marcus Stoinis,Andre Russell,Ramandeep Singh,2,0,,,,,167,5
+2,17,1,Ravi Bishnoi,Ramandeep Singh,Andre Russell,0,0,,,,,167,5
+2,17,2,Ravi Bishnoi,Ramandeep Singh,Andre Russell,0,0,,,,,167,5
+2,17,3,Ravi Bishnoi,Ramandeep Singh,Andre Russell,6,0,,,,,173,5
+2,17,4,Ravi Bishnoi,Ramandeep Singh,Andre Russell,0,0,,,,,173,5
+2,17,5,Ravi Bishnoi,Ramandeep Singh,Andre Russell,4,0,,,,,177,5
+2,17,6,Ravi Bishnoi,Ramandeep Singh,Andre Russell,0,0,,,,,177,5
+2,18,1,Marcus Stoinis,Andre Russell,Ramandeep Singh,0,1,wide,,,,178,5
+2,18,1,Marcus Stoinis,Andre Russell,Ramandeep Singh,1,0,,,,,179,5
+2,18,2,Marcus Stoinis,Ramandeep Singh,Andre Russell,1,0,,,,,180,5
+2,18,3,Marcus Stoinis,Andre Russell,Ramandeep Singh,6,0,,,,,186,5
