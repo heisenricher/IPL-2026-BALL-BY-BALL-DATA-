@@ -1,0 +1,249 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,0.1,Punjab Kings,Gujarat Titans,Priyansh Arya,P Simran Singh,Mohammed Siraj,2,0,,,,,,,,,,2/0
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,0.2,Punjab Kings,Gujarat Titans,Priyansh Arya,P Simran Singh,Mohammed Siraj,0,0,,,,,,caught,Priyansh Arya,,,2/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,0.3,Punjab Kings,Gujarat Titans,C Connolly,P Simran Singh,Mohammed Siraj,0,0,,,,,,caught,C Connolly,,,2/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,0.4,Punjab Kings,Gujarat Titans,SS Iyer,P Simran Singh,Mohammed Siraj,0,0,,,,,,,,,,2/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,0.5,Punjab Kings,Gujarat Titans,SS Iyer,P Simran Singh,Mohammed Siraj,4,0,,,,,,,,,,6/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,0.6,Punjab Kings,Gujarat Titans,SS Iyer,P Simran Singh,Mohammed Siraj,0,0,,,,,,,,,,6/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,1.1,Punjab Kings,Gujarat Titans,P Simran Singh,SS Iyer,K Rabada,4,0,,,,,,,,,,10/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,1.2,Punjab Kings,Gujarat Titans,P Simran Singh,SS Iyer,K Rabada,4,0,,,,,,,,,,14/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,1.3,Punjab Kings,Gujarat Titans,P Simran Singh,SS Iyer,K Rabada,2,0,,,,,,,,,,16/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,1.4,Punjab Kings,Gujarat Titans,P Simran Singh,SS Iyer,K Rabada,0,0,,,,,,,,,,16/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,1.5,Punjab Kings,Gujarat Titans,P Simran Singh,SS Iyer,K Rabada,0,1,,,,1,,,,,,17/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,1.6,Punjab Kings,Gujarat Titans,SS Iyer,P Simran Singh,K Rabada,0,0,,,,,,,,,,17/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,2.1,Punjab Kings,Gujarat Titans,P Simran Singh,SS Iyer,Mohammed Siraj,0,0,,,,,,,,,,17/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,2.2,Punjab Kings,Gujarat Titans,P Simran Singh,SS Iyer,Mohammed Siraj,2,0,,,,,,,,,,19/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,2.3,Punjab Kings,Gujarat Titans,P Simran Singh,SS Iyer,Mohammed Siraj,1,0,,,,,,,,,,20/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,2.4,Punjab Kings,Gujarat Titans,SS Iyer,P Simran Singh,Mohammed Siraj,1,0,,,,,,,,,,21/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,2.5,Punjab Kings,Gujarat Titans,P Simran Singh,SS Iyer,Mohammed Siraj,1,0,,,,,,,,,,22/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,2.6,Punjab Kings,Gujarat Titans,SS Iyer,P Simran Singh,Mohammed Siraj,1,0,,,,,,,,,,23/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,3.1,Punjab Kings,Gujarat Titans,SS Iyer,P Simran Singh,K Rabada,0,0,,,,,,,,,,23/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,3.2,Punjab Kings,Gujarat Titans,SS Iyer,P Simran Singh,K Rabada,0,2,2,,,,,,,,,25/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,3.2,Punjab Kings,Gujarat Titans,P Simran Singh,SS Iyer,K Rabada,0,0,,,,,,,,,,25/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,3.3,Punjab Kings,Gujarat Titans,P Simran Singh,SS Iyer,K Rabada,0,0,,,,,,,,,,25/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,3.4,Punjab Kings,Gujarat Titans,P Simran Singh,SS Iyer,K Rabada,1,0,,,,,,,,,,26/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,3.5,Punjab Kings,Gujarat Titans,SS Iyer,P Simran Singh,K Rabada,0,0,,,,,,,,,,26/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,3.6,Punjab Kings,Gujarat Titans,SS Iyer,P Simran Singh,K Rabada,1,0,,,,,,,,,,27/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,4.1,Punjab Kings,Gujarat Titans,SS Iyer,P Simran Singh,Mohammed Siraj,0,0,,,,,,,,,,27/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,4.2,Punjab Kings,Gujarat Titans,SS Iyer,P Simran Singh,Mohammed Siraj,4,0,,,,,,,,,,31/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,4.3,Punjab Kings,Gujarat Titans,SS Iyer,P Simran Singh,Mohammed Siraj,0,0,,,,,,,,,,31/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,4.4,Punjab Kings,Gujarat Titans,SS Iyer,P Simran Singh,Mohammed Siraj,0,0,,,,,,,,,,31/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,4.5,Punjab Kings,Gujarat Titans,SS Iyer,P Simran Singh,Mohammed Siraj,0,0,,,,,,,,,,31/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,4.6,Punjab Kings,Gujarat Titans,SS Iyer,P Simran Singh,Mohammed Siraj,4,0,,,,,,,,,,35/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,5.1,Punjab Kings,Gujarat Titans,P Simran Singh,SS Iyer,K Rabada,0,0,,,,,,,,,,35/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,5.2,Punjab Kings,Gujarat Titans,P Simran Singh,SS Iyer,K Rabada,0,0,,,,,,caught,P Simran Singh,,,35/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,5.3,Punjab Kings,Gujarat Titans,N Wadhera,SS Iyer,K Rabada,0,0,,,,,,,,,,35/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,5.4,Punjab Kings,Gujarat Titans,N Wadhera,SS Iyer,K Rabada,0,0,,,,,,,,,,35/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,5.5,Punjab Kings,Gujarat Titans,N Wadhera,SS Iyer,K Rabada,0,0,,,,,,,,,,35/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,5.6,Punjab Kings,Gujarat Titans,N Wadhera,SS Iyer,K Rabada,0,0,,,,,,,,,,35/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,6.1,Punjab Kings,Gujarat Titans,SS Iyer,N Wadhera,JO Holder,1,0,,,,,,,,,,36/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,6.2,Punjab Kings,Gujarat Titans,N Wadhera,SS Iyer,JO Holder,0,0,,,,,,,,,,36/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,6.3,Punjab Kings,Gujarat Titans,N Wadhera,SS Iyer,JO Holder,0,0,,,,,,caught,N Wadhera,,,36/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,6.4,Punjab Kings,Gujarat Titans,Suryansh Shedge,SS Iyer,JO Holder,1,0,,,,,,,,,,37/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,6.5,Punjab Kings,Gujarat Titans,SS Iyer,Suryansh Shedge,JO Holder,1,0,,,,,,,,,,38/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,6.6,Punjab Kings,Gujarat Titans,Suryansh Shedge,SS Iyer,JO Holder,1,0,,,,,,,,,,39/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,7.1,Punjab Kings,Gujarat Titans,Suryansh Shedge,SS Iyer,Arshad Khan,0,0,,,,,,,,,,39/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,7.2,Punjab Kings,Gujarat Titans,Suryansh Shedge,SS Iyer,Arshad Khan,4,0,,,,,,,,,,43/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,7.3,Punjab Kings,Gujarat Titans,Suryansh Shedge,SS Iyer,Arshad Khan,1,0,,,,,,,,,,44/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,7.4,Punjab Kings,Gujarat Titans,SS Iyer,Suryansh Shedge,Arshad Khan,1,0,,,,,,,,,,45/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,7.5,Punjab Kings,Gujarat Titans,Suryansh Shedge,SS Iyer,Arshad Khan,0,0,,,,,,,,,,45/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,7.6,Punjab Kings,Gujarat Titans,Suryansh Shedge,SS Iyer,Arshad Khan,0,0,,,,,,,,,,45/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,8.1,Punjab Kings,Gujarat Titans,SS Iyer,Suryansh Shedge,JO Holder,0,0,,,,,,,,,,45/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,8.2,Punjab Kings,Gujarat Titans,SS Iyer,Suryansh Shedge,JO Holder,1,0,,,,,,,,,,46/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,8.3,Punjab Kings,Gujarat Titans,Suryansh Shedge,SS Iyer,JO Holder,1,0,,,,,,,,,,47/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,8.4,Punjab Kings,Gujarat Titans,SS Iyer,Suryansh Shedge,JO Holder,0,0,,,,,,bowled,SS Iyer,,,47/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,8.5,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,JO Holder,0,0,,,,,,,,,,47/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,8.6,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,JO Holder,0,0,,,,,,,,,,47/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,9.1,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,Rashid Khan,1,0,,,,,,,,,,48/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,9.2,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,Rashid Khan,0,0,,,,,,,,,,48/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,9.3,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,Rashid Khan,1,0,,,,,,,,,,49/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,9.4,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,Rashid Khan,1,0,,,,,,,,,,50/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,9.5,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,Rashid Khan,0,0,,,,,,,,,,50/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,9.6,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,Rashid Khan,1,0,,,,,,,,,,51/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,10.1,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,JO Holder,0,0,,,,,,,,,,51/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,10.2,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,JO Holder,1,0,,,,,,,,,,52/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,10.3,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,JO Holder,1,0,,,,,,,,,,53/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,10.4,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,JO Holder,4,0,,,,,,,,,,57/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,10.5,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,JO Holder,4,0,,,,,,,,,,61/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,10.6,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,JO Holder,1,0,,,,,,,,,,62/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,11.1,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,Rashid Khan,1,0,,,,,,,,,,63/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,11.2,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,Rashid Khan,1,0,,,,,,,,,,64/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,11.3,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,Rashid Khan,1,0,,,,,,,,,,65/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,11.4,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,Rashid Khan,1,0,,,,,,,,,,66/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,11.5,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,Rashid Khan,0,0,,,,,,,,,,66/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,11.6,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,Rashid Khan,0,0,,,,,,,,,,66/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,12.1,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,Arshad Khan,0,0,,,,,,,,,,66/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,12.2,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,Arshad Khan,6,0,,,,,,,,,,72/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,12.3,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,Arshad Khan,2,0,,,,,,,,,,74/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,12.4,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,Arshad Khan,1,0,,,,,,,,,,75/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,12.5,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,Arshad Khan,4,0,,,,,,,,,,79/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,12.6,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,Arshad Khan,0,1,1,,,,,,,,,80/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,12.6,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,Arshad Khan,1,0,,,,,,,,,,81/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,13.1,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,MJ Suthar,1,0,,,,,,,,,,82/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,13.2,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,MJ Suthar,6,0,,,,,,,,,,88/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,13.3,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,MJ Suthar,6,0,,,,,,,,,,94/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,13.4,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,MJ Suthar,4,0,,,,,,,,,,98/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,13.5,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,MJ Suthar,4,0,,,,,,,,,,102/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,13.6,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,MJ Suthar,6,0,,,,,,,,,,108/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,14.1,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,Rashid Khan,1,0,,,,,,,,,,109/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,14.2,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,Rashid Khan,1,0,,,,,,,,,,110/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,14.3,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,Rashid Khan,6,0,,,,,,,,,,116/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,14.4,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,Rashid Khan,0,0,,,,,,,,,,116/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,14.5,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,Rashid Khan,1,0,,,,,,,,,,117/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,14.6,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,Rashid Khan,1,0,,,,,,,,,,118/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,15.1,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,K Rabada,6,0,,,,,,,,,,124/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,15.2,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,K Rabada,0,0,,,,,,,,,,124/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,15.3,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,K Rabada,0,0,,,,,,,,,,124/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,15.4,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,K Rabada,1,0,,,,,,,,,,125/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,15.5,Punjab Kings,Gujarat Titans,MP Stoinis,Suryansh Shedge,K Rabada,1,0,,,,,,,,,,126/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,15.6,Punjab Kings,Gujarat Titans,Suryansh Shedge,MP Stoinis,K Rabada,0,0,,,,,,caught,Suryansh Shedge,,,126/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,16.1,Punjab Kings,Gujarat Titans,MP Stoinis,M Jansen,Mohammed Siraj,0,0,,,,,,,,,,126/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,16.2,Punjab Kings,Gujarat Titans,MP Stoinis,M Jansen,Mohammed Siraj,0,0,,,,,,,,,,126/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,16.3,Punjab Kings,Gujarat Titans,MP Stoinis,M Jansen,Mohammed Siraj,1,0,,,,,,,,,,127/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,16.4,Punjab Kings,Gujarat Titans,M Jansen,MP Stoinis,Mohammed Siraj,1,0,,,,,,,,,,128/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,16.5,Punjab Kings,Gujarat Titans,MP Stoinis,M Jansen,Mohammed Siraj,4,0,,,,,,,,,,132/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,16.6,Punjab Kings,Gujarat Titans,MP Stoinis,M Jansen,Mohammed Siraj,0,1,1,,,,,,,,,133/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,16.6,Punjab Kings,Gujarat Titans,MP Stoinis,M Jansen,Mohammed Siraj,1,0,,,,,,,,,,134/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,17.1,Punjab Kings,Gujarat Titans,MP Stoinis,M Jansen,JO Holder,1,0,,,,,,,,,,135/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,17.2,Punjab Kings,Gujarat Titans,M Jansen,MP Stoinis,JO Holder,1,0,,,,,,,,,,136/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,17.3,Punjab Kings,Gujarat Titans,MP Stoinis,M Jansen,JO Holder,4,0,,,,,,,,,,140/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,17.4,Punjab Kings,Gujarat Titans,MP Stoinis,M Jansen,JO Holder,0,1,1,,,,,,,,,141/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,17.4,Punjab Kings,Gujarat Titans,MP Stoinis,M Jansen,JO Holder,0,0,,,,,,caught,MP Stoinis,,,141/7
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,17.5,Punjab Kings,Gujarat Titans,XC Bartlett,M Jansen,JO Holder,0,0,,,,,,bowled,XC Bartlett,,,141/8
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,17.6,Punjab Kings,Gujarat Titans,Vijaykumar Vyshak,M Jansen,JO Holder,0,0,,,,,,,,,,141/8
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,18.1,Punjab Kings,Gujarat Titans,M Jansen,Vijaykumar Vyshak,Arshad Khan,0,1,1,,,,,,,,,142/8
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,18.1,Punjab Kings,Gujarat Titans,M Jansen,Vijaykumar Vyshak,Arshad Khan,2,0,,,,,,,,,,144/8
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,18.2,Punjab Kings,Gujarat Titans,M Jansen,Vijaykumar Vyshak,Arshad Khan,1,0,,,,,,,,,,145/8
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,18.3,Punjab Kings,Gujarat Titans,Vijaykumar Vyshak,M Jansen,Arshad Khan,0,0,,,,,,,,,,145/8
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,18.4,Punjab Kings,Gujarat Titans,Vijaykumar Vyshak,M Jansen,Arshad Khan,1,0,,,,,,,,,,146/8
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,18.5,Punjab Kings,Gujarat Titans,M Jansen,Vijaykumar Vyshak,Arshad Khan,2,0,,,,,,,,,,148/8
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,18.6,Punjab Kings,Gujarat Titans,M Jansen,Vijaykumar Vyshak,Arshad Khan,1,0,,,,,,,,,,149/8
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,19.1,Punjab Kings,Gujarat Titans,M Jansen,Vijaykumar Vyshak,Rashid Khan,0,0,,,,,,,,,,149/8
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,19.2,Punjab Kings,Gujarat Titans,M Jansen,Vijaykumar Vyshak,Rashid Khan,2,0,,,,,,,,,,151/8
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,19.3,Punjab Kings,Gujarat Titans,M Jansen,Vijaykumar Vyshak,Rashid Khan,6,0,,,,,,,,,,157/8
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,19.4,Punjab Kings,Gujarat Titans,M Jansen,Vijaykumar Vyshak,Rashid Khan,4,0,,,,,,,,,,161/8
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,19.5,Punjab Kings,Gujarat Titans,M Jansen,Vijaykumar Vyshak,Rashid Khan,0,1,1,,,,,,,,,162/8
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,19.5,Punjab Kings,Gujarat Titans,M Jansen,Vijaykumar Vyshak,Rashid Khan,0,0,,,,,,caught,M Jansen,,,162/9
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",1,19.6,Punjab Kings,Gujarat Titans,Arshdeep Singh,Vijaykumar Vyshak,Rashid Khan,1,0,,,,,,,,,,163/9
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,0.1,Gujarat Titans,Punjab Kings,B Sai Sudharsan,Shubman Gill,XC Bartlett,2,0,,,,,,,,,,2/0
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,0.2,Gujarat Titans,Punjab Kings,B Sai Sudharsan,Shubman Gill,XC Bartlett,4,0,,,,,,,,,,6/0
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,0.3,Gujarat Titans,Punjab Kings,B Sai Sudharsan,Shubman Gill,XC Bartlett,2,0,,,,,,,,,,8/0
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,0.4,Gujarat Titans,Punjab Kings,B Sai Sudharsan,Shubman Gill,XC Bartlett,2,0,,,,,,,,,,10/0
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,0.5,Gujarat Titans,Punjab Kings,B Sai Sudharsan,Shubman Gill,XC Bartlett,1,0,,,,,,,,,,11/0
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,0.6,Gujarat Titans,Punjab Kings,Shubman Gill,B Sai Sudharsan,XC Bartlett,1,0,,,,,,,,,,12/0
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,1.1,Gujarat Titans,Punjab Kings,Shubman Gill,B Sai Sudharsan,Arshdeep Singh,0,0,,,,,,,,,,12/0
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,1.2,Gujarat Titans,Punjab Kings,Shubman Gill,B Sai Sudharsan,Arshdeep Singh,4,0,,,,,,,,,,16/0
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,1.3,Gujarat Titans,Punjab Kings,Shubman Gill,B Sai Sudharsan,Arshdeep Singh,0,0,,,,,,caught,Shubman Gill,,,16/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,1.4,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,Arshdeep Singh,2,0,,,,,,,,,,18/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,1.5,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,Arshdeep Singh,0,0,,,,,,,,,,18/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,1.6,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,Arshdeep Singh,0,0,,,,,,,,,,18/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,2.1,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,M Jansen,0,0,,,,,,,,,,18/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,2.2,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,M Jansen,0,0,,,,,,,,,,18/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,2.3,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,M Jansen,1,0,,,,,,,,,,19/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,2.4,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,M Jansen,0,0,,,,,,,,,,19/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,2.5,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,M Jansen,6,0,,,,,,,,,,25/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,2.6,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,M Jansen,0,0,,,,,,,,,,25/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,3.1,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,Arshdeep Singh,0,0,,,,,,,,,,25/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,3.2,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,Arshdeep Singh,1,0,,,,,,,,,,26/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,3.3,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,Arshdeep Singh,1,0,,,,,,,,,,27/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,3.4,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,Arshdeep Singh,4,0,,,,,,,,,,31/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,3.5,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,Arshdeep Singh,0,0,,,,,,,,,,31/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,3.6,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,Arshdeep Singh,2,0,,,,,,,,,,33/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,4.1,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,XC Bartlett,0,0,,,,,,,,,,33/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,4.2,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,XC Bartlett,6,0,,,,,,,,,,39/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,4.3,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,XC Bartlett,0,0,,,,,,,,,,39/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,4.4,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,XC Bartlett,0,5,5,,,,,,,,,44/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,4.4,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,XC Bartlett,4,0,,,,,,,,,,48/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,4.5,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,XC Bartlett,1,0,,,,,,,,,,49/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,4.6,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,XC Bartlett,0,0,,,,,,,,,,49/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,5.1,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,M Jansen,0,0,,,,,,,,,,49/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,5.2,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,M Jansen,1,0,,,,,,,,,,50/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,5.3,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,M Jansen,0,1,1,,,,,,,,,51/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,5.3,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,M Jansen,0,0,,,,,,,,,,51/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,5.4,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,M Jansen,0,0,,,,,,,,,,51/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,5.5,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,M Jansen,6,0,,,,,,,,,,57/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,5.6,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,M Jansen,1,0,,,,,,,,,,58/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,6.1,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,Vijaykumar Vyshak,1,0,,,,,,,,,,59/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,6.2,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,Vijaykumar Vyshak,1,0,,,,,,,,,,60/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,6.3,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,Vijaykumar Vyshak,1,0,,,,,,,,,,61/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,6.4,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,Vijaykumar Vyshak,1,0,,,,,,,,,,62/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,6.5,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,Vijaykumar Vyshak,1,0,,,,,,,,,,63/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,6.6,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,Vijaykumar Vyshak,0,1,,,,1,,,,,,64/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,7.1,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,MP Stoinis,0,0,,,,,,,,,,64/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,7.2,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,MP Stoinis,1,0,,,,,,,,,,65/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,7.3,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,MP Stoinis,1,0,,,,,,,,,,66/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,7.4,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,MP Stoinis,1,0,,,,,,,,,,67/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,7.5,Gujarat Titans,Punjab Kings,B Sai Sudharsan,JC Buttler,MP Stoinis,1,0,,,,,,,,,,68/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,7.6,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,MP Stoinis,1,0,,,,,,,,,,69/1
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,8.1,Gujarat Titans,Punjab Kings,JC Buttler,B Sai Sudharsan,Vijaykumar Vyshak,0,0,,,,,,caught,JC Buttler,,,69/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,8.2,Gujarat Titans,Punjab Kings,N Sindhu,B Sai Sudharsan,Vijaykumar Vyshak,1,0,,,,,,,,,,70/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,8.3,Gujarat Titans,Punjab Kings,B Sai Sudharsan,N Sindhu,Vijaykumar Vyshak,1,0,,,,,,,,,,71/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,8.4,Gujarat Titans,Punjab Kings,N Sindhu,B Sai Sudharsan,Vijaykumar Vyshak,0,0,,,,,,,,,,71/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,8.5,Gujarat Titans,Punjab Kings,N Sindhu,B Sai Sudharsan,Vijaykumar Vyshak,1,0,,,,,,,,,,72/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,8.6,Gujarat Titans,Punjab Kings,B Sai Sudharsan,N Sindhu,Vijaykumar Vyshak,1,0,,,,,,,,,,73/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,9.1,Gujarat Titans,Punjab Kings,B Sai Sudharsan,N Sindhu,M Jansen,0,0,,,,,,,,,,73/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,9.2,Gujarat Titans,Punjab Kings,B Sai Sudharsan,N Sindhu,M Jansen,1,0,,,,,,,,,,74/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,9.3,Gujarat Titans,Punjab Kings,N Sindhu,B Sai Sudharsan,M Jansen,2,0,,,,,,,,,,76/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,9.4,Gujarat Titans,Punjab Kings,N Sindhu,B Sai Sudharsan,M Jansen,0,0,,,,,,,,,,76/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,9.5,Gujarat Titans,Punjab Kings,N Sindhu,B Sai Sudharsan,M Jansen,1,0,,,,,,,,,,77/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,9.6,Gujarat Titans,Punjab Kings,B Sai Sudharsan,N Sindhu,M Jansen,1,0,,,,,,,,,,78/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,10.1,Gujarat Titans,Punjab Kings,B Sai Sudharsan,N Sindhu,Vijaykumar Vyshak,1,0,,,,,,,,,,79/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,10.2,Gujarat Titans,Punjab Kings,N Sindhu,B Sai Sudharsan,Vijaykumar Vyshak,2,0,,,,,,,,,,81/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,10.3,Gujarat Titans,Punjab Kings,N Sindhu,B Sai Sudharsan,Vijaykumar Vyshak,6,0,,,,,,,,,,87/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,10.4,Gujarat Titans,Punjab Kings,N Sindhu,B Sai Sudharsan,Vijaykumar Vyshak,1,0,,,,,,,,,,88/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,10.5,Gujarat Titans,Punjab Kings,B Sai Sudharsan,N Sindhu,Vijaykumar Vyshak,0,0,,,,,,,,,,88/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,10.6,Gujarat Titans,Punjab Kings,B Sai Sudharsan,N Sindhu,Vijaykumar Vyshak,4,0,,,,,,,,,,92/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,11.1,Gujarat Titans,Punjab Kings,N Sindhu,B Sai Sudharsan,MP Stoinis,1,0,,,,,,,,,,93/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,11.2,Gujarat Titans,Punjab Kings,B Sai Sudharsan,N Sindhu,MP Stoinis,1,0,,,,,,,,,,94/2
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,11.3,Gujarat Titans,Punjab Kings,N Sindhu,B Sai Sudharsan,MP Stoinis,0,0,,,,,,caught,N Sindhu,,,94/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,11.4,Gujarat Titans,Punjab Kings,Washington Sundar,B Sai Sudharsan,MP Stoinis,0,0,,,,,,,,,,94/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,11.5,Gujarat Titans,Punjab Kings,Washington Sundar,B Sai Sudharsan,MP Stoinis,4,0,,,,,,,,,,98/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,11.6,Gujarat Titans,Punjab Kings,Washington Sundar,B Sai Sudharsan,MP Stoinis,1,0,,,,,,,,,,99/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,12.1,Gujarat Titans,Punjab Kings,Washington Sundar,B Sai Sudharsan,Arshdeep Singh,1,0,,,,,,,,,,100/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,12.2,Gujarat Titans,Punjab Kings,B Sai Sudharsan,Washington Sundar,Arshdeep Singh,1,0,,,,,,,,,,101/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,12.3,Gujarat Titans,Punjab Kings,Washington Sundar,B Sai Sudharsan,Arshdeep Singh,0,0,,,,,,,,,,101/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,12.4,Gujarat Titans,Punjab Kings,Washington Sundar,B Sai Sudharsan,Arshdeep Singh,0,0,,,,,,,,,,101/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,12.5,Gujarat Titans,Punjab Kings,Washington Sundar,B Sai Sudharsan,Arshdeep Singh,0,0,,,,,,,,,,101/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,12.6,Gujarat Titans,Punjab Kings,Washington Sundar,B Sai Sudharsan,Arshdeep Singh,2,0,,,,,,,,,,103/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,13.1,Gujarat Titans,Punjab Kings,B Sai Sudharsan,Washington Sundar,YS Chahal,2,0,,,,,,,,,,105/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,13.2,Gujarat Titans,Punjab Kings,B Sai Sudharsan,Washington Sundar,YS Chahal,4,0,,,,,,,,,,109/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,13.3,Gujarat Titans,Punjab Kings,B Sai Sudharsan,Washington Sundar,YS Chahal,1,0,,,,,,,,,,110/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,13.4,Gujarat Titans,Punjab Kings,Washington Sundar,B Sai Sudharsan,YS Chahal,1,0,,,,,,,,,,111/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,13.5,Gujarat Titans,Punjab Kings,B Sai Sudharsan,Washington Sundar,YS Chahal,4,0,,,,,,,,,,115/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,13.6,Gujarat Titans,Punjab Kings,B Sai Sudharsan,Washington Sundar,YS Chahal,1,0,,,,,,,,,,116/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,14.1,Gujarat Titans,Punjab Kings,B Sai Sudharsan,Washington Sundar,Vijaykumar Vyshak,1,0,,,,,,,,,,117/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,14.2,Gujarat Titans,Punjab Kings,Washington Sundar,B Sai Sudharsan,Vijaykumar Vyshak,4,0,,,,,,,,,,121/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,14.3,Gujarat Titans,Punjab Kings,Washington Sundar,B Sai Sudharsan,Vijaykumar Vyshak,1,0,,,,,,,,,,122/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,14.4,Gujarat Titans,Punjab Kings,B Sai Sudharsan,Washington Sundar,Vijaykumar Vyshak,2,0,,,,,,,,,,124/3
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,14.5,Gujarat Titans,Punjab Kings,B Sai Sudharsan,Washington Sundar,Vijaykumar Vyshak,0,0,,,,,,caught,B Sai Sudharsan,,,124/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,14.6,Gujarat Titans,Punjab Kings,R Tewatia,Washington Sundar,Vijaykumar Vyshak,0,0,,,,,,,,,,124/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,15.1,Gujarat Titans,Punjab Kings,Washington Sundar,R Tewatia,XC Bartlett,1,0,,,,,,,,,,125/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,15.2,Gujarat Titans,Punjab Kings,R Tewatia,Washington Sundar,XC Bartlett,1,0,,,,,,,,,,126/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,15.3,Gujarat Titans,Punjab Kings,Washington Sundar,R Tewatia,XC Bartlett,1,0,,,,,,,,,,127/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,15.4,Gujarat Titans,Punjab Kings,R Tewatia,Washington Sundar,XC Bartlett,0,0,,,,,,,,,,127/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,15.5,Gujarat Titans,Punjab Kings,R Tewatia,Washington Sundar,XC Bartlett,0,1,,,,1,,,,,,128/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,15.6,Gujarat Titans,Punjab Kings,Washington Sundar,R Tewatia,XC Bartlett,0,0,,,,,,,,,,128/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,16.1,Gujarat Titans,Punjab Kings,R Tewatia,Washington Sundar,M Jansen,1,0,,,,,,,,,,129/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,16.2,Gujarat Titans,Punjab Kings,Washington Sundar,R Tewatia,M Jansen,4,0,,,,,,,,,,133/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,16.3,Gujarat Titans,Punjab Kings,Washington Sundar,R Tewatia,M Jansen,4,0,,,,,,,,,,137/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,16.4,Gujarat Titans,Punjab Kings,Washington Sundar,R Tewatia,M Jansen,2,0,,,,,,,,,,139/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,16.5,Gujarat Titans,Punjab Kings,Washington Sundar,R Tewatia,M Jansen,1,0,,,,,,,,,,140/4
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,16.6,Gujarat Titans,Punjab Kings,R Tewatia,Washington Sundar,M Jansen,0,0,,,,,,caught,R Tewatia,,,140/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,17.1,Gujarat Titans,Punjab Kings,Washington Sundar,JO Holder,XC Bartlett,4,0,,,,,,,,,,144/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,17.2,Gujarat Titans,Punjab Kings,Washington Sundar,JO Holder,XC Bartlett,1,0,,,,,,,,,,145/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,17.3,Gujarat Titans,Punjab Kings,JO Holder,Washington Sundar,XC Bartlett,2,0,,,,,,,,,,147/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,17.4,Gujarat Titans,Punjab Kings,JO Holder,Washington Sundar,XC Bartlett,0,0,,,,,,,,,,147/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,17.5,Gujarat Titans,Punjab Kings,JO Holder,Washington Sundar,XC Bartlett,0,0,,,,,,,,,,147/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,17.6,Gujarat Titans,Punjab Kings,JO Holder,Washington Sundar,XC Bartlett,0,0,,,,,,,,,,147/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,18.1,Gujarat Titans,Punjab Kings,Washington Sundar,JO Holder,Arshdeep Singh,1,0,,,,,,,,,,148/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,18.2,Gujarat Titans,Punjab Kings,JO Holder,Washington Sundar,Arshdeep Singh,2,0,,,,,,,,,,150/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,18.3,Gujarat Titans,Punjab Kings,JO Holder,Washington Sundar,Arshdeep Singh,1,0,,,,,,,,,,151/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,18.4,Gujarat Titans,Punjab Kings,Washington Sundar,JO Holder,Arshdeep Singh,1,0,,,,,,,,,,152/5
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,18.5,Gujarat Titans,Punjab Kings,JO Holder,Washington Sundar,Arshdeep Singh,0,0,,,,,,caught,JO Holder,,,152/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,18.6,Gujarat Titans,Punjab Kings,Arshad Khan,Washington Sundar,Arshdeep Singh,1,0,,,,,,,,,,153/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,19.1,Gujarat Titans,Punjab Kings,Arshad Khan,Washington Sundar,MP Stoinis,0,1,1,,,,,,,,,154/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,19.1,Gujarat Titans,Punjab Kings,Arshad Khan,Washington Sundar,MP Stoinis,4,0,,,,,,,,,,158/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,19.2,Gujarat Titans,Punjab Kings,Arshad Khan,Washington Sundar,MP Stoinis,2,0,,,,,,,,,,160/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,19.3,Gujarat Titans,Punjab Kings,Arshad Khan,Washington Sundar,MP Stoinis,0,0,,,,,,,,,,160/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,19.4,Gujarat Titans,Punjab Kings,Arshad Khan,Washington Sundar,MP Stoinis,1,0,,,,,,,,,,161/6
+46,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",2,19.5,Gujarat Titans,Punjab Kings,Washington Sundar,Arshad Khan,MP Stoinis,6,0,,,,,,,,,,167/6

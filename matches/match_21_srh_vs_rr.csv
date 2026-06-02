@@ -1,0 +1,252 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.1,Sunrisers Hyderabad,Rajasthan Royals,Abhishek Sharma,TM Head,JC Archer,0,0,,,,,,caught,Abhishek Sharma,,,0/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.2,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,JC Archer,0,0,,,,,,,,,,0/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.3,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,JC Archer,0,0,,,,,,,,,,0/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.4,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,JC Archer,2,0,,,,,,,,,,2/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.5,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,JC Archer,0,0,,,,,,,,,,2/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.6,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,JC Archer,0,0,,,,,,,,,,2/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.1,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,N Burger,0,0,,,,,,,,,,2/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.2,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,N Burger,0,0,,,,,,,,,,2/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.3,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,N Burger,0,0,,,,,,,,,,2/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.4,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,N Burger,4,0,,,,,,,,,,6/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.5,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,N Burger,0,0,,,,,,,,,,6/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.6,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,N Burger,0,0,,,,,,,,,,6/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.1,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,JC Archer,0,0,,,,,,,,,,6/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.2,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,JC Archer,4,0,,,,,,,,,,10/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.3,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,JC Archer,0,0,,,,,,,,,,10/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.4,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,JC Archer,6,0,,,,,,,,,,16/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.5,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,JC Archer,0,0,,,,,,,,,,16/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.6,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,JC Archer,0,0,,,,,,,,,,16/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.1,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,N Burger,4,0,,,,,,,,,,20/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.2,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,N Burger,1,0,,,,,,,,,,21/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.3,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,N Burger,6,0,,,,,,,,,,27/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.4,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,N Burger,1,0,,,,,,,,,,28/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.5,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,N Burger,0,0,,,,,,,,,,28/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.6,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,N Burger,0,0,,,,,,,,,,28/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.1,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,Sandeep Sharma,0,0,,,,,,,,,,28/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.2,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,Sandeep Sharma,2,0,,,,,,,,,,30/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.3,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,Sandeep Sharma,2,0,,,,,,,,,,32/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.4,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,Sandeep Sharma,6,0,,,,,,,,,,38/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.5,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,Sandeep Sharma,1,0,,,,,,,,,,39/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.6,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,Sandeep Sharma,1,0,,,,,,,,,,40/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.1,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,TU Deshpande,1,0,,,,,,,,,,41/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.2,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,TU Deshpande,4,0,,,,,,,,,,45/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.3,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,TU Deshpande,1,0,,,,,,,,,,46/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.4,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,TU Deshpande,0,0,,,,,,,,,,46/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.5,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,TU Deshpande,4,0,,,,,,,,,,50/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.6,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,TU Deshpande,1,0,,,,,,,,,,51/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.1,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,R Parag,1,0,,,,,,,,,,52/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.2,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,R Parag,1,0,,,,,,,,,,53/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.3,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,R Parag,1,0,,,,,,,,,,54/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.4,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,TM Head,R Parag,1,0,,,,,,,,,,55/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.5,Sunrisers Hyderabad,Rajasthan Royals,TM Head,Ishan Kishan,R Parag,0,0,,,,,,caught,TM Head,,,55/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.6,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,R Parag,1,0,,,,,,,,,,56/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.1,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,Ravi Bishnoi,1,0,,,,,,,,,,57/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.2,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,Ravi Bishnoi,1,0,,,,,,,,,,58/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.3,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,Ravi Bishnoi,1,0,,,,,,,,,,59/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.4,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,Ravi Bishnoi,1,0,,,,,,,,,,60/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.5,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,Ravi Bishnoi,1,0,,,,,,,,,,61/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.6,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,Ravi Bishnoi,1,0,,,,,,,,,,62/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.1,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,Sandeep Sharma,1,0,,,,,,,,,,63/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.2,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,Sandeep Sharma,1,0,,,,,,,,,,64/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.3,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,Sandeep Sharma,0,1,1,,,,,,,,,65/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.3,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,Sandeep Sharma,6,0,,,,,,,,,,71/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.4,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,Sandeep Sharma,1,0,,,,,,,,,,72/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.5,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,Sandeep Sharma,0,0,,,,,,,,,,72/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.6,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,Sandeep Sharma,1,0,,,,,,,,,,73/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.1,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,Ravi Bishnoi,1,0,,,,,,,,,,74/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.2,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,Ravi Bishnoi,1,0,,,,,,,,,,75/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.3,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,Ravi Bishnoi,6,0,,,,,,,,,,81/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.4,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,Ravi Bishnoi,1,0,,,,,,,,,,82/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.5,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,Ravi Bishnoi,6,0,,,,,,,,,,88/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.6,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,Ravi Bishnoi,1,0,,,,,,,,,,89/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.1,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,TU Deshpande,0,0,,,,,,,,,,89/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.2,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,TU Deshpande,4,0,,,,,,,,,,93/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.3,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,TU Deshpande,0,1,1,,,,,,,,,94/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.3,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,TU Deshpande,6,0,,,,,,,,,,100/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.4,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,TU Deshpande,4,0,,,,,,,,,,104/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.5,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,TU Deshpande,2,0,,,,,,,,,,106/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.6,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,TU Deshpande,4,0,,,,,,,,,,110/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.1,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,Ravi Bishnoi,1,0,,,,,,,,,,111/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.2,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,Ravi Bishnoi,1,0,,,,,,,,,,112/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.3,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,Ravi Bishnoi,0,0,,,,,,,,,,112/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.4,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,Ravi Bishnoi,6,0,,,,,,,,,,118/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.5,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,Ravi Bishnoi,3,0,,,,,,,,,,121/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.6,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,Ravi Bishnoi,2,0,,,,,,,,,,123/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.1,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,JC Archer,4,0,,,,,,,,,,127/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.2,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,JC Archer,1,0,,,,,,,,,,128/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.3,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,JC Archer,0,0,,,,,,,,,,128/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.4,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,JC Archer,4,0,,,,,,,,,,132/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.5,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,JC Archer,4,0,,,,,,,,,,136/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.6,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,JC Archer,4,0,,,,,,,,,,140/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.1,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,Sandeep Sharma,0,1,1,,,,,,,,,141/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.1,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,Sandeep Sharma,0,1,1,,,,,,,,,142/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.1,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Ishan Kishan,Sandeep Sharma,1,0,,,,,,,,,,143/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.2,Sunrisers Hyderabad,Rajasthan Royals,Ishan Kishan,H Klaasen,Sandeep Sharma,0,0,,,,,,caught and bowled,Ishan Kishan,,,143/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.3,Sunrisers Hyderabad,Rajasthan Royals,Nithish Kumar Reddy,H Klaasen,Sandeep Sharma,0,0,,,,,,,,,,143/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.4,Sunrisers Hyderabad,Rajasthan Royals,Nithish Kumar Reddy,H Klaasen,Sandeep Sharma,0,0,,,,,,,,,,143/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.5,Sunrisers Hyderabad,Rajasthan Royals,Nithish Kumar Reddy,H Klaasen,Sandeep Sharma,1,0,,,,,,,,,,144/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.6,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Nithish Kumar Reddy,Sandeep Sharma,1,0,,,,,,,,,,145/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.1,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Nithish Kumar Reddy,N Burger,1,0,,,,,,,,,,146/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.2,Sunrisers Hyderabad,Rajasthan Royals,Nithish Kumar Reddy,H Klaasen,N Burger,1,0,,,,,,,,,,147/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.3,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Nithish Kumar Reddy,N Burger,0,0,,,,,,,,,,147/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.4,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Nithish Kumar Reddy,N Burger,0,0,,,,,,,,,,147/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.5,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Nithish Kumar Reddy,N Burger,6,0,,,,,,,,,,153/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.6,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Nithish Kumar Reddy,N Burger,1,0,,,,,,,,,,154/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.1,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Nithish Kumar Reddy,TU Deshpande,0,0,,,,,,,,,,154/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.2,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Nithish Kumar Reddy,TU Deshpande,1,0,,,,,,,,,,155/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.3,Sunrisers Hyderabad,Rajasthan Royals,Nithish Kumar Reddy,H Klaasen,TU Deshpande,6,0,,,,,,,,,,161/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.4,Sunrisers Hyderabad,Rajasthan Royals,Nithish Kumar Reddy,H Klaasen,TU Deshpande,1,0,,,,,,,,,,162/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.5,Sunrisers Hyderabad,Rajasthan Royals,H Klaasen,Nithish Kumar Reddy,TU Deshpande,0,0,,,,,,caught,H Klaasen,,,162/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.6,Sunrisers Hyderabad,Rajasthan Royals,S Arora,Nithish Kumar Reddy,TU Deshpande,1,0,,,,,,,,,,163/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.1,Sunrisers Hyderabad,Rajasthan Royals,S Arora,Nithish Kumar Reddy,N Burger,0,1,,,,1,,,,,,164/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.2,Sunrisers Hyderabad,Rajasthan Royals,Nithish Kumar Reddy,S Arora,N Burger,1,0,,,,,,,,,,165/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.3,Sunrisers Hyderabad,Rajasthan Royals,S Arora,Nithish Kumar Reddy,N Burger,4,0,,,,,,,,,,169/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.4,Sunrisers Hyderabad,Rajasthan Royals,S Arora,Nithish Kumar Reddy,N Burger,0,0,,,,,,,,,,169/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.5,Sunrisers Hyderabad,Rajasthan Royals,S Arora,Nithish Kumar Reddy,N Burger,0,0,,,,,,,,,,169/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.6,Sunrisers Hyderabad,Rajasthan Royals,S Arora,Nithish Kumar Reddy,N Burger,1,0,,,,,,,,,,170/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.1,Sunrisers Hyderabad,Rajasthan Royals,S Arora,Nithish Kumar Reddy,Sandeep Sharma,4,0,,,,,,,,,,174/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.2,Sunrisers Hyderabad,Rajasthan Royals,S Arora,Nithish Kumar Reddy,Sandeep Sharma,1,0,,,,,,,,,,175/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.3,Sunrisers Hyderabad,Rajasthan Royals,Nithish Kumar Reddy,S Arora,Sandeep Sharma,6,0,,,,,,,,,,181/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.4,Sunrisers Hyderabad,Rajasthan Royals,Nithish Kumar Reddy,S Arora,Sandeep Sharma,6,0,,,,,,,,,,187/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.5,Sunrisers Hyderabad,Rajasthan Royals,Nithish Kumar Reddy,S Arora,Sandeep Sharma,0,0,,,,,,,,,,187/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.6,Sunrisers Hyderabad,Rajasthan Royals,Nithish Kumar Reddy,S Arora,Sandeep Sharma,0,1,1,,,,,,,,,188/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.6,Sunrisers Hyderabad,Rajasthan Royals,Nithish Kumar Reddy,S Arora,Sandeep Sharma,6,0,,,,,,,,,,194/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.1,Sunrisers Hyderabad,Rajasthan Royals,S Arora,Nithish Kumar Reddy,JC Archer,1,0,,,,,,,,,,195/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.2,Sunrisers Hyderabad,Rajasthan Royals,Nithish Kumar Reddy,S Arora,JC Archer,0,0,,,,,,,,,,195/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.3,Sunrisers Hyderabad,Rajasthan Royals,Nithish Kumar Reddy,S Arora,JC Archer,0,0,,,,,,caught,Nithish Kumar Reddy,,,195/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.4,Sunrisers Hyderabad,Rajasthan Royals,Aniket Verma,S Arora,JC Archer,1,0,,,,,,,,,,196/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.5,Sunrisers Hyderabad,Rajasthan Royals,S Arora,Aniket Verma,JC Archer,0,0,,,,,,,,,,196/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.6,Sunrisers Hyderabad,Rajasthan Royals,S Arora,Aniket Verma,JC Archer,6,0,,,,,,,,,,202/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.1,Sunrisers Hyderabad,Rajasthan Royals,Aniket Verma,S Arora,TU Deshpande,0,1,1,,,,,,,,,203/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.1,Sunrisers Hyderabad,Rajasthan Royals,Aniket Verma,S Arora,TU Deshpande,4,0,,,,,,,,,,207/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.2,Sunrisers Hyderabad,Rajasthan Royals,Aniket Verma,S Arora,TU Deshpande,0,0,,,,,,,,,,207/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.3,Sunrisers Hyderabad,Rajasthan Royals,Aniket Verma,S Arora,TU Deshpande,0,0,,,,,,,,,,207/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.4,Sunrisers Hyderabad,Rajasthan Royals,Aniket Verma,S Arora,TU Deshpande,1,0,,,,,,,,,,208/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.5,Sunrisers Hyderabad,Rajasthan Royals,S Arora,Aniket Verma,TU Deshpande,0,1,1,,,,,run out,Aniket Verma,,,209/6
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.5,Sunrisers Hyderabad,Rajasthan Royals,S Arora,Harsh Dubey,TU Deshpande,0,1,1,,,,,,,,,210/6
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.5,Sunrisers Hyderabad,Rajasthan Royals,S Arora,Harsh Dubey,TU Deshpande,0,0,,,,,,,,,,210/6
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.6,Sunrisers Hyderabad,Rajasthan Royals,S Arora,Harsh Dubey,TU Deshpande,6,0,,,,,,,,,,216/6
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.1,Rajasthan Royals,Sunrisers Hyderabad,YBK Jaiswal,V Suryavanshi,PP Hinge,1,0,,,,,,,,,,1/0
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.2,Rajasthan Royals,Sunrisers Hyderabad,V Suryavanshi,YBK Jaiswal,PP Hinge,0,0,,,,,,caught,V Suryavanshi,,,1/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.3,Rajasthan Royals,Sunrisers Hyderabad,Dhruv Jurel,YBK Jaiswal,PP Hinge,0,0,,,,,,,,,,1/1
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.4,Rajasthan Royals,Sunrisers Hyderabad,Dhruv Jurel,YBK Jaiswal,PP Hinge,0,0,,,,,,bowled,Dhruv Jurel,,,1/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.5,Rajasthan Royals,Sunrisers Hyderabad,LG Pretorius,YBK Jaiswal,PP Hinge,0,0,,,,,,,,,,1/2
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.6,Rajasthan Royals,Sunrisers Hyderabad,LG Pretorius,YBK Jaiswal,PP Hinge,0,0,,,,,,caught,LG Pretorius,,,1/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.1,Rajasthan Royals,Sunrisers Hyderabad,YBK Jaiswal,R Parag,Sakib Hussain,0,0,,,,,,,,,,1/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.2,Rajasthan Royals,Sunrisers Hyderabad,YBK Jaiswal,R Parag,Sakib Hussain,0,0,,,,,,,,,,1/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.3,Rajasthan Royals,Sunrisers Hyderabad,YBK Jaiswal,R Parag,Sakib Hussain,0,1,1,,,,,,,,,2/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.3,Rajasthan Royals,Sunrisers Hyderabad,YBK Jaiswal,R Parag,Sakib Hussain,0,0,,,,,,,,,,2/3
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.4,Rajasthan Royals,Sunrisers Hyderabad,YBK Jaiswal,R Parag,Sakib Hussain,0,0,,,,,,caught,YBK Jaiswal,,,2/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.5,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,R Parag,Sakib Hussain,0,0,,,,,,,,,,2/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.6,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,R Parag,Sakib Hussain,2,0,,,,,,,,,,4/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.1,Rajasthan Royals,Sunrisers Hyderabad,R Parag,RA Jadeja,PP Hinge,0,0,,,,,,,,,,4/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.2,Rajasthan Royals,Sunrisers Hyderabad,R Parag,RA Jadeja,PP Hinge,0,1,1,,,,,,,,,5/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.2,Rajasthan Royals,Sunrisers Hyderabad,R Parag,RA Jadeja,PP Hinge,0,0,,,,,,,,,,5/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.3,Rajasthan Royals,Sunrisers Hyderabad,R Parag,RA Jadeja,PP Hinge,0,0,,,,,,,,,,5/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.4,Rajasthan Royals,Sunrisers Hyderabad,R Parag,RA Jadeja,PP Hinge,0,0,,,,,,,,,,5/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.5,Rajasthan Royals,Sunrisers Hyderabad,R Parag,RA Jadeja,PP Hinge,4,0,,,,,,,,,,9/4
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.6,Rajasthan Royals,Sunrisers Hyderabad,R Parag,RA Jadeja,PP Hinge,0,0,,,,,,caught,R Parag,,,9/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.1,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Sakib Hussain,1,0,,,,,,,,,,10/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.2,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Sakib Hussain,0,0,,,,,,,,,,10/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.3,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Sakib Hussain,1,0,,,,,,,,,,11/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.4,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Sakib Hussain,4,0,,,,,,,,,,15/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.5,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Sakib Hussain,0,1,1,,,,,,,,,16/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.5,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Sakib Hussain,0,0,,,,,,,,,,16/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.6,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Sakib Hussain,4,0,,,,,,,,,,20/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.1,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,PP Hinge,0,1,1,,,,,,,,,21/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.1,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,PP Hinge,0,0,,,,,,,,,,21/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.2,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,PP Hinge,0,0,,,,,,,,,,21/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.3,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,PP Hinge,6,0,,,,,,,,,,27/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.4,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,PP Hinge,0,0,,,,,,,,,,27/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.5,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,PP Hinge,4,0,,,,,,,,,,31/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.6,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,PP Hinge,1,0,,,,,,,,,,32/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.1,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,E Malinga,0,0,,,,,,,,,,32/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.2,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,E Malinga,1,0,,,,,,,,,,33/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.3,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,E Malinga,4,0,,,,,,,,,,37/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.4,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,E Malinga,1,0,,,,,,,,,,38/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.5,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,E Malinga,1,0,,,,,,,,,,39/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.6,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,E Malinga,1,0,,,,,,,,,,40/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.1,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Shivang Kumar,0,0,,,,,,,,,,40/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.2,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Shivang Kumar,1,0,,,,,,,,,,41/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.3,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Shivang Kumar,0,0,,,,,,,,,,41/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.4,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Shivang Kumar,2,0,,,,,,,,,,43/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.5,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Shivang Kumar,4,0,,,,,,,,,,47/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.6,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Shivang Kumar,4,0,,,,,,,,,,51/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.1,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Nithish Kumar Reddy,0,1,1,,,,,,,,,52/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.1,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Nithish Kumar Reddy,2,0,,,,,,,,,,54/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.2,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Nithish Kumar Reddy,0,0,,,,,,,,,,54/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.3,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Nithish Kumar Reddy,1,0,,,,,,,,,,55/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.4,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Nithish Kumar Reddy,0,0,,,,,,,,,,55/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.5,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Nithish Kumar Reddy,2,0,,,,,,,,,,57/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.6,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Nithish Kumar Reddy,1,0,,,,,,,,,,58/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.1,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Shivang Kumar,0,0,,,,,,,,,,58/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.2,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Shivang Kumar,1,0,,,,,,,,,,59/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.3,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Shivang Kumar,0,0,,,,,,,,,,59/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.4,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Shivang Kumar,1,0,,,,,,,,,,60/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.5,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Shivang Kumar,1,0,,,,,,,,,,61/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.6,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Shivang Kumar,1,0,,,,,,,,,,62/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.1,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Harsh Dubey,0,1,1,,,,,,,,,63/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.1,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Harsh Dubey,1,0,,,,,,,,,,64/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.2,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Harsh Dubey,1,0,,,,,,,,,,65/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.3,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Harsh Dubey,0,0,,,,,,,,,,65/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.4,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Harsh Dubey,0,1,1,,,,,,,,,66/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.4,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Harsh Dubey,2,0,,,,,,,,,,68/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.5,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Harsh Dubey,1,0,,,,,,,,,,69/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.6,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Harsh Dubey,1,0,,,,,,,,,,70/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.1,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Shivang Kumar,0,0,,,,,,,,,,70/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.2,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Shivang Kumar,6,0,,,,,,,,,,76/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.3,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Shivang Kumar,1,0,,,,,,,,,,77/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.4,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Shivang Kumar,1,0,,,,,,,,,,78/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.5,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Shivang Kumar,4,0,,,,,,,,,,82/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.6,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Shivang Kumar,1,0,,,,,,,,,,83/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.1,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Harsh Dubey,0,0,,,,,,,,,,83/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.2,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Harsh Dubey,4,0,,,,,,,,,,87/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.3,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Harsh Dubey,4,0,,,,,,,,,,91/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.4,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Harsh Dubey,6,0,,,,,,,,,,97/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.5,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Harsh Dubey,0,0,,,,,,,,,,97/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.6,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Harsh Dubey,0,0,,,,,,,,,,97/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.1,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Nithish Kumar Reddy,2,0,,,,,,,,,,99/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.2,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Nithish Kumar Reddy,4,0,,,,,,,,,,103/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.3,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Nithish Kumar Reddy,1,0,,,,,,,,,,104/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.4,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Nithish Kumar Reddy,0,0,,,,,,,,,,104/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.5,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Nithish Kumar Reddy,4,0,,,,,,,,,,108/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.6,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Nithish Kumar Reddy,1,0,,,,,,,,,,109/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.1,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,E Malinga,0,1,,,,1,,,,,,110/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.2,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,E Malinga,1,0,,,,,,,,,,111/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.3,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,E Malinga,1,0,,,,,,,,,,112/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.4,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,E Malinga,2,0,,,,,,,,,,114/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.5,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,E Malinga,0,1,1,,,,,,,,,115/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.5,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,E Malinga,4,0,,,,,,,,,,119/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.6,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,E Malinga,1,0,,,,,,,,,,120/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.1,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,D Ferreira,Sakib Hussain,1,0,,,,,,,,,,121/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.2,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Sakib Hussain,0,0,,,,,,,,,,121/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.3,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Sakib Hussain,0,0,,,,,,,,,,121/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.4,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Sakib Hussain,4,0,,,,,,,,,,125/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.5,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Sakib Hussain,2,0,,,,,,,,,,127/5
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.6,Rajasthan Royals,Sunrisers Hyderabad,D Ferreira,RA Jadeja,Sakib Hussain,0,0,,,,,,bowled,D Ferreira,,,127/6
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.1,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,JC Archer,E Malinga,1,0,,,,,,,,,,128/6
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.2,Rajasthan Royals,Sunrisers Hyderabad,JC Archer,RA Jadeja,E Malinga,1,0,,,,,,,,,,129/6
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.3,Rajasthan Royals,Sunrisers Hyderabad,RA Jadeja,JC Archer,E Malinga,0,0,,,,,,caught,RA Jadeja,,,129/7
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.4,Rajasthan Royals,Sunrisers Hyderabad,TU Deshpande,JC Archer,E Malinga,0,0,,,,,,,,,,129/7
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.5,Rajasthan Royals,Sunrisers Hyderabad,TU Deshpande,JC Archer,E Malinga,2,0,,,,,,,,,,131/7
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.6,Rajasthan Royals,Sunrisers Hyderabad,TU Deshpande,JC Archer,E Malinga,6,0,,,,,,,,,,137/7
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.1,Rajasthan Royals,Sunrisers Hyderabad,JC Archer,TU Deshpande,Sakib Hussain,0,0,,,,,,,,,,137/7
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.2,Rajasthan Royals,Sunrisers Hyderabad,JC Archer,TU Deshpande,Sakib Hussain,0,0,,,,,,,,,,137/7
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.3,Rajasthan Royals,Sunrisers Hyderabad,JC Archer,TU Deshpande,Sakib Hussain,1,0,,,,,,,,,,138/7
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.4,Rajasthan Royals,Sunrisers Hyderabad,TU Deshpande,JC Archer,Sakib Hussain,1,0,,,,,,,,,,139/7
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.5,Rajasthan Royals,Sunrisers Hyderabad,JC Archer,TU Deshpande,Sakib Hussain,0,1,1,,,,,,,,,140/7
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.5,Rajasthan Royals,Sunrisers Hyderabad,JC Archer,TU Deshpande,Sakib Hussain,0,0,,,,,,caught,JC Archer,,,140/8
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.6,Rajasthan Royals,Sunrisers Hyderabad,Ravi Bishnoi,TU Deshpande,Sakib Hussain,0,0,,,,,,caught,Ravi Bishnoi,,,140/9
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.1,Rajasthan Royals,Sunrisers Hyderabad,TU Deshpande,N Burger,PP Hinge,6,0,,,,,,,,,,146/9
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.2,Rajasthan Royals,Sunrisers Hyderabad,TU Deshpande,N Burger,PP Hinge,1,0,,,,,,,,,,147/9
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.3,Rajasthan Royals,Sunrisers Hyderabad,N Burger,TU Deshpande,PP Hinge,0,0,,,,,,,,,,147/9
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.4,Rajasthan Royals,Sunrisers Hyderabad,N Burger,TU Deshpande,PP Hinge,1,0,,,,,,,,,,148/9
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.5,Rajasthan Royals,Sunrisers Hyderabad,TU Deshpande,N Burger,PP Hinge,2,0,,,,,,,,,,150/9
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.6,Rajasthan Royals,Sunrisers Hyderabad,TU Deshpande,N Burger,PP Hinge,6,0,,,,,,,,,,156/9
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.1,Rajasthan Royals,Sunrisers Hyderabad,N Burger,TU Deshpande,E Malinga,0,0,,,,,,,,,,156/9
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.2,Rajasthan Royals,Sunrisers Hyderabad,N Burger,TU Deshpande,E Malinga,1,0,,,,,,,,,,157/9
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.3,Rajasthan Royals,Sunrisers Hyderabad,TU Deshpande,N Burger,E Malinga,0,0,,,,,,,,,,157/9
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.4,Rajasthan Royals,Sunrisers Hyderabad,TU Deshpande,N Burger,E Malinga,1,0,,,,,,,,,,158/9
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.5,Rajasthan Royals,Sunrisers Hyderabad,N Burger,TU Deshpande,E Malinga,1,0,,,,,,,,,,159/9
+21,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.6,Rajasthan Royals,Sunrisers Hyderabad,TU Deshpande,N Burger,E Malinga,0,0,,,,,,caught,TU Deshpande,,,159/10

@@ -1,6 +1,6 @@
 {
-  "title": "IPL 2026 Final Ball-by-Ball Dataset",
-  "id": "heisenricher/ipl-2026-final-ball-by-ball-dataset",
+  "title": "IPL 2026 Ball by Ball Dataset (All Matches)",
+  "id": "heisenricher/ipl-2026-ball-by-ball-dataset-all-matches",
   "licenses": [
     {
       "name": "CC0-1.0"

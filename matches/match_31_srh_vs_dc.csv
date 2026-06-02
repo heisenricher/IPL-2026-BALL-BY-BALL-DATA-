@@ -1,0 +1,256 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.1,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,Mukesh Kumar,2,0,,,,,,,,,,2/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,Mukesh Kumar,1,0,,,,,,,,,,3/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.3,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,Mukesh Kumar,0,0,,,,,,,,,,3/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.4,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,Mukesh Kumar,4,0,,,,,,,,,,7/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.5,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,Mukesh Kumar,0,0,,,,,,,,,,7/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.6,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,Mukesh Kumar,2,0,,,,,,,,,,9/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.1,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,N Rana,0,0,,,,,,,,,,9/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,N Rana,1,0,,,,,,,,,,10/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.3,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,N Rana,0,0,,,,,,,,,,10/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.4,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,N Rana,0,0,,,,,,,,,,10/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.5,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,N Rana,1,0,,,,,,,,,,11/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.6,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,N Rana,4,0,,,,,,,,,,15/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.1,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,Mukesh Kumar,2,0,,,,,,,,,,17/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.2,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,Mukesh Kumar,4,0,,,,,,,,,,21/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.3,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,Mukesh Kumar,0,0,,,,,,,,,,21/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.4,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,Mukesh Kumar,1,0,,,,,,,,,,22/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.5,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,Mukesh Kumar,0,0,,,,,,,,,,22/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.6,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,Mukesh Kumar,4,0,,,,,,,,,,26/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.1,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,L Ngidi,1,0,,,,,,,,,,27/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,L Ngidi,4,0,,,,,,,,,,31/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.3,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,L Ngidi,0,0,,,,,,,,,,31/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.4,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,L Ngidi,4,0,,,,,,,,,,35/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.5,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,L Ngidi,0,0,,,,,,,,,,35/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.6,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,L Ngidi,1,0,,,,,,,,,,36/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.1,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,N Rana,6,0,,,,,,,,,,42/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,N Rana,6,0,,,,,,,,,,48/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.3,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,N Rana,1,0,,,,,,,,,,49/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.4,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,N Rana,0,0,,,,,,,,,,49/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.5,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,N Rana,0,1,1,,,,,,,,,50/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.5,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,N Rana,0,0,,,,,,,,,,50/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.6,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,N Rana,6,0,,,,,,,,,,56/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.1,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,L Ngidi,1,0,,,,,,,,,,57/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.2,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,L Ngidi,1,0,,,,,,,,,,58/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.3,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,L Ngidi,0,0,,,,,,,,,,58/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.4,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,L Ngidi,1,0,,,,,,,,,,59/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.5,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,L Ngidi,1,0,,,,,,,,,,60/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.6,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,L Ngidi,0,1,1,,,,,,,,,61/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.6,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,L Ngidi,6,0,,,,,,,,,,67/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.1,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,AR Patel,1,0,,,,,,,,,,68/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,AR Patel,1,0,,,,,,,,,,69/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.3,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,AR Patel,2,0,,,,,,,,,,71/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.4,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,AR Patel,1,0,,,,,,,,,,72/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.5,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,AR Patel,1,0,,,,,,,,,,73/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.6,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,AR Patel,1,0,,,,,,,,,,74/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.1,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,Kuldeep Yadav,1,0,,,,,,,,,,75/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,Kuldeep Yadav,0,0,,,,,,,,,,75/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.3,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,Kuldeep Yadav,4,0,,,,,,,,,,79/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.4,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,Kuldeep Yadav,1,0,,,,,,,,,,80/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.5,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,Kuldeep Yadav,0,0,,,,,,,,,,80/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.6,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,Kuldeep Yadav,2,0,,,,,,,,,,82/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.1,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,AR Patel,2,0,,,,,,,,,,84/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,AR Patel,6,0,,,,,,,,,,90/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.3,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,TM Head,AR Patel,1,0,,,,,,,,,,91/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.4,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,AR Patel,6,0,,,,,,,,,,97/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.5,Sunrisers Hyderabad,Delhi Capitals,TM Head,Abhishek Sharma,AR Patel,0,0,,,,,,caught,TM Head,,,97/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.6,Sunrisers Hyderabad,Delhi Capitals,Ishan Kishan,Abhishek Sharma,AR Patel,1,0,,,,,,,,,,98/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.1,Sunrisers Hyderabad,Delhi Capitals,Ishan Kishan,Abhishek Sharma,N Rana,1,0,,,,,,,,,,99/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,N Rana,1,0,,,,,,,,,,100/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.3,Sunrisers Hyderabad,Delhi Capitals,Ishan Kishan,Abhishek Sharma,N Rana,1,0,,,,,,,,,,101/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.4,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,N Rana,1,0,,,,,,,,,,102/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.5,Sunrisers Hyderabad,Delhi Capitals,Ishan Kishan,Abhishek Sharma,N Rana,0,1,1,,,,,,,,,103/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.5,Sunrisers Hyderabad,Delhi Capitals,Ishan Kishan,Abhishek Sharma,N Rana,1,0,,,,,,,,,,104/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.6,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,N Rana,0,0,,,,,,,,,,104/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.1,Sunrisers Hyderabad,Delhi Capitals,Ishan Kishan,Abhishek Sharma,Kuldeep Yadav,6,0,,,,,,,,,,110/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.2,Sunrisers Hyderabad,Delhi Capitals,Ishan Kishan,Abhishek Sharma,Kuldeep Yadav,4,0,,,,,,,,,,114/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.3,Sunrisers Hyderabad,Delhi Capitals,Ishan Kishan,Abhishek Sharma,Kuldeep Yadav,1,0,,,,,,,,,,115/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.4,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,Kuldeep Yadav,6,0,,,,,,,,,,121/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.5,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,Kuldeep Yadav,1,0,,,,,,,,,,122/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.6,Sunrisers Hyderabad,Delhi Capitals,Ishan Kishan,Abhishek Sharma,Kuldeep Yadav,4,0,,,,,,,,,,126/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.1,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,T Natarajan,6,0,,,,,,,,,,132/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,T Natarajan,0,0,,,,,,,,,,132/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.3,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,T Natarajan,0,1,1,,,,,,,,,133/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.3,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,T Natarajan,1,0,,,,,,,,,,134/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.4,Sunrisers Hyderabad,Delhi Capitals,Ishan Kishan,Abhishek Sharma,T Natarajan,1,0,,,,,,,,,,135/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.5,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,T Natarajan,1,0,,,,,,,,,,136/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.6,Sunrisers Hyderabad,Delhi Capitals,Ishan Kishan,Abhishek Sharma,T Natarajan,2,0,,,,,,,,,,138/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.1,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,Mukesh Kumar,0,0,,,,,,,,,,138/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,Mukesh Kumar,0,0,,,,,,,,,,138/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.3,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,Mukesh Kumar,0,1,1,,,,,,,,,139/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.3,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,Mukesh Kumar,4,0,,,,,,,,,,143/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.4,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,Mukesh Kumar,1,0,,,,,,,,,,144/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.5,Sunrisers Hyderabad,Delhi Capitals,Ishan Kishan,Abhishek Sharma,Mukesh Kumar,1,0,,,,,,,,,,145/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.6,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,Mukesh Kumar,6,0,,,,,,,,,,151/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.1,Sunrisers Hyderabad,Delhi Capitals,Ishan Kishan,Abhishek Sharma,T Natarajan,1,0,,,,,,,,,,152/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,T Natarajan,0,0,,,,,,,,,,152/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.3,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,T Natarajan,1,0,,,,,,,,,,153/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.4,Sunrisers Hyderabad,Delhi Capitals,Ishan Kishan,Abhishek Sharma,T Natarajan,1,0,,,,,,,,,,154/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.5,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,T Natarajan,0,1,1,,,,,,,,,155/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.5,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,T Natarajan,4,0,,,,,,,,,,159/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.6,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,T Natarajan,1,0,,,,,,,,,,160/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.1,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,N Rana,6,0,,,,,,,,,,166/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,N Rana,6,0,,,,,,,,,,172/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.3,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,N Rana,4,0,,,,,,,,,,176/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.4,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,Ishan Kishan,N Rana,0,0,,,,,,run out,Ishan Kishan,,,176/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.5,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,N Rana,6,0,,,,,,,,,,182/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.6,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,N Rana,1,0,,,,,,,,,,183/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.1,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,L Ngidi,2,0,,,,,,,,,,185/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,L Ngidi,0,1,1,,,,,,,,,186/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,L Ngidi,0,0,,,,,,,,,,186/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.3,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,L Ngidi,0,0,,,,,,,,,,186/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.4,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,L Ngidi,1,0,,,,,,,,,,187/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.5,Sunrisers Hyderabad,Delhi Capitals,H Klaasen,Abhishek Sharma,L Ngidi,1,0,,,,,,,,,,188/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.6,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,L Ngidi,1,0,,,,,,,,,,189/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.1,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,T Natarajan,4,0,,,,,,,,,,193/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,T Natarajan,2,0,,,,,,,,,,195/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.3,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,T Natarajan,1,0,,,,,,,,,,196/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.4,Sunrisers Hyderabad,Delhi Capitals,H Klaasen,Abhishek Sharma,T Natarajan,1,0,,,,,,,,,,197/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.5,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,T Natarajan,1,0,,,,,,,,,,198/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.6,Sunrisers Hyderabad,Delhi Capitals,H Klaasen,Abhishek Sharma,T Natarajan,4,0,,,,,,,,,,202/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.1,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,L Ngidi,0,0,,,,,,,,,,202/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,L Ngidi,0,0,,,,,,,,,,202/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.3,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,L Ngidi,1,0,,,,,,,,,,203/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.4,Sunrisers Hyderabad,Delhi Capitals,H Klaasen,Abhishek Sharma,L Ngidi,6,0,,,,,,,,,,209/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.5,Sunrisers Hyderabad,Delhi Capitals,H Klaasen,Abhishek Sharma,L Ngidi,6,0,,,,,,,,,,215/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.6,Sunrisers Hyderabad,Delhi Capitals,H Klaasen,Abhishek Sharma,L Ngidi,1,0,,,,,,,,,,216/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.1,Sunrisers Hyderabad,Delhi Capitals,H Klaasen,Abhishek Sharma,T Natarajan,1,0,,,,,,,,,,217/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,T Natarajan,0,1,1,,,,,,,,,218/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.2,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,T Natarajan,1,0,,,,,,,,,,219/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.3,Sunrisers Hyderabad,Delhi Capitals,H Klaasen,Abhishek Sharma,T Natarajan,1,0,,,,,,,,,,220/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.4,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,T Natarajan,0,0,,,,,,,,,,220/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.5,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,T Natarajan,1,0,,,,,,,,,,221/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.6,Sunrisers Hyderabad,Delhi Capitals,H Klaasen,Abhishek Sharma,T Natarajan,1,0,,,,,,,,,,222/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.1,Sunrisers Hyderabad,Delhi Capitals,H Klaasen,Abhishek Sharma,Mukesh Kumar,4,0,,,,,,,,,,226/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.2,Sunrisers Hyderabad,Delhi Capitals,H Klaasen,Abhishek Sharma,Mukesh Kumar,6,0,,,,,,,,,,232/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.3,Sunrisers Hyderabad,Delhi Capitals,H Klaasen,Abhishek Sharma,Mukesh Kumar,1,0,,,,,,,,,,233/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.4,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,Mukesh Kumar,4,0,,,,,,,,,,237/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.5,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,H Klaasen,Mukesh Kumar,1,0,,,,,,,,,,238/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.6,Sunrisers Hyderabad,Delhi Capitals,H Klaasen,Abhishek Sharma,Mukesh Kumar,4,0,,,,,,,,,,242/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.1,Delhi Capitals,Sunrisers Hyderabad,P Nissanka,KL Rahul,D Madushanka,0,0,,,,,,,,,,0/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.2,Delhi Capitals,Sunrisers Hyderabad,P Nissanka,KL Rahul,D Madushanka,1,0,,,,,,,,,,1/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.3,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,P Nissanka,D Madushanka,0,0,,,,,,,,,,1/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.4,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,P Nissanka,D Madushanka,1,0,,,,,,,,,,2/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.5,Delhi Capitals,Sunrisers Hyderabad,P Nissanka,KL Rahul,D Madushanka,6,0,,,,,,,,,,8/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.6,Delhi Capitals,Sunrisers Hyderabad,P Nissanka,KL Rahul,D Madushanka,0,0,,,,,,,,,,8/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.1,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,P Nissanka,Nithish Kumar Reddy,0,1,1,,,,,,,,,9/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.1,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,P Nissanka,Nithish Kumar Reddy,0,0,,,,,,,,,,9/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.2,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,P Nissanka,Nithish Kumar Reddy,6,0,,,,,,,,,,15/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.3,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,P Nissanka,Nithish Kumar Reddy,4,0,,,,,,,,,,19/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.4,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,P Nissanka,Nithish Kumar Reddy,0,0,,,,,,,,,,19/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.5,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,P Nissanka,Nithish Kumar Reddy,1,0,,,,,,,,,,20/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.6,Delhi Capitals,Sunrisers Hyderabad,P Nissanka,KL Rahul,Nithish Kumar Reddy,1,0,,,,,,,,,,21/0
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.1,Delhi Capitals,Sunrisers Hyderabad,P Nissanka,KL Rahul,D Madushanka,0,0,,,,,,caught,P Nissanka,,,21/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.2,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,D Madushanka,4,0,,,,,,,,,,25/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.3,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,D Madushanka,2,0,,,,,,,,,,27/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.4,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,D Madushanka,0,0,,,,,,,,,,27/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.5,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,D Madushanka,0,1,1,,,,,,,,,28/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.5,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,D Madushanka,0,0,,,,,,,,,,28/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.6,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,D Madushanka,1,0,,,,,,,,,,29/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.1,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Nithish Kumar Reddy,4,0,,,,,,,,,,33/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.2,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Nithish Kumar Reddy,0,0,,,,,,,,,,33/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.3,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Nithish Kumar Reddy,1,0,,,,,,,,,,34/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.4,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,N Rana,Nithish Kumar Reddy,1,0,,,,,,,,,,35/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.5,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Nithish Kumar Reddy,6,0,,,,,,,,,,41/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.6,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Nithish Kumar Reddy,4,0,,,,,,,,,,45/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.1,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,N Rana,E Malinga,1,0,,,,,,,,,,46/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.2,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,E Malinga,1,0,,,,,,,,,,47/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.3,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,N Rana,E Malinga,0,0,,,,,,,,,,47/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.4,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,N Rana,E Malinga,6,0,,,,,,,,,,53/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.5,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,N Rana,E Malinga,1,0,,,,,,,,,,54/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.6,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,E Malinga,0,0,,,,,,,,,,54/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.1,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,N Rana,Sakib Hussain,1,0,,,,,,,,,,55/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.2,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Sakib Hussain,4,0,,,,,,,,,,59/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.3,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Sakib Hussain,0,0,,,,,,,,,,59/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.4,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Sakib Hussain,0,0,,,,,,,,,,59/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.5,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Sakib Hussain,0,0,,,,,,,,,,59/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.6,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Sakib Hussain,0,0,,,,,,,,,,59/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.1,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,N Rana,D Madushanka,1,0,,,,,,,,,,60/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.2,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,D Madushanka,2,0,,,,,,,,,,62/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.3,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,D Madushanka,0,1,1,,,,,,,,,63/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.3,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,D Madushanka,0,0,,,,,,,,,,63/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.4,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,D Madushanka,0,1,1,,,,,,,,,64/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.4,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,D Madushanka,0,1,1,,,,,,,,,65/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.4,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,D Madushanka,0,0,,,,,,,,,,65/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.5,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,D Madushanka,1,0,,,,,,,,,,66/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.6,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,N Rana,D Madushanka,1,0,,,,,,,,,,67/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.1,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,N Rana,Shivang Kumar,1,0,,,,,,,,,,68/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.2,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Shivang Kumar,1,0,,,,,,,,,,69/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.3,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,N Rana,Shivang Kumar,1,0,,,,,,,,,,70/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.4,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Shivang Kumar,6,0,,,,,,,,,,76/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.5,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Shivang Kumar,6,0,,,,,,,,,,82/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.6,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Shivang Kumar,4,0,,,,,,,,,,86/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.1,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,N Rana,Nithish Kumar Reddy,1,0,,,,,,,,,,87/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.2,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Nithish Kumar Reddy,1,0,,,,,,,,,,88/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.3,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,N Rana,Nithish Kumar Reddy,2,0,,,,,,,,,,90/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.4,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,N Rana,Nithish Kumar Reddy,0,0,,,,,,,,,,90/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.5,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,N Rana,Nithish Kumar Reddy,2,0,,,,,,,,,,92/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.6,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,N Rana,Nithish Kumar Reddy,6,0,,,,,,,,,,98/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.1,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Sakib Hussain,4,0,,,,,,,,,,102/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.2,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Sakib Hussain,4,0,,,,,,,,,,106/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.3,Delhi Capitals,Sunrisers Hyderabad,N Rana,KL Rahul,Sakib Hussain,1,0,,,,,,,,,,107/1
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.4,Delhi Capitals,Sunrisers Hyderabad,KL Rahul,N Rana,Sakib Hussain,0,0,,,,,,caught,KL Rahul,,,107/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.5,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,N Rana,Sakib Hussain,0,0,,,,,,,,,,107/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.6,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,N Rana,Sakib Hussain,0,0,,,,,,,,,,107/2
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.1,Delhi Capitals,Sunrisers Hyderabad,N Rana,Sameer Rizvi,E Malinga,0,0,,,,,,caught,N Rana,,,107/3
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.2,Delhi Capitals,Sunrisers Hyderabad,DA Miller,Sameer Rizvi,E Malinga,0,0,,,,,,bowled,DA Miller,,,107/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.3,Delhi Capitals,Sunrisers Hyderabad,T Stubbs,Sameer Rizvi,E Malinga,0,0,,,,,,,,,,107/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.4,Delhi Capitals,Sunrisers Hyderabad,T Stubbs,Sameer Rizvi,E Malinga,1,0,,,,,,,,,,108/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.5,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,E Malinga,1,0,,,,,,,,,,109/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.6,Delhi Capitals,Sunrisers Hyderabad,T Stubbs,Sameer Rizvi,E Malinga,0,0,,,,,,,,,,109/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.1,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,Shivang Kumar,6,0,,,,,,,,,,115/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.2,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,Shivang Kumar,0,0,,,,,,,,,,115/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.3,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,Shivang Kumar,1,0,,,,,,,,,,116/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.4,Delhi Capitals,Sunrisers Hyderabad,T Stubbs,Sameer Rizvi,Shivang Kumar,1,0,,,,,,,,,,117/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.5,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,Shivang Kumar,1,0,,,,,,,,,,118/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.6,Delhi Capitals,Sunrisers Hyderabad,T Stubbs,Sameer Rizvi,Shivang Kumar,0,0,,,,,,,,,,118/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.1,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,D Madushanka,4,0,,,,,,,,,,122/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.2,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,D Madushanka,1,0,,,,,,,,,,123/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.3,Delhi Capitals,Sunrisers Hyderabad,T Stubbs,Sameer Rizvi,D Madushanka,1,0,,,,,,,,,,124/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.4,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,D Madushanka,4,0,,,,,,,,,,128/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.5,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,D Madushanka,1,0,,,,,,,,,,129/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.6,Delhi Capitals,Sunrisers Hyderabad,T Stubbs,Sameer Rizvi,D Madushanka,1,0,,,,,,,,,,130/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.1,Delhi Capitals,Sunrisers Hyderabad,T Stubbs,Sameer Rizvi,Nithish Kumar Reddy,6,0,,,,,,,,,,136/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.2,Delhi Capitals,Sunrisers Hyderabad,T Stubbs,Sameer Rizvi,Nithish Kumar Reddy,1,0,,,,,,,,,,137/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.3,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,Nithish Kumar Reddy,0,0,,,,,,,,,,137/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.4,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,Nithish Kumar Reddy,2,0,,,,,,,,,,139/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.5,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,Nithish Kumar Reddy,6,0,,,,,,,,,,145/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.6,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,Nithish Kumar Reddy,1,0,,,,,,,,,,146/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.1,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,Sakib Hussain,1,0,,,,,,,,,,147/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.2,Delhi Capitals,Sunrisers Hyderabad,T Stubbs,Sameer Rizvi,Sakib Hussain,4,0,,,,,,,,,,151/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.3,Delhi Capitals,Sunrisers Hyderabad,T Stubbs,Sameer Rizvi,Sakib Hussain,1,0,,,,,,,,,,152/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.4,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,Sakib Hussain,1,0,,,,,,,,,,153/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.5,Delhi Capitals,Sunrisers Hyderabad,T Stubbs,Sameer Rizvi,Sakib Hussain,1,0,,,,,,,,,,154/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.6,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,Sakib Hussain,1,0,,,,,,,,,,155/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.1,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,T Stubbs,E Malinga,1,0,,,,,,,,,,156/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.2,Delhi Capitals,Sunrisers Hyderabad,T Stubbs,Sameer Rizvi,E Malinga,4,0,,,,,,,,,,160/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.3,Delhi Capitals,Sunrisers Hyderabad,T Stubbs,Sameer Rizvi,E Malinga,2,0,,,,,,,,,,162/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.4,Delhi Capitals,Sunrisers Hyderabad,T Stubbs,Sameer Rizvi,E Malinga,4,0,,,,,,,,,,166/4
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.5,Delhi Capitals,Sunrisers Hyderabad,T Stubbs,Sameer Rizvi,E Malinga,0,0,,,,,,caught,T Stubbs,,,166/5
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.6,Delhi Capitals,Sunrisers Hyderabad,Ashutosh Sharma,Sameer Rizvi,E Malinga,1,0,,,,,,,,,,167/5
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.1,Delhi Capitals,Sunrisers Hyderabad,Ashutosh Sharma,Sameer Rizvi,Harsh Dubey,1,0,,,,,,,,,,168/5
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.2,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,Ashutosh Sharma,Harsh Dubey,2,0,,,,,,,,,,170/5
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.3,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,Ashutosh Sharma,Harsh Dubey,1,0,,,,,,,,,,171/5
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.4,Delhi Capitals,Sunrisers Hyderabad,Ashutosh Sharma,Sameer Rizvi,Harsh Dubey,0,0,,,,,,,,,,171/5
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.5,Delhi Capitals,Sunrisers Hyderabad,Ashutosh Sharma,Sameer Rizvi,Harsh Dubey,2,0,,,,,,,,,,173/5
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.6,Delhi Capitals,Sunrisers Hyderabad,Ashutosh Sharma,Sameer Rizvi,Harsh Dubey,4,0,,,,,,,,,,177/5
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.1,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,Ashutosh Sharma,E Malinga,1,0,,,,,,,,,,178/5
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.2,Delhi Capitals,Sunrisers Hyderabad,Ashutosh Sharma,Sameer Rizvi,E Malinga,2,0,,,,,,,,,,180/5
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.3,Delhi Capitals,Sunrisers Hyderabad,Ashutosh Sharma,Sameer Rizvi,E Malinga,0,0,,,,,,,,,,180/5
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.4,Delhi Capitals,Sunrisers Hyderabad,Ashutosh Sharma,Sameer Rizvi,E Malinga,4,0,,,,,,,,,,184/5
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.5,Delhi Capitals,Sunrisers Hyderabad,Ashutosh Sharma,Sameer Rizvi,E Malinga,0,1,1,,,,,,,,,185/5
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.5,Delhi Capitals,Sunrisers Hyderabad,Ashutosh Sharma,Sameer Rizvi,E Malinga,0,1,1,,,,,,,,,186/5
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.5,Delhi Capitals,Sunrisers Hyderabad,Ashutosh Sharma,Sameer Rizvi,E Malinga,0,0,,,,,,,,,,186/5
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.6,Delhi Capitals,Sunrisers Hyderabad,Ashutosh Sharma,Sameer Rizvi,E Malinga,0,0,,,,,,caught,Ashutosh Sharma,,,186/6
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.1,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,AR Patel,Sakib Hussain,2,0,,,,,,,,,,188/6
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.2,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,AR Patel,Sakib Hussain,0,0,,,,,,,,,,188/6
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.3,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,AR Patel,Sakib Hussain,1,0,,,,,,,,,,189/6
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.4,Delhi Capitals,Sunrisers Hyderabad,AR Patel,Sameer Rizvi,Sakib Hussain,1,0,,,,,,,,,,190/6
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.5,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,AR Patel,Sakib Hussain,1,0,,,,,,,,,,191/6
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.6,Delhi Capitals,Sunrisers Hyderabad,AR Patel,Sameer Rizvi,Sakib Hussain,1,0,,,,,,,,,,192/6
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.1,Delhi Capitals,Sunrisers Hyderabad,AR Patel,Sameer Rizvi,Harsh Dubey,0,0,,,,,,caught,AR Patel,,,192/7
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.2,Delhi Capitals,Sunrisers Hyderabad,Kuldeep Yadav,Sameer Rizvi,Harsh Dubey,1,0,,,,,,,,,,193/7
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.3,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,Kuldeep Yadav,Harsh Dubey,1,0,,,,,,,,,,194/7
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.4,Delhi Capitals,Sunrisers Hyderabad,Kuldeep Yadav,Sameer Rizvi,Harsh Dubey,0,1,,,,1,,,,,,195/7
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.5,Delhi Capitals,Sunrisers Hyderabad,Sameer Rizvi,Kuldeep Yadav,Harsh Dubey,0,0,,,,,,caught,Sameer Rizvi,,,195/8
+31,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.6,Delhi Capitals,Sunrisers Hyderabad,L Ngidi,Kuldeep Yadav,Harsh Dubey,0,0,,,,,,caught,L Ngidi,,,195/9

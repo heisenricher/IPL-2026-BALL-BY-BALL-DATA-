@@ -1,0 +1,145 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,0.1,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,DL Chahar,4,0,,,,,,,,,,4/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,0.2,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,DL Chahar,6,0,,,,,,,,,,10/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,0.3,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,DL Chahar,4,0,,,,,,,,,,14/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,0.4,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,DL Chahar,0,0,,,,,,,,,,14/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,0.5,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,DL Chahar,4,0,,,,,,,,,,18/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,0.6,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,DL Chahar,4,0,,,,,,,,,,22/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,1.1,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,JJ Bumrah,6,0,,,,,,,,,,28/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,1.2,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,JJ Bumrah,1,0,,,,,,,,,,29/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,1.3,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,JJ Bumrah,1,0,,,,,,,,,,30/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,1.4,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,JJ Bumrah,6,0,,,,,,,,,,36/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,1.5,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,JJ Bumrah,0,0,,,,,,,,,,36/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,1.6,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,JJ Bumrah,0,0,,,,,,,,,,36/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,2.1,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,TA Boult,6,0,,,,,,,,,,42/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,2.2,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,TA Boult,6,0,,,,,,,,,,48/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,2.3,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,TA Boult,1,0,,,,,,,,,,49/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,2.4,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,TA Boult,6,0,,,,,,,,,,55/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,2.5,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,TA Boult,0,1,1,,,,,,,,,56/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,2.5,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,TA Boult,1,0,,,,,,,,,,57/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,2.6,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,TA Boult,1,0,,,,,,,,,,58/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,3.1,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,HH Pandya,0,0,,,,,,,,,,58/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,3.2,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,HH Pandya,1,0,,,,,,,,,,59/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,3.3,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,HH Pandya,1,0,,,,,,,,,,60/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,3.4,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,HH Pandya,1,0,,,,,,,,,,61/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,3.5,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,HH Pandya,1,0,,,,,,,,,,62/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,3.6,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,HH Pandya,0,0,,,,,,,,,,62/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,4.1,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,SN Thakur,6,0,,,,,,,,,,68/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,4.2,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,SN Thakur,4,0,,,,,,,,,,72/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,4.3,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,SN Thakur,1,0,,,,,,,,,,73/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,4.4,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,SN Thakur,1,0,,,,,,,,,,74/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,4.5,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,SN Thakur,6,0,,,,,,,,,,80/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,4.6,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,SN Thakur,0,0,,,,,,caught,V Suryavanshi,,,80/1
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,5.1,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,Dhruv Jurel,AM Ghazanfar,0,1,1,,,,,,,,,81/1
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,5.1,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,Dhruv Jurel,AM Ghazanfar,1,0,,,,,,,,,,82/1
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,5.2,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,YBK Jaiswal,AM Ghazanfar,2,0,,,,,,,,,,84/1
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,5.3,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,YBK Jaiswal,AM Ghazanfar,0,0,,,,,,,,,,84/1
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,5.4,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,YBK Jaiswal,AM Ghazanfar,0,0,,,,,,lbw,Dhruv Jurel,,,84/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,5.5,Rajasthan Royals,Mumbai Indians,R Parag,YBK Jaiswal,AM Ghazanfar,1,0,,,,,,,,,,85/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,5.6,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,R Parag,AM Ghazanfar,4,0,,,,,,,,,,89/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,6.1,Rajasthan Royals,Mumbai Indians,R Parag,YBK Jaiswal,JJ Bumrah,1,0,,,,,,,,,,90/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,6.2,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,R Parag,JJ Bumrah,0,0,,,,,,,,,,90/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,6.3,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,R Parag,JJ Bumrah,1,0,,,,,,,,,,91/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,6.4,Rajasthan Royals,Mumbai Indians,R Parag,YBK Jaiswal,JJ Bumrah,4,0,,,,,,,,,,95/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,6.5,Rajasthan Royals,Mumbai Indians,R Parag,YBK Jaiswal,JJ Bumrah,1,0,,,,,,,,,,96/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,6.6,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,R Parag,JJ Bumrah,1,0,,,,,,,,,,97/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,7.1,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,R Parag,HH Pandya,1,0,,,,,,,,,,98/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,7.2,Rajasthan Royals,Mumbai Indians,R Parag,YBK Jaiswal,HH Pandya,1,0,,,,,,,,,,99/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,7.3,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,R Parag,HH Pandya,4,0,,,,,,,,,,103/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,7.4,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,R Parag,HH Pandya,1,0,,,,,,,,,,104/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,7.5,Rajasthan Royals,Mumbai Indians,R Parag,YBK Jaiswal,HH Pandya,0,0,,,,,,,,,,104/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,7.6,Rajasthan Royals,Mumbai Indians,R Parag,YBK Jaiswal,HH Pandya,6,0,,,,,,,,,,110/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,8.1,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,R Parag,AM Ghazanfar,4,0,,,,,,,,,,114/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,8.2,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,R Parag,AM Ghazanfar,1,0,,,,,,,,,,115/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,8.3,Rajasthan Royals,Mumbai Indians,R Parag,YBK Jaiswal,AM Ghazanfar,0,0,,,,,,,,,,115/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,8.4,Rajasthan Royals,Mumbai Indians,R Parag,YBK Jaiswal,AM Ghazanfar,6,0,,,,,,,,,,121/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,8.5,Rajasthan Royals,Mumbai Indians,R Parag,YBK Jaiswal,AM Ghazanfar,0,0,,,,,,caught,R Parag,,,121/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,8.6,Rajasthan Royals,Mumbai Indians,SO Hetmyer,YBK Jaiswal,AM Ghazanfar,1,0,,,,,,,,,,122/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,9.1,Rajasthan Royals,Mumbai Indians,SO Hetmyer,YBK Jaiswal,JJ Bumrah,0,0,,,,,,,,,,122/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,9.2,Rajasthan Royals,Mumbai Indians,SO Hetmyer,YBK Jaiswal,JJ Bumrah,1,0,,,,,,,,,,123/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,9.3,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,SO Hetmyer,JJ Bumrah,0,1,1,,,,,,,,,124/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,9.3,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,SO Hetmyer,JJ Bumrah,6,0,,,,,,,,,,130/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,9.4,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,SO Hetmyer,JJ Bumrah,1,0,,,,,,,,,,131/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,9.5,Rajasthan Royals,Mumbai Indians,SO Hetmyer,YBK Jaiswal,JJ Bumrah,0,0,,,,,,,,,,131/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,9.6,Rajasthan Royals,Mumbai Indians,SO Hetmyer,YBK Jaiswal,JJ Bumrah,1,0,,,,,,,,,,132/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,10.1,Rajasthan Royals,Mumbai Indians,SO Hetmyer,YBK Jaiswal,SN Thakur,2,0,,,,,,,,,,134/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,10.2,Rajasthan Royals,Mumbai Indians,SO Hetmyer,YBK Jaiswal,SN Thakur,0,1,1,,,,,,,,,135/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,10.2,Rajasthan Royals,Mumbai Indians,SO Hetmyer,YBK Jaiswal,SN Thakur,1,0,,,,,,,,,,136/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,10.3,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,SO Hetmyer,SN Thakur,4,0,,,,,,,,,,140/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,10.4,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,SO Hetmyer,SN Thakur,0,1,1,,,,,,,,,141/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,10.4,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,SO Hetmyer,SN Thakur,0,0,,,,,,,,,,141/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,10.5,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,SO Hetmyer,SN Thakur,4,0,,,,,,,,,,145/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,10.6,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,SO Hetmyer,SN Thakur,0,1,1,,,,,,,,,146/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",1,10.6,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,SO Hetmyer,SN Thakur,4,0,,,,,,,,,,150/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,0.1,Mumbai Indians,Rajasthan Royals,RD Rickelton,RG Sharma,JC Archer,1,0,,,,,,,,,,1/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,0.2,Mumbai Indians,Rajasthan Royals,RG Sharma,RD Rickelton,JC Archer,1,0,,,,,,,,,,2/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,0.3,Mumbai Indians,Rajasthan Royals,RD Rickelton,RG Sharma,JC Archer,1,0,,,,,,,,,,3/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,0.4,Mumbai Indians,Rajasthan Royals,RG Sharma,RD Rickelton,JC Archer,1,0,,,,,,,,,,4/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,0.5,Mumbai Indians,Rajasthan Royals,RD Rickelton,RG Sharma,JC Archer,6,0,,,,,,,,,,10/0
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,0.6,Mumbai Indians,Rajasthan Royals,RD Rickelton,RG Sharma,JC Archer,0,0,,,,,,caught,RD Rickelton,,,10/1
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,1.1,Mumbai Indians,Rajasthan Royals,RG Sharma,SA Yadav,N Burger,3,0,,,,,,,,,,13/1
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,1.2,Mumbai Indians,Rajasthan Royals,SA Yadav,RG Sharma,N Burger,6,0,,,,,,,,,,19/1
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,1.3,Mumbai Indians,Rajasthan Royals,SA Yadav,RG Sharma,N Burger,0,1,1,,,,,,,,,20/1
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,1.3,Mumbai Indians,Rajasthan Royals,SA Yadav,RG Sharma,N Burger,0,0,,,,,,,,,,20/1
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,1.4,Mumbai Indians,Rajasthan Royals,SA Yadav,RG Sharma,N Burger,0,0,,,,,,caught,SA Yadav,,,20/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,1.5,Mumbai Indians,Rajasthan Royals,Tilak Varma,RG Sharma,N Burger,2,0,,,,,,,,,,22/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,1.6,Mumbai Indians,Rajasthan Royals,Tilak Varma,RG Sharma,N Burger,0,0,,,,,,,,,,22/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,2.1,Mumbai Indians,Rajasthan Royals,RG Sharma,Tilak Varma,Sandeep Sharma,0,0,,,,,,,,,,22/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,2.2,Mumbai Indians,Rajasthan Royals,RG Sharma,Tilak Varma,Sandeep Sharma,0,0,,,,,,,,,,22/2
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,2.3,Mumbai Indians,Rajasthan Royals,RG Sharma,Tilak Varma,Sandeep Sharma,0,0,,,,,,lbw,RG Sharma,,,22/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,2.4,Mumbai Indians,Rajasthan Royals,HH Pandya,Tilak Varma,Sandeep Sharma,1,0,,,,,,,,,,23/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,2.5,Mumbai Indians,Rajasthan Royals,Tilak Varma,HH Pandya,Sandeep Sharma,0,0,,,,,,,,,,23/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,2.6,Mumbai Indians,Rajasthan Royals,Tilak Varma,HH Pandya,Sandeep Sharma,0,1,1,,,,,,,,,24/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,2.6,Mumbai Indians,Rajasthan Royals,Tilak Varma,HH Pandya,Sandeep Sharma,1,0,,,,,,,,,,25/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,3.1,Mumbai Indians,Rajasthan Royals,Tilak Varma,HH Pandya,TU Deshpande,4,0,,,,,,,,,,29/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,3.2,Mumbai Indians,Rajasthan Royals,Tilak Varma,HH Pandya,TU Deshpande,1,0,,,,,,,,,,30/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,3.3,Mumbai Indians,Rajasthan Royals,HH Pandya,Tilak Varma,TU Deshpande,4,0,,,,,,,,,,34/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,3.4,Mumbai Indians,Rajasthan Royals,HH Pandya,Tilak Varma,TU Deshpande,0,0,,,,,,,,,,34/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,3.5,Mumbai Indians,Rajasthan Royals,HH Pandya,Tilak Varma,TU Deshpande,0,1,,,1,,,,,,,35/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,3.6,Mumbai Indians,Rajasthan Royals,Tilak Varma,HH Pandya,TU Deshpande,1,0,,,,,,,,,,36/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,4.1,Mumbai Indians,Rajasthan Royals,Tilak Varma,HH Pandya,Ravi Bishnoi,1,0,,,,,,,,,,37/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,4.2,Mumbai Indians,Rajasthan Royals,HH Pandya,Tilak Varma,Ravi Bishnoi,4,0,,,,,,,,,,41/3
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,4.3,Mumbai Indians,Rajasthan Royals,HH Pandya,Tilak Varma,Ravi Bishnoi,0,0,,,,,,caught,HH Pandya,,,41/4
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,4.4,Mumbai Indians,Rajasthan Royals,Naman Dhir,Tilak Varma,Ravi Bishnoi,1,0,,,,,,,,,,42/4
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,4.5,Mumbai Indians,Rajasthan Royals,Tilak Varma,Naman Dhir,Ravi Bishnoi,4,0,,,,,,,,,,46/4
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,4.6,Mumbai Indians,Rajasthan Royals,Tilak Varma,Naman Dhir,Ravi Bishnoi,0,0,,,,,,caught,Tilak Varma,,,46/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,5.1,Mumbai Indians,Rajasthan Royals,Naman Dhir,SE Rutherford,Sandeep Sharma,0,0,,,,,,,,,,46/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,5.2,Mumbai Indians,Rajasthan Royals,Naman Dhir,SE Rutherford,Sandeep Sharma,2,0,,,,,,,,,,48/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,5.3,Mumbai Indians,Rajasthan Royals,Naman Dhir,SE Rutherford,Sandeep Sharma,6,0,,,,,,,,,,54/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,5.4,Mumbai Indians,Rajasthan Royals,Naman Dhir,SE Rutherford,Sandeep Sharma,0,0,,,,,,,,,,54/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,5.5,Mumbai Indians,Rajasthan Royals,Naman Dhir,SE Rutherford,Sandeep Sharma,4,0,,,,,,,,,,58/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,5.6,Mumbai Indians,Rajasthan Royals,Naman Dhir,SE Rutherford,Sandeep Sharma,2,0,,,,,,,,,,60/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,6.1,Mumbai Indians,Rajasthan Royals,SE Rutherford,Naman Dhir,Ravi Bishnoi,2,0,,,,,,,,,,62/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,6.2,Mumbai Indians,Rajasthan Royals,SE Rutherford,Naman Dhir,Ravi Bishnoi,2,0,,,,,,,,,,64/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,6.3,Mumbai Indians,Rajasthan Royals,SE Rutherford,Naman Dhir,Ravi Bishnoi,0,1,1,,,,,,,,,65/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,6.3,Mumbai Indians,Rajasthan Royals,SE Rutherford,Naman Dhir,Ravi Bishnoi,1,0,,,,,,,,,,66/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,6.4,Mumbai Indians,Rajasthan Royals,Naman Dhir,SE Rutherford,Ravi Bishnoi,1,0,,,,,,,,,,67/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,6.5,Mumbai Indians,Rajasthan Royals,SE Rutherford,Naman Dhir,Ravi Bishnoi,4,0,,,,,,,,,,71/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,6.6,Mumbai Indians,Rajasthan Royals,SE Rutherford,Naman Dhir,Ravi Bishnoi,4,0,,,,,,,,,,75/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,7.1,Mumbai Indians,Rajasthan Royals,Naman Dhir,SE Rutherford,TU Deshpande,4,0,,,,,,,,,,79/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,7.2,Mumbai Indians,Rajasthan Royals,Naman Dhir,SE Rutherford,TU Deshpande,1,0,,,,,,,,,,80/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,7.3,Mumbai Indians,Rajasthan Royals,SE Rutherford,Naman Dhir,TU Deshpande,6,0,,,,,,,,,,86/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,7.4,Mumbai Indians,Rajasthan Royals,SE Rutherford,Naman Dhir,TU Deshpande,0,1,1,,,,,,,,,87/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,7.4,Mumbai Indians,Rajasthan Royals,SE Rutherford,Naman Dhir,TU Deshpande,6,0,,,,,,,,,,93/5
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,7.5,Mumbai Indians,Rajasthan Royals,SE Rutherford,Naman Dhir,TU Deshpande,0,0,,,,,,caught,SE Rutherford,,,93/6
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,7.6,Mumbai Indians,Rajasthan Royals,SN Thakur,Naman Dhir,TU Deshpande,1,0,,,,,,,,,,94/6
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,8.1,Mumbai Indians,Rajasthan Royals,SN Thakur,Naman Dhir,N Burger,4,0,,,,,,,,,,98/6
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,8.2,Mumbai Indians,Rajasthan Royals,SN Thakur,Naman Dhir,N Burger,1,0,,,,,,,,,,99/6
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,8.3,Mumbai Indians,Rajasthan Royals,Naman Dhir,SN Thakur,N Burger,0,0,,,,,,,,,,99/6
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,8.4,Mumbai Indians,Rajasthan Royals,Naman Dhir,SN Thakur,N Burger,4,0,,,,,,,,,,103/6
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,8.5,Mumbai Indians,Rajasthan Royals,Naman Dhir,SN Thakur,N Burger,0,0,,,,,,caught,Naman Dhir,,,103/7
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,8.6,Mumbai Indians,Rajasthan Royals,DL Chahar,SN Thakur,N Burger,0,4,,,,4,,,,,,107/7
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,9.1,Mumbai Indians,Rajasthan Royals,SN Thakur,DL Chahar,Sandeep Sharma,0,0,,,,,,,,,,107/7
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,9.2,Mumbai Indians,Rajasthan Royals,SN Thakur,DL Chahar,Sandeep Sharma,0,1,1,,,,,,,,,108/7
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,9.2,Mumbai Indians,Rajasthan Royals,SN Thakur,DL Chahar,Sandeep Sharma,0,0,,,,,,,,,,108/7
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,9.3,Mumbai Indians,Rajasthan Royals,SN Thakur,DL Chahar,Sandeep Sharma,2,0,,,,,,,,,,110/7
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,9.4,Mumbai Indians,Rajasthan Royals,SN Thakur,DL Chahar,Sandeep Sharma,0,1,1,,,,,,,,,111/7
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,9.4,Mumbai Indians,Rajasthan Royals,SN Thakur,DL Chahar,Sandeep Sharma,0,0,,,,,,caught,SN Thakur,,,111/8
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,9.5,Mumbai Indians,Rajasthan Royals,TA Boult,DL Chahar,Sandeep Sharma,1,0,,,,,,,,,,112/8
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,9.6,Mumbai Indians,Rajasthan Royals,DL Chahar,TA Boult,Sandeep Sharma,4,0,,,,,,,,,,116/8
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,10.1,Mumbai Indians,Rajasthan Royals,TA Boult,DL Chahar,JC Archer,0,0,,,,,,run out,TA Boult,,,116/9
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,10.2,Mumbai Indians,Rajasthan Royals,DL Chahar,JJ Bumrah,JC Archer,0,0,,,,,,,,,,116/9
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,10.3,Mumbai Indians,Rajasthan Royals,DL Chahar,JJ Bumrah,JC Archer,1,0,,,,,,,,,,117/9
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,10.4,Mumbai Indians,Rajasthan Royals,JJ Bumrah,DL Chahar,JC Archer,4,0,,,,,,,,,,121/9
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,10.5,Mumbai Indians,Rajasthan Royals,JJ Bumrah,DL Chahar,JC Archer,1,0,,,,,,,,,,122/9
+13,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",2,10.6,Mumbai Indians,Rajasthan Royals,DL Chahar,JJ Bumrah,JC Archer,1,0,,,,,,,,,,123/9

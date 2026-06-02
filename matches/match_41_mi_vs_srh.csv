@@ -1,0 +1,248 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,0.1,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,PJ Cummins,1,0,,,,,,,,,,1/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,0.2,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,PJ Cummins,0,0,,,,,,,,,,1/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,0.3,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,PJ Cummins,0,0,,,,,,,,,,1/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,0.4,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,PJ Cummins,0,0,,,,,,,,,,1/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,0.5,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,PJ Cummins,1,0,,,,,,,,,,2/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,0.6,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,PJ Cummins,4,0,,,,,,,,,,6/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,1.1,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,PP Hinge,6,0,,,,,,,,,,12/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,1.2,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,PP Hinge,1,0,,,,,,,,,,13/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,1.3,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,PP Hinge,4,0,,,,,,,,,,17/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,1.4,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,PP Hinge,4,0,,,,,,,,,,21/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,1.5,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,PP Hinge,0,0,,,,,,,,,,21/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,1.6,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,PP Hinge,0,0,,,,,,,,,,21/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,2.1,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,PJ Cummins,4,0,,,,,,,,,,25/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,2.2,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,PJ Cummins,4,0,,,,,,,,,,29/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,2.3,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,PJ Cummins,0,1,1,,,,,,,,,30/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,2.3,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,PJ Cummins,2,0,,,,,,,,,,32/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,2.4,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,PJ Cummins,1,0,,,,,,,,,,33/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,2.5,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,PJ Cummins,4,0,,,,,,,,,,37/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,2.6,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,PJ Cummins,0,0,,,,,,,,,,37/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,3.1,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,E Malinga,0,0,,,,,,,,,,37/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,3.2,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,E Malinga,0,1,,,,1,,,,,,38/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,3.3,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,E Malinga,1,0,,,,,,,,,,39/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,3.4,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,E Malinga,1,0,,,,,,,,,,40/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,3.5,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,E Malinga,2,0,,,,,,,,,,42/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,3.6,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,E Malinga,0,1,1,,,,,,,,,43/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,3.6,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,E Malinga,1,0,,,,,,,,,,44/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,4.1,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,Harsh Dubey,6,0,,,,,,,,,,50/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,4.2,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,Harsh Dubey,0,0,,,,,,,,,,50/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,4.3,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,Harsh Dubey,0,0,,,,,,,,,,50/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,4.4,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,Harsh Dubey,6,0,,,,,,,,,,56/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,4.5,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,Harsh Dubey,0,0,,,,,,,,,,56/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,4.6,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,Harsh Dubey,4,0,,,,,,,,,,60/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,5.1,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,Sakib Hussain,6,0,,,,,,,,,,66/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,5.2,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,Sakib Hussain,0,0,,,,,,,,,,66/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,5.3,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,Sakib Hussain,6,0,,,,,,,,,,72/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,5.4,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,Sakib Hussain,4,0,,,,,,,,,,76/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,5.5,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,Sakib Hussain,1,0,,,,,,,,,,77/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,5.6,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,Sakib Hussain,1,0,,,,,,,,,,78/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,6.1,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,Harsh Dubey,1,0,,,,,,,,,,79/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,6.2,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,Harsh Dubey,2,0,,,,,,,,,,81/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,6.3,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,Harsh Dubey,1,0,,,,,,,,,,82/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,6.4,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,Harsh Dubey,6,0,,,,,,,,,,88/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,6.5,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,Harsh Dubey,1,0,,,,,,,,,,89/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,6.6,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,WG Jacks,Harsh Dubey,4,0,,,,,,,,,,93/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,7.1,Mumbai Indians,Sunrisers Hyderabad,WG Jacks,RD Rickelton,Nithish Kumar Reddy,0,0,,,,,,caught,WG Jacks,,,93/1
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,7.2,Mumbai Indians,Sunrisers Hyderabad,SA Yadav,RD Rickelton,Nithish Kumar Reddy,4,0,,,,,,,,,,97/1
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,7.3,Mumbai Indians,Sunrisers Hyderabad,SA Yadav,RD Rickelton,Nithish Kumar Reddy,1,0,,,,,,,,,,98/1
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,7.4,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,SA Yadav,Nithish Kumar Reddy,4,0,,,,,,,,,,102/1
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,7.5,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,SA Yadav,Nithish Kumar Reddy,6,0,,,,,,,,,,108/1
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,7.6,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,SA Yadav,Nithish Kumar Reddy,2,0,,,,,,,,,,110/1
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,8.1,Mumbai Indians,Sunrisers Hyderabad,SA Yadav,RD Rickelton,E Malinga,0,0,,,,,,,,,,110/1
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,8.2,Mumbai Indians,Sunrisers Hyderabad,SA Yadav,RD Rickelton,E Malinga,0,0,,,,,,,,,,110/1
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,8.3,Mumbai Indians,Sunrisers Hyderabad,SA Yadav,RD Rickelton,E Malinga,0,0,,,,,,caught,SA Yadav,,,110/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,8.4,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,E Malinga,1,0,,,,,,,,,,111/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,8.5,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Naman Dhir,E Malinga,1,0,,,,,,,,,,112/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,8.6,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,E Malinga,1,0,,,,,,,,,,113/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,9.1,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,PJ Cummins,0,0,,,,,,,,,,113/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,9.2,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,PJ Cummins,1,0,,,,,,,,,,114/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,9.3,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Naman Dhir,PJ Cummins,1,0,,,,,,,,,,115/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,9.4,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,PJ Cummins,4,0,,,,,,,,,,119/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,9.5,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,PJ Cummins,1,0,,,,,,,,,,120/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,9.6,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Naman Dhir,PJ Cummins,4,0,,,,,,,,,,124/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,10.1,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,Sakib Hussain,1,0,,,,,,,,,,125/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,10.2,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Naman Dhir,Sakib Hussain,0,1,1,,,,,,,,,126/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,10.2,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Naman Dhir,Sakib Hussain,1,0,,,,,,,,,,127/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,10.3,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,Sakib Hussain,1,0,,,,,,,,,,128/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,10.4,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Naman Dhir,Sakib Hussain,4,0,,,,,,,,,,132/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,10.5,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Naman Dhir,Sakib Hussain,1,0,,,,,,,,,,133/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,10.6,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,Sakib Hussain,4,0,,,,,,,,,,137/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,11.1,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Naman Dhir,Harsh Dubey,6,0,,,,,,,,,,143/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,11.2,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Naman Dhir,Harsh Dubey,6,0,,,,,,,,,,149/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,11.3,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Naman Dhir,Harsh Dubey,2,0,,,,,,,,,,151/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,11.4,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Naman Dhir,Harsh Dubey,1,0,,,,,,,,,,152/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,11.5,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,Harsh Dubey,0,0,,,,,,,,,,152/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,11.6,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,Harsh Dubey,4,0,,,,,,,,,,156/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,12.1,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Naman Dhir,E Malinga,1,0,,,,,,,,,,157/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,12.2,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,E Malinga,1,0,,,,,,,,,,158/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,12.3,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Naman Dhir,E Malinga,1,0,,,,,,,,,,159/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,12.4,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,E Malinga,1,0,,,,,,,,,,160/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,12.5,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Naman Dhir,E Malinga,1,0,,,,,,,,,,161/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,12.6,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,E Malinga,0,1,1,,,,,,,,,162/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,12.6,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,E Malinga,1,0,,,,,,,,,,163/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,13.1,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,PP Hinge,1,0,,,,,,,,,,164/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,13.2,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Naman Dhir,PP Hinge,1,0,,,,,,,,,,165/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,13.3,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,PP Hinge,0,0,,,,,,,,,,165/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,13.4,Mumbai Indians,Sunrisers Hyderabad,Naman Dhir,RD Rickelton,PP Hinge,0,0,,,,,,caught,Naman Dhir,,,165/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,13.5,Mumbai Indians,Sunrisers Hyderabad,HH Pandya,RD Rickelton,PP Hinge,1,0,,,,,,,,,,166/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,13.6,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,HH Pandya,PP Hinge,1,0,,,,,,,,,,167/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,14.1,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,HH Pandya,Nithish Kumar Reddy,1,0,,,,,,,,,,168/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,14.2,Mumbai Indians,Sunrisers Hyderabad,HH Pandya,RD Rickelton,Nithish Kumar Reddy,1,0,,,,,,,,,,169/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,14.3,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,HH Pandya,Nithish Kumar Reddy,4,0,,,,,,,,,,173/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,14.4,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,HH Pandya,Nithish Kumar Reddy,6,0,,,,,,,,,,179/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,14.5,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,HH Pandya,Nithish Kumar Reddy,0,0,,,,,,,,,,179/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,14.6,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,HH Pandya,Nithish Kumar Reddy,0,1,1,,,,,,,,,180/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,14.6,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,HH Pandya,Nithish Kumar Reddy,1,0,,,,,,,,,,181/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,15.1,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,HH Pandya,PP Hinge,4,0,,,,,,,,,,185/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,15.2,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,HH Pandya,PP Hinge,1,0,,,,,,,,,,186/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,15.3,Mumbai Indians,Sunrisers Hyderabad,HH Pandya,RD Rickelton,PP Hinge,4,0,,,,,,,,,,190/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,15.4,Mumbai Indians,Sunrisers Hyderabad,HH Pandya,RD Rickelton,PP Hinge,6,0,,,,,,,,,,196/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,15.5,Mumbai Indians,Sunrisers Hyderabad,HH Pandya,RD Rickelton,PP Hinge,4,0,,,,,,,,,,200/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,15.6,Mumbai Indians,Sunrisers Hyderabad,HH Pandya,RD Rickelton,PP Hinge,2,0,,,,,,,,,,202/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,16.1,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,HH Pandya,PJ Cummins,1,0,,,,,,,,,,203/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,16.2,Mumbai Indians,Sunrisers Hyderabad,HH Pandya,RD Rickelton,PJ Cummins,1,0,,,,,,,,,,204/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,16.3,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,HH Pandya,PJ Cummins,1,0,,,,,,,,,,205/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,16.4,Mumbai Indians,Sunrisers Hyderabad,HH Pandya,RD Rickelton,PJ Cummins,1,0,,,,,,,,,,206/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,16.5,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,HH Pandya,PJ Cummins,1,0,,,,,,,,,,207/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,16.6,Mumbai Indians,Sunrisers Hyderabad,HH Pandya,RD Rickelton,PJ Cummins,1,0,,,,,,,,,,208/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,17.1,Mumbai Indians,Sunrisers Hyderabad,HH Pandya,RD Rickelton,E Malinga,6,0,,,,,,,,,,214/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,17.2,Mumbai Indians,Sunrisers Hyderabad,HH Pandya,RD Rickelton,E Malinga,2,0,,,,,,,,,,216/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,17.3,Mumbai Indians,Sunrisers Hyderabad,HH Pandya,RD Rickelton,E Malinga,0,1,1,,,,,,,,,217/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,17.3,Mumbai Indians,Sunrisers Hyderabad,HH Pandya,RD Rickelton,E Malinga,1,0,,,,,,,,,,218/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,17.4,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,HH Pandya,E Malinga,0,1,1,,,,,,,,,219/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,17.4,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,HH Pandya,E Malinga,1,0,,,,,,,,,,220/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,17.5,Mumbai Indians,Sunrisers Hyderabad,HH Pandya,RD Rickelton,E Malinga,0,0,,,,,,,,,,220/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,17.6,Mumbai Indians,Sunrisers Hyderabad,HH Pandya,RD Rickelton,E Malinga,1,0,,,,,,,,,,221/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,18.1,Mumbai Indians,Sunrisers Hyderabad,HH Pandya,RD Rickelton,Sakib Hussain,0,0,,,,,,caught,HH Pandya,,,221/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,18.2,Mumbai Indians,Sunrisers Hyderabad,Tilak Varma,RD Rickelton,Sakib Hussain,6,0,,,,,,,,,,227/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,18.3,Mumbai Indians,Sunrisers Hyderabad,Tilak Varma,RD Rickelton,Sakib Hussain,0,0,,,,,,,,,,227/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,18.4,Mumbai Indians,Sunrisers Hyderabad,Tilak Varma,RD Rickelton,Sakib Hussain,1,0,,,,,,,,,,228/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,18.5,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Tilak Varma,Sakib Hussain,1,0,,,,,,,,,,229/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,18.6,Mumbai Indians,Sunrisers Hyderabad,Tilak Varma,RD Rickelton,Sakib Hussain,0,0,,,,,,,,,,229/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,19.1,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Tilak Varma,PP Hinge,2,0,,,,,,,,,,231/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,19.2,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,Tilak Varma,PP Hinge,1,0,,,,,,,,,,232/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,19.3,Mumbai Indians,Sunrisers Hyderabad,Tilak Varma,RD Rickelton,PP Hinge,0,0,,,,,,caught,Tilak Varma,,,232/5
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,19.4,Mumbai Indians,Sunrisers Hyderabad,R Minz,RD Rickelton,PP Hinge,1,0,,,,,,,,,,233/5
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,19.5,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,R Minz,PP Hinge,6,0,,,,,,,,,,239/5
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",1,19.6,Mumbai Indians,Sunrisers Hyderabad,RD Rickelton,R Minz,PP Hinge,4,0,,,,,,,,,,243/5
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,0.1,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,TA Boult,0,0,,,,,,,,,,0/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,0.2,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,TA Boult,6,0,,,,,,,,,,6/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,0.3,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,TA Boult,0,1,1,,,,,,,,,7/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,0.3,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,TA Boult,0,1,1,,,,,,,,,8/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,0.3,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,TA Boult,1,0,,,,,,,,,,9/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,0.4,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,TA Boult,0,0,,,,,,,,,,9/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,0.5,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,TA Boult,1,0,,,,,,,,,,10/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,0.6,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,TA Boult,1,0,,,,,,,,,,11/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,1.1,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,JJ Bumrah,1,0,,,,,,,,,,12/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,1.2,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,JJ Bumrah,0,0,,,,,,,,,,12/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,1.3,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,JJ Bumrah,1,0,,,,,,,,,,13/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,1.4,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,JJ Bumrah,0,1,1,,,,,,,,,14/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,1.4,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,JJ Bumrah,0,1,1,,,,,,,,,15/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,1.4,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,JJ Bumrah,6,0,,,,,,,,,,21/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,1.5,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,JJ Bumrah,0,4,,,,4,,,,,,25/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,1.6,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,JJ Bumrah,0,0,,,,,,,,,,25/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,2.1,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,TA Boult,6,0,,,,,,,,,,31/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,2.2,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,TA Boult,0,0,,,,,,,,,,31/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,2.3,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,TA Boult,0,0,,,,,,,,,,31/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,2.4,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,TA Boult,6,0,,,,,,,,,,37/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,2.5,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,TA Boult,6,0,,,,,,,,,,43/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,2.6,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,TA Boult,0,0,,,,,,,,,,43/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,3.1,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,WG Jacks,4,0,,,,,,,,,,47/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,3.2,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,WG Jacks,0,0,,,,,,,,,,47/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,3.3,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,WG Jacks,4,0,,,,,,,,,,51/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,3.4,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,WG Jacks,1,0,,,,,,,,,,52/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,3.5,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,WG Jacks,6,0,,,,,,,,,,58/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,3.6,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,WG Jacks,4,0,,,,,,,,,,62/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,4.1,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,AM Ghazanfar,1,0,,,,,,,,,,63/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,4.2,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,AM Ghazanfar,0,0,,,,,,,,,,63/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,4.3,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,AM Ghazanfar,2,0,,,,,,,,,,65/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,4.4,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,AM Ghazanfar,4,0,,,,,,,,,,69/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,4.5,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,AM Ghazanfar,1,0,,,,,,,,,,70/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,4.6,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,AM Ghazanfar,4,0,,,,,,,,,,74/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,5.1,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,JJ Bumrah,6,0,,,,,,,,,,80/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,5.2,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,JJ Bumrah,4,0,,,,,,,,,,84/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,5.3,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,JJ Bumrah,1,0,,,,,,,,,,85/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,5.4,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,JJ Bumrah,0,0,,,,,,,,,,85/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,5.5,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,JJ Bumrah,6,0,,,,,,,,,,91/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,5.6,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,JJ Bumrah,1,0,,,,,,,,,,92/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,6.1,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,Ashwani Kumar,0,1,1,,,,,,,,,93/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,6.1,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,Ashwani Kumar,4,0,,,,,,,,,,97/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,6.2,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,Ashwani Kumar,1,0,,,,,,,,,,98/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,6.3,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,Ashwani Kumar,6,0,,,,,,,,,,104/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,6.4,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,Ashwani Kumar,6,0,,,,,,,,,,110/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,6.5,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,Ashwani Kumar,4,0,,,,,,,,,,114/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,6.6,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,Ashwani Kumar,1,0,,,,,,,,,,115/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,7.1,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,HH Pandya,1,0,,,,,,,,,,116/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,7.2,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,HH Pandya,1,0,,,,,,,,,,117/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,7.3,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,HH Pandya,1,0,,,,,,,,,,118/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,7.4,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,HH Pandya,1,0,,,,,,,,,,119/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,7.5,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,HH Pandya,6,0,,,,,,,,,,125/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,7.6,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,HH Pandya,1,0,,,,,,,,,,126/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,8.1,Sunrisers Hyderabad,Mumbai Indians,TM Head,Abhishek Sharma,AM Ghazanfar,1,0,,,,,,,,,,127/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,8.2,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,AM Ghazanfar,0,0,,,,,,,,,,127/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,8.3,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,AM Ghazanfar,2,0,,,,,,,,,,129/0
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,8.4,Sunrisers Hyderabad,Mumbai Indians,Abhishek Sharma,TM Head,AM Ghazanfar,0,0,,,,,,caught,Abhishek Sharma,,,129/1
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,8.5,Sunrisers Hyderabad,Mumbai Indians,Ishan Kishan,TM Head,AM Ghazanfar,0,0,,,,,,bowled,Ishan Kishan,,,129/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,8.6,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,TM Head,AM Ghazanfar,1,0,,,,,,,,,,130/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,9.1,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,TM Head,HH Pandya,1,0,,,,,,,,,,131/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,9.2,Sunrisers Hyderabad,Mumbai Indians,TM Head,H Klaasen,HH Pandya,1,0,,,,,,,,,,132/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,9.3,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,TM Head,HH Pandya,1,0,,,,,,,,,,133/2
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,9.4,Sunrisers Hyderabad,Mumbai Indians,TM Head,H Klaasen,HH Pandya,0,0,,,,,,caught,TM Head,,,133/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,9.5,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,HH Pandya,0,0,,,,,,,,,,133/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,9.6,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,HH Pandya,1,0,,,,,,,,,,134/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,10.1,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,AM Ghazanfar,4,0,,,,,,,,,,138/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,10.2,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,AM Ghazanfar,1,0,,,,,,,,,,139/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,10.3,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,AM Ghazanfar,0,0,,,,,,,,,,139/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,10.4,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,AM Ghazanfar,4,0,,,,,,,,,,143/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,10.5,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,AM Ghazanfar,6,0,,,,,,,,,,149/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,10.6,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,AM Ghazanfar,1,0,,,,,,,,,,150/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,11.1,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,Ashwani Kumar,4,0,,,,,,,,,,154/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,11.2,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,Ashwani Kumar,1,0,,,,,,,,,,155/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,11.3,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,Ashwani Kumar,1,0,,,,,,,,,,156/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,11.4,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,Ashwani Kumar,4,0,,,,,,,,,,160/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,11.5,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,Ashwani Kumar,4,0,,,,,,,,,,164/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,11.6,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,Ashwani Kumar,4,0,,,,,,,,,,168/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,12.1,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,HH Pandya,1,0,,,,,,,,,,169/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,12.2,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,HH Pandya,0,0,,,,,,,,,,169/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,12.3,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,HH Pandya,0,0,,,,,,,,,,169/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,12.4,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,HH Pandya,0,0,,,,,,,,,,169/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,12.5,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,HH Pandya,0,1,1,,,,,,,,,170/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,12.5,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,HH Pandya,0,1,1,,,,,,,,,171/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,12.5,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,HH Pandya,0,1,1,,,,,,,,,172/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,12.5,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,HH Pandya,0,0,,,,,,,,,,172/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,12.6,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,HH Pandya,4,0,,,,,,,,,,176/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,13.1,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,JJ Bumrah,1,0,,,,,,,,,,177/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,13.2,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,JJ Bumrah,6,0,,,,,,,,,,183/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,13.3,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,JJ Bumrah,1,0,,,,,,,,,,184/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,13.4,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,JJ Bumrah,0,0,,,,,,,,,,184/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,13.5,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,JJ Bumrah,4,0,,,,,,,,,,188/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,13.6,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,JJ Bumrah,1,0,,,,,,,,,,189/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,14.1,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,TA Boult,1,0,,,,,,,,,,190/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,14.2,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,TA Boult,1,0,,,,,,,,,,191/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,14.3,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,TA Boult,1,0,,,,,,,,,,192/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,14.4,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,TA Boult,1,0,,,,,,,,,,193/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,14.5,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,TA Boult,0,0,,,,,,,,,,193/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,14.6,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,TA Boult,0,0,,,,,,,,,,193/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,15.1,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,AM Ghazanfar,6,0,,,,,,,,,,199/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,15.2,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,AM Ghazanfar,1,0,,,,,,,,,,200/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,15.3,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,AM Ghazanfar,1,0,,,,,,,,,,201/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,15.4,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,AM Ghazanfar,6,0,,,,,,,,,,207/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,15.5,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,AM Ghazanfar,1,0,,,,,,,,,,208/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,15.6,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,AM Ghazanfar,4,0,,,,,,,,,,212/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,16.1,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,Nithish Kumar Reddy,TA Boult,1,0,,,,,,,,,,213/3
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,16.2,Sunrisers Hyderabad,Mumbai Indians,Nithish Kumar Reddy,H Klaasen,TA Boult,0,0,,,,,,caught,Nithish Kumar Reddy,,,213/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,16.3,Sunrisers Hyderabad,Mumbai Indians,S Arora,H Klaasen,TA Boult,4,0,,,,,,,,,,217/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,16.4,Sunrisers Hyderabad,Mumbai Indians,S Arora,H Klaasen,TA Boult,1,0,,,,,,,,,,218/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,16.5,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,S Arora,TA Boult,1,0,,,,,,,,,,219/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,16.6,Sunrisers Hyderabad,Mumbai Indians,S Arora,H Klaasen,TA Boult,1,0,,,,,,,,,,220/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,17.1,Sunrisers Hyderabad,Mumbai Indians,S Arora,H Klaasen,JJ Bumrah,1,0,,,,,,,,,,221/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,17.2,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,S Arora,JJ Bumrah,4,0,,,,,,,,,,225/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,17.3,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,S Arora,JJ Bumrah,0,0,,,,,,,,,,225/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,17.4,Sunrisers Hyderabad,Mumbai Indians,H Klaasen,S Arora,JJ Bumrah,1,0,,,,,,,,,,226/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,17.5,Sunrisers Hyderabad,Mumbai Indians,S Arora,H Klaasen,JJ Bumrah,6,0,,,,,,,,,,232/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,17.6,Sunrisers Hyderabad,Mumbai Indians,S Arora,H Klaasen,JJ Bumrah,1,0,,,,,,,,,,233/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,18.1,Sunrisers Hyderabad,Mumbai Indians,S Arora,H Klaasen,HH Pandya,4,0,,,,,,,,,,237/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,18.2,Sunrisers Hyderabad,Mumbai Indians,S Arora,H Klaasen,HH Pandya,6,0,,,,,,,,,,243/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,18.3,Sunrisers Hyderabad,Mumbai Indians,S Arora,H Klaasen,HH Pandya,0,0,,,,,,,,,,243/4
+41,2026,2026-04-29,"Wankhede Stadium, Mumbai",2,18.4,Sunrisers Hyderabad,Mumbai Indians,S Arora,H Klaasen,HH Pandya,6,0,,,,,,,,,,249/4

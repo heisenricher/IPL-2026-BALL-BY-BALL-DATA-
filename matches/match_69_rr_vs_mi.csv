@@ -1,0 +1,252 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,0.1,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,DL Chahar,0,0,,,,,,,,,,0/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,0.2,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,DL Chahar,1,0,,,,,,,,,,1/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,0.3,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,DL Chahar,1,0,,,,,,,,,,2/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,0.4,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,DL Chahar,0,0,,,,,,,,,,2/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,0.5,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,DL Chahar,6,0,,,,,,,,,,8/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,0.6,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,DL Chahar,1,0,,,,,,,,,,9/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,1.1,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,WG Jacks,1,0,,,,,,,,,,10/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,1.2,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,WG Jacks,1,0,,,,,,,,,,11/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,1.3,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,WG Jacks,0,0,,,,,,,,,,11/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,1.4,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,WG Jacks,0,0,,,,,,,,,,11/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,1.5,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,WG Jacks,1,0,,,,,,,,,,12/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,1.6,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,WG Jacks,0,1,1,,,,,,,,,13/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,1.6,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,WG Jacks,0,0,,,,,,,,,,13/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,2.1,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,DL Chahar,6,0,,,,,,,,,,19/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,2.2,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,DL Chahar,1,0,,,,,,,,,,20/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,2.3,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,DL Chahar,1,0,,,,,,,,,,21/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,2.4,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,DL Chahar,4,0,,,,,,,,,,25/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,2.5,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,DL Chahar,0,0,,,,,,,,,,25/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,2.6,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,DL Chahar,0,0,,,,,,,,,,25/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,3.1,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,WG Jacks,0,1,1,,,,,,,,,26/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,3.1,Rajasthan Royals,Mumbai Indians,V Suryavanshi,YBK Jaiswal,WG Jacks,1,0,,,,,,,,,,27/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,3.2,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,WG Jacks,6,0,,,,,,,,,,33/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,3.3,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,WG Jacks,0,0,,,,,,,,,,33/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,3.4,Rajasthan Royals,Mumbai Indians,YBK Jaiswal,V Suryavanshi,WG Jacks,0,0,,,,,,caught,YBK Jaiswal,,,33/1
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,3.5,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,V Suryavanshi,WG Jacks,0,0,,,,,,,,,,33/1
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,3.6,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,V Suryavanshi,WG Jacks,0,0,,,,,,,,,,33/1
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,4.1,Rajasthan Royals,Mumbai Indians,V Suryavanshi,Dhruv Jurel,DL Chahar,0,0,,,,,,caught,V Suryavanshi,,,33/2
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,4.2,Rajasthan Royals,Mumbai Indians,R Parag,Dhruv Jurel,DL Chahar,0,0,,,,,,,,,,33/2
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,4.3,Rajasthan Royals,Mumbai Indians,R Parag,Dhruv Jurel,DL Chahar,0,0,,,,,,,,,,33/2
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,4.4,Rajasthan Royals,Mumbai Indians,R Parag,Dhruv Jurel,DL Chahar,6,0,,,,,,,,,,39/2
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,4.5,Rajasthan Royals,Mumbai Indians,R Parag,Dhruv Jurel,DL Chahar,0,0,,,,,,,,,,39/2
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,4.6,Rajasthan Royals,Mumbai Indians,R Parag,Dhruv Jurel,DL Chahar,0,0,,,,,,,,,,39/2
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,5.1,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,R Parag,AM Ghazanfar,0,0,,,,,,,,,,39/2
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,5.2,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,R Parag,AM Ghazanfar,6,0,,,,,,,,,,45/2
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,5.3,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,R Parag,AM Ghazanfar,1,0,,,,,,,,,,46/2
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,5.4,Rajasthan Royals,Mumbai Indians,R Parag,Dhruv Jurel,AM Ghazanfar,4,0,,,,,,,,,,50/2
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,5.5,Rajasthan Royals,Mumbai Indians,R Parag,Dhruv Jurel,AM Ghazanfar,4,0,,,,,,,,,,54/2
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,5.6,Rajasthan Royals,Mumbai Indians,R Parag,Dhruv Jurel,AM Ghazanfar,0,0,,,,,,caught,R Parag,,,54/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,6.1,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,MD Shanaka,Raghu Sharma,0,0,,,,,,,,,,54/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,6.2,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,MD Shanaka,Raghu Sharma,1,0,,,,,,,,,,55/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,6.3,Rajasthan Royals,Mumbai Indians,MD Shanaka,Dhruv Jurel,Raghu Sharma,1,0,,,,,,,,,,56/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,6.4,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,MD Shanaka,Raghu Sharma,2,0,,,,,,,,,,58/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,6.5,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,MD Shanaka,Raghu Sharma,1,0,,,,,,,,,,59/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,6.6,Rajasthan Royals,Mumbai Indians,MD Shanaka,Dhruv Jurel,Raghu Sharma,1,0,,,,,,,,,,60/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,7.1,Rajasthan Royals,Mumbai Indians,MD Shanaka,Dhruv Jurel,AM Ghazanfar,1,0,,,,,,,,,,61/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,7.2,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,MD Shanaka,AM Ghazanfar,1,0,,,,,,,,,,62/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,7.3,Rajasthan Royals,Mumbai Indians,MD Shanaka,Dhruv Jurel,AM Ghazanfar,0,3,3,,,,,,,,,65/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,7.3,Rajasthan Royals,Mumbai Indians,MD Shanaka,Dhruv Jurel,AM Ghazanfar,2,0,,,,,,,,,,67/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,7.4,Rajasthan Royals,Mumbai Indians,MD Shanaka,Dhruv Jurel,AM Ghazanfar,6,0,,,,,,,,,,73/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,7.5,Rajasthan Royals,Mumbai Indians,MD Shanaka,Dhruv Jurel,AM Ghazanfar,1,0,,,,,,,,,,74/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,7.6,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,MD Shanaka,AM Ghazanfar,1,0,,,,,,,,,,75/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,8.1,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,MD Shanaka,Raghu Sharma,1,0,,,,,,,,,,76/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,8.2,Rajasthan Royals,Mumbai Indians,MD Shanaka,Dhruv Jurel,Raghu Sharma,0,0,,,,,,,,,,76/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,8.3,Rajasthan Royals,Mumbai Indians,MD Shanaka,Dhruv Jurel,Raghu Sharma,0,0,,,,,,,,,,76/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,8.4,Rajasthan Royals,Mumbai Indians,MD Shanaka,Dhruv Jurel,Raghu Sharma,2,0,,,,,,,,,,78/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,8.5,Rajasthan Royals,Mumbai Indians,MD Shanaka,Dhruv Jurel,Raghu Sharma,6,0,,,,,,,,,,84/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,8.6,Rajasthan Royals,Mumbai Indians,MD Shanaka,Dhruv Jurel,Raghu Sharma,0,0,,,,,,,,,,84/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,9.1,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,MD Shanaka,SN Thakur,0,0,,,,,,,,,,84/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,9.2,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,MD Shanaka,SN Thakur,1,0,,,,,,,,,,85/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,9.3,Rajasthan Royals,Mumbai Indians,MD Shanaka,Dhruv Jurel,SN Thakur,1,0,,,,,,,,,,86/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,9.4,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,MD Shanaka,SN Thakur,1,0,,,,,,,,,,87/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,9.5,Rajasthan Royals,Mumbai Indians,MD Shanaka,Dhruv Jurel,SN Thakur,6,0,,,,,,,,,,93/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,9.6,Rajasthan Royals,Mumbai Indians,MD Shanaka,Dhruv Jurel,SN Thakur,1,0,,,,,,,,,,94/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,10.1,Rajasthan Royals,Mumbai Indians,MD Shanaka,Dhruv Jurel,C Bosch,1,0,,,,,,,,,,95/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,10.2,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,MD Shanaka,C Bosch,4,0,,,,,,,,,,99/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,10.3,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,MD Shanaka,C Bosch,0,0,,,,,,run out,MD Shanaka,,,99/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,10.4,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,D Ferreira,C Bosch,1,0,,,,,,,,,,100/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,10.5,Rajasthan Royals,Mumbai Indians,D Ferreira,Dhruv Jurel,C Bosch,0,0,,,,,,,,,,100/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,10.6,Rajasthan Royals,Mumbai Indians,D Ferreira,Dhruv Jurel,C Bosch,0,0,,,,,,,,,,100/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,11.1,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,D Ferreira,AM Ghazanfar,4,0,,,,,,,,,,104/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,11.2,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,D Ferreira,AM Ghazanfar,4,0,,,,,,,,,,108/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,11.3,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,D Ferreira,AM Ghazanfar,0,0,,,,,,,,,,108/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,11.4,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,D Ferreira,AM Ghazanfar,6,0,,,,,,,,,,114/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,11.5,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,D Ferreira,AM Ghazanfar,1,0,,,,,,,,,,115/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,11.6,Rajasthan Royals,Mumbai Indians,D Ferreira,Dhruv Jurel,AM Ghazanfar,0,0,,,,,,,,,,115/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,12.1,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,D Ferreira,C Bosch,1,0,,,,,,,,,,116/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,12.2,Rajasthan Royals,Mumbai Indians,D Ferreira,Dhruv Jurel,C Bosch,1,0,,,,,,,,,,117/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,12.3,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,D Ferreira,C Bosch,1,0,,,,,,,,,,118/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,12.4,Rajasthan Royals,Mumbai Indians,D Ferreira,Dhruv Jurel,C Bosch,1,0,,,,,,,,,,119/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,12.5,Rajasthan Royals,Mumbai Indians,Dhruv Jurel,D Ferreira,C Bosch,0,0,,,,,,bowled,Dhruv Jurel,,,119/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,12.6,Rajasthan Royals,Mumbai Indians,JC Archer,D Ferreira,C Bosch,0,0,,,,,,,,,,119/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,13.1,Rajasthan Royals,Mumbai Indians,D Ferreira,JC Archer,SN Thakur,0,0,,,,,,,,,,119/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,13.2,Rajasthan Royals,Mumbai Indians,D Ferreira,JC Archer,SN Thakur,0,0,,,,,,,,,,119/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,13.3,Rajasthan Royals,Mumbai Indians,D Ferreira,JC Archer,SN Thakur,1,0,,,,,,,,,,120/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,13.4,Rajasthan Royals,Mumbai Indians,JC Archer,D Ferreira,SN Thakur,0,0,,,,,,,,,,120/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,13.5,Rajasthan Royals,Mumbai Indians,JC Archer,D Ferreira,SN Thakur,1,0,,,,,,,,,,121/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,13.6,Rajasthan Royals,Mumbai Indians,D Ferreira,JC Archer,SN Thakur,1,0,,,,,,,,,,122/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,14.1,Rajasthan Royals,Mumbai Indians,D Ferreira,JC Archer,Raghu Sharma,0,0,,,,,,,,,,122/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,14.2,Rajasthan Royals,Mumbai Indians,D Ferreira,JC Archer,Raghu Sharma,1,0,,,,,,,,,,123/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,14.3,Rajasthan Royals,Mumbai Indians,JC Archer,D Ferreira,Raghu Sharma,1,0,,,,,,,,,,124/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,14.4,Rajasthan Royals,Mumbai Indians,D Ferreira,JC Archer,Raghu Sharma,6,0,,,,,,,,,,130/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,14.5,Rajasthan Royals,Mumbai Indians,D Ferreira,JC Archer,Raghu Sharma,1,0,,,,,,,,,,131/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,14.6,Rajasthan Royals,Mumbai Indians,JC Archer,D Ferreira,Raghu Sharma,1,0,,,,,,,,,,132/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,15.1,Rajasthan Royals,Mumbai Indians,JC Archer,D Ferreira,DL Chahar,1,0,,,,,,,,,,133/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,15.2,Rajasthan Royals,Mumbai Indians,D Ferreira,JC Archer,DL Chahar,6,0,,,,,,,,,,139/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,15.3,Rajasthan Royals,Mumbai Indians,D Ferreira,JC Archer,DL Chahar,0,0,,,,,,caught,D Ferreira,,,139/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,15.4,Rajasthan Royals,Mumbai Indians,SB Dubey,JC Archer,DL Chahar,2,0,,,,,,,,,,141/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,15.5,Rajasthan Royals,Mumbai Indians,SB Dubey,JC Archer,DL Chahar,1,0,,,,,,,,,,142/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,15.6,Rajasthan Royals,Mumbai Indians,JC Archer,SB Dubey,DL Chahar,6,0,,,,,,,,,,148/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,16.1,Rajasthan Royals,Mumbai Indians,SB Dubey,JC Archer,C Bosch,1,0,,,,,,,,,,149/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,16.2,Rajasthan Royals,Mumbai Indians,JC Archer,SB Dubey,C Bosch,2,0,,,,,,,,,,151/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,16.3,Rajasthan Royals,Mumbai Indians,JC Archer,SB Dubey,C Bosch,6,0,,,,,,,,,,157/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,16.4,Rajasthan Royals,Mumbai Indians,JC Archer,SB Dubey,C Bosch,2,0,,,,,,,,,,159/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,16.5,Rajasthan Royals,Mumbai Indians,JC Archer,SB Dubey,C Bosch,1,0,,,,,,,,,,160/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,16.6,Rajasthan Royals,Mumbai Indians,SB Dubey,JC Archer,C Bosch,0,1,,,,1,,,,,,161/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,17.1,Rajasthan Royals,Mumbai Indians,SB Dubey,JC Archer,SN Thakur,1,0,,,,,,,,,,162/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,17.2,Rajasthan Royals,Mumbai Indians,JC Archer,SB Dubey,SN Thakur,6,0,,,,,,,,,,168/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,17.3,Rajasthan Royals,Mumbai Indians,JC Archer,SB Dubey,SN Thakur,4,1,,1,,,,,,,,173/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,17.3,Rajasthan Royals,Mumbai Indians,JC Archer,SB Dubey,SN Thakur,1,0,,,,,,,,,,174/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,17.4,Rajasthan Royals,Mumbai Indians,SB Dubey,JC Archer,SN Thakur,0,0,,,,,,caught,SB Dubey,,,174/7
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,17.5,Rajasthan Royals,Mumbai Indians,RA Jadeja,JC Archer,SN Thakur,1,0,,,,,,,,,,175/7
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,17.6,Rajasthan Royals,Mumbai Indians,JC Archer,RA Jadeja,SN Thakur,0,0,,,,,,caught,JC Archer,,,175/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,18.1,Rajasthan Royals,Mumbai Indians,RA Jadeja,N Burger,C Bosch,0,1,1,,,,,,,,,176/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,18.1,Rajasthan Royals,Mumbai Indians,RA Jadeja,N Burger,C Bosch,1,0,,,,,,,,,,177/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,18.2,Rajasthan Royals,Mumbai Indians,N Burger,RA Jadeja,C Bosch,1,0,,,,,,,,,,178/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,18.3,Rajasthan Royals,Mumbai Indians,RA Jadeja,N Burger,C Bosch,2,0,,,,,,,,,,180/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,18.4,Rajasthan Royals,Mumbai Indians,RA Jadeja,N Burger,C Bosch,4,0,,,,,,,,,,184/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,18.5,Rajasthan Royals,Mumbai Indians,RA Jadeja,N Burger,C Bosch,1,0,,,,,,,,,,185/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,18.6,Rajasthan Royals,Mumbai Indians,N Burger,RA Jadeja,C Bosch,6,0,,,,,,,,,,191/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,19.1,Rajasthan Royals,Mumbai Indians,RA Jadeja,N Burger,SN Thakur,0,0,,,,,,,,,,191/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,19.2,Rajasthan Royals,Mumbai Indians,RA Jadeja,N Burger,SN Thakur,1,0,,,,,,,,,,192/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,19.3,Rajasthan Royals,Mumbai Indians,N Burger,RA Jadeja,SN Thakur,3,0,,,,,,,,,,195/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,19.4,Rajasthan Royals,Mumbai Indians,RA Jadeja,N Burger,SN Thakur,0,1,,1,,,,,,,,196/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,19.4,Rajasthan Royals,Mumbai Indians,RA Jadeja,N Burger,SN Thakur,4,0,,,,,,,,,,200/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,19.5,Rajasthan Royals,Mumbai Indians,RA Jadeja,N Burger,SN Thakur,4,0,,,,,,,,,,204/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",1,19.6,Rajasthan Royals,Mumbai Indians,RA Jadeja,N Burger,SN Thakur,1,0,,,,,,,,,,205/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,0.1,Mumbai Indians,Rajasthan Royals,RG Sharma,RD Rickelton,JC Archer,0,0,,,,,,,,,,0/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,0.2,Mumbai Indians,Rajasthan Royals,RG Sharma,RD Rickelton,JC Archer,0,0,,,,,,,,,,0/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,0.3,Mumbai Indians,Rajasthan Royals,RG Sharma,RD Rickelton,JC Archer,0,0,,,,,,,,,,0/0
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,0.4,Mumbai Indians,Rajasthan Royals,RG Sharma,RD Rickelton,JC Archer,0,0,,,,,,caught,RG Sharma,,,0/1
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,0.5,Mumbai Indians,Rajasthan Royals,Naman Dhir,RD Rickelton,JC Archer,1,0,,,,,,,,,,1/1
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,0.6,Mumbai Indians,Rajasthan Royals,RD Rickelton,Naman Dhir,JC Archer,0,0,,,,,,,,,,1/1
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,1.1,Mumbai Indians,Rajasthan Royals,Naman Dhir,RD Rickelton,N Burger,0,0,,,,,,,,,,1/1
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,1.2,Mumbai Indians,Rajasthan Royals,Naman Dhir,RD Rickelton,N Burger,1,0,,,,,,,,,,2/1
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,1.3,Mumbai Indians,Rajasthan Royals,RD Rickelton,Naman Dhir,N Burger,0,0,,,,,,,,,,2/1
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,1.4,Mumbai Indians,Rajasthan Royals,RD Rickelton,Naman Dhir,N Burger,4,0,,,,,,,,,,6/1
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,1.5,Mumbai Indians,Rajasthan Royals,RD Rickelton,Naman Dhir,N Burger,6,0,,,,,,,,,,12/1
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,1.6,Mumbai Indians,Rajasthan Royals,RD Rickelton,Naman Dhir,N Burger,1,0,,,,,,,,,,13/1
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,2.1,Mumbai Indians,Rajasthan Royals,RD Rickelton,Naman Dhir,JC Archer,1,0,,,,,,,,,,14/1
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,2.2,Mumbai Indians,Rajasthan Royals,Naman Dhir,RD Rickelton,JC Archer,4,0,,,,,,,,,,18/1
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,2.3,Mumbai Indians,Rajasthan Royals,Naman Dhir,RD Rickelton,JC Archer,0,0,,,,,,bowled,Naman Dhir,,,18/2
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,2.4,Mumbai Indians,Rajasthan Royals,SA Yadav,RD Rickelton,JC Archer,4,0,,,,,,,,,,22/2
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,2.5,Mumbai Indians,Rajasthan Royals,SA Yadav,RD Rickelton,JC Archer,0,0,,,,,,,,,,22/2
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,2.6,Mumbai Indians,Rajasthan Royals,SA Yadav,RD Rickelton,JC Archer,1,0,,,,,,,,,,23/2
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,3.1,Mumbai Indians,Rajasthan Royals,SA Yadav,RD Rickelton,N Burger,1,0,,,,,,,,,,24/2
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,3.2,Mumbai Indians,Rajasthan Royals,RD Rickelton,SA Yadav,N Burger,0,0,,,,,,caught,RD Rickelton,,,24/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,3.3,Mumbai Indians,Rajasthan Royals,Tilak Varma,SA Yadav,N Burger,0,0,,,,,,,,,,24/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,3.4,Mumbai Indians,Rajasthan Royals,Tilak Varma,SA Yadav,N Burger,1,0,,,,,,,,,,25/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,3.5,Mumbai Indians,Rajasthan Royals,SA Yadav,Tilak Varma,N Burger,6,0,,,,,,,,,,31/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,3.6,Mumbai Indians,Rajasthan Royals,SA Yadav,Tilak Varma,N Burger,4,0,,,,,,,,,,35/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,4.1,Mumbai Indians,Rajasthan Royals,Tilak Varma,SA Yadav,JC Archer,0,0,,,,,,,,,,35/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,4.2,Mumbai Indians,Rajasthan Royals,Tilak Varma,SA Yadav,JC Archer,1,0,,,,,,,,,,36/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,4.3,Mumbai Indians,Rajasthan Royals,SA Yadav,Tilak Varma,JC Archer,0,0,,,,,,,,,,36/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,4.4,Mumbai Indians,Rajasthan Royals,SA Yadav,Tilak Varma,JC Archer,1,0,,,,,,,,,,37/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,4.5,Mumbai Indians,Rajasthan Royals,Tilak Varma,SA Yadav,JC Archer,0,0,,,,,,,,,,37/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,4.6,Mumbai Indians,Rajasthan Royals,Tilak Varma,SA Yadav,JC Archer,1,0,,,,,,,,,,38/3
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,5.1,Mumbai Indians,Rajasthan Royals,Tilak Varma,SA Yadav,Brijesh Sharma,0,0,,,,,,bowled,Tilak Varma,,,38/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,5.2,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,Brijesh Sharma,0,0,,,,,,,,,,38/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,5.3,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,Brijesh Sharma,4,0,,,,,,,,,,42/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,5.4,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,Brijesh Sharma,1,1,,1,,,,,,,,44/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,5.4,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,Brijesh Sharma,0,0,,,,,,,,,,44/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,5.5,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,Brijesh Sharma,1,0,,,,,,,,,,45/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,5.6,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,Brijesh Sharma,4,0,,,,,,,,,,49/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,6.1,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,RA Jadeja,1,0,,,,,,,,,,50/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,6.2,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,RA Jadeja,1,0,,,,,,,,,,51/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,6.3,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,RA Jadeja,6,0,,,,,,,,,,57/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,6.4,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,RA Jadeja,0,0,,,,,,,,,,57/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,6.5,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,RA Jadeja,0,0,,,,,,,,,,57/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,6.6,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,RA Jadeja,2,0,,,,,,,,,,59/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,7.1,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,Yash Raj Punja,1,0,,,,,,,,,,60/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,7.2,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,Yash Raj Punja,0,0,,,,,,,,,,60/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,7.3,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,Yash Raj Punja,0,0,,,,,,,,,,60/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,7.4,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,Yash Raj Punja,0,0,,,,,,,,,,60/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,7.5,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,Yash Raj Punja,1,0,,,,,,,,,,61/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,7.6,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,Yash Raj Punja,6,0,,,,,,,,,,67/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,8.1,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,RA Jadeja,6,0,,,,,,,,,,73/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,8.2,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,RA Jadeja,1,0,,,,,,,,,,74/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,8.3,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,RA Jadeja,4,0,,,,,,,,,,78/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,8.4,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,RA Jadeja,1,0,,,,,,,,,,79/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,8.5,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,RA Jadeja,1,0,,,,,,,,,,80/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,8.6,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,RA Jadeja,1,0,,,,,,,,,,81/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,9.1,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,Yash Raj Punja,1,0,,,,,,,,,,82/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,9.2,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,Yash Raj Punja,6,0,,,,,,,,,,88/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,9.3,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,Yash Raj Punja,0,0,,,,,,,,,,88/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,9.4,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,Yash Raj Punja,1,0,,,,,,,,,,89/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,9.5,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,Yash Raj Punja,1,0,,,,,,,,,,90/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,9.6,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,Yash Raj Punja,0,0,,,,,,,,,,90/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,10.1,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,Brijesh Sharma,0,0,,,,,,,,,,90/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,10.2,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,Brijesh Sharma,1,0,,,,,,,,,,91/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,10.3,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,Brijesh Sharma,1,0,,,,,,,,,,92/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,10.4,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,Brijesh Sharma,1,0,,,,,,,,,,93/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,10.5,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,Brijesh Sharma,1,0,,,,,,,,,,94/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,10.6,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,Brijesh Sharma,0,0,,,,,,,,,,94/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,11.1,Mumbai Indians,Rajasthan Royals,SA Yadav,WG Jacks,Yash Raj Punja,1,0,,,,,,,,,,95/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,11.2,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,Yash Raj Punja,6,0,,,,,,,,,,101/4
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,11.3,Mumbai Indians,Rajasthan Royals,WG Jacks,SA Yadav,Yash Raj Punja,0,0,,,,,,caught,WG Jacks,,,101/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,11.4,Mumbai Indians,Rajasthan Royals,HH Pandya,SA Yadav,Yash Raj Punja,2,0,,,,,,,,,,103/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,11.5,Mumbai Indians,Rajasthan Royals,HH Pandya,SA Yadav,Yash Raj Punja,6,0,,,,,,,,,,109/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,11.6,Mumbai Indians,Rajasthan Royals,HH Pandya,SA Yadav,Yash Raj Punja,0,1,1,,,,,,,,,110/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,11.6,Mumbai Indians,Rajasthan Royals,HH Pandya,SA Yadav,Yash Raj Punja,6,0,,,,,,,,,,116/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,12.1,Mumbai Indians,Rajasthan Royals,SA Yadav,HH Pandya,MD Shanaka,2,0,,,,,,,,,,118/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,12.2,Mumbai Indians,Rajasthan Royals,SA Yadav,HH Pandya,MD Shanaka,0,1,1,,,,,,,,,119/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,12.2,Mumbai Indians,Rajasthan Royals,SA Yadav,HH Pandya,MD Shanaka,1,0,,,,,,,,,,120/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,12.3,Mumbai Indians,Rajasthan Royals,HH Pandya,SA Yadav,MD Shanaka,4,0,,,,,,,,,,124/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,12.4,Mumbai Indians,Rajasthan Royals,HH Pandya,SA Yadav,MD Shanaka,4,0,,,,,,,,,,128/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,12.5,Mumbai Indians,Rajasthan Royals,HH Pandya,SA Yadav,MD Shanaka,2,0,,,,,,,,,,130/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,12.6,Mumbai Indians,Rajasthan Royals,HH Pandya,SA Yadav,MD Shanaka,1,0,,,,,,,,,,131/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,13.1,Mumbai Indians,Rajasthan Royals,HH Pandya,SA Yadav,N Burger,4,0,,,,,,,,,,135/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,13.2,Mumbai Indians,Rajasthan Royals,HH Pandya,SA Yadav,N Burger,1,0,,,,,,,,,,136/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,13.3,Mumbai Indians,Rajasthan Royals,SA Yadav,HH Pandya,N Burger,1,0,,,,,,,,,,137/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,13.4,Mumbai Indians,Rajasthan Royals,HH Pandya,SA Yadav,N Burger,1,0,,,,,,,,,,138/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,13.5,Mumbai Indians,Rajasthan Royals,SA Yadav,HH Pandya,N Burger,0,0,,,,,,,,,,138/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,13.6,Mumbai Indians,Rajasthan Royals,SA Yadav,HH Pandya,N Burger,1,0,,,,,,,,,,139/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,14.1,Mumbai Indians,Rajasthan Royals,SA Yadav,HH Pandya,Brijesh Sharma,4,0,,,,,,,,,,143/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,14.2,Mumbai Indians,Rajasthan Royals,SA Yadav,HH Pandya,Brijesh Sharma,1,0,,,,,,,,,,144/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,14.3,Mumbai Indians,Rajasthan Royals,HH Pandya,SA Yadav,Brijesh Sharma,0,0,,,,,,,,,,144/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,14.4,Mumbai Indians,Rajasthan Royals,HH Pandya,SA Yadav,Brijesh Sharma,1,0,,,,,,,,,,145/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,14.5,Mumbai Indians,Rajasthan Royals,SA Yadav,HH Pandya,Brijesh Sharma,1,0,,,,,,,,,,146/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,14.6,Mumbai Indians,Rajasthan Royals,HH Pandya,SA Yadav,Brijesh Sharma,1,0,,,,,,,,,,147/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,15.1,Mumbai Indians,Rajasthan Royals,HH Pandya,SA Yadav,JC Archer,1,0,,,,,,,,,,148/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,15.2,Mumbai Indians,Rajasthan Royals,SA Yadav,HH Pandya,JC Archer,0,0,,,,,,,,,,148/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,15.3,Mumbai Indians,Rajasthan Royals,SA Yadav,HH Pandya,JC Archer,1,0,,,,,,,,,,149/5
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,15.4,Mumbai Indians,Rajasthan Royals,HH Pandya,SA Yadav,JC Archer,0,0,,,,,,caught,HH Pandya,,,149/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,15.5,Mumbai Indians,Rajasthan Royals,C Bosch,SA Yadav,JC Archer,0,0,,,,,,,,,,149/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,15.6,Mumbai Indians,Rajasthan Royals,C Bosch,SA Yadav,JC Archer,1,0,,,,,,,,,,150/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,16.1,Mumbai Indians,Rajasthan Royals,C Bosch,SA Yadav,Yash Raj Punja,1,0,,,,,,,,,,151/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,16.2,Mumbai Indians,Rajasthan Royals,SA Yadav,C Bosch,Yash Raj Punja,1,0,,,,,,,,,,152/6
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,16.3,Mumbai Indians,Rajasthan Royals,C Bosch,SA Yadav,Yash Raj Punja,0,0,,,,,,caught,C Bosch,,,152/7
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,16.4,Mumbai Indians,Rajasthan Royals,SN Thakur,SA Yadav,Yash Raj Punja,1,0,,,,,,,,,,153/7
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,16.5,Mumbai Indians,Rajasthan Royals,SA Yadav,SN Thakur,Yash Raj Punja,1,0,,,,,,,,,,154/7
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,16.6,Mumbai Indians,Rajasthan Royals,SN Thakur,SA Yadav,Yash Raj Punja,1,0,,,,,,,,,,155/7
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,17.1,Mumbai Indians,Rajasthan Royals,SN Thakur,SA Yadav,N Burger,0,0,,,,,,,,,,155/7
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,17.2,Mumbai Indians,Rajasthan Royals,SN Thakur,SA Yadav,N Burger,0,1,1,,,,,,,,,156/7
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,17.2,Mumbai Indians,Rajasthan Royals,SN Thakur,SA Yadav,N Burger,1,0,,,,,,,,,,157/7
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,17.3,Mumbai Indians,Rajasthan Royals,SA Yadav,SN Thakur,N Burger,0,1,1,,,,,,,,,158/7
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,17.3,Mumbai Indians,Rajasthan Royals,SA Yadav,SN Thakur,N Burger,0,0,,,,,,caught and bowled,SA Yadav,,,158/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,17.4,Mumbai Indians,Rajasthan Royals,DL Chahar,SN Thakur,N Burger,2,0,,,,,,,,,,160/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,17.5,Mumbai Indians,Rajasthan Royals,DL Chahar,SN Thakur,N Burger,6,0,,,,,,,,,,166/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,17.6,Mumbai Indians,Rajasthan Royals,DL Chahar,SN Thakur,N Burger,0,0,,,,,,,,,,166/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,18.1,Mumbai Indians,Rajasthan Royals,SN Thakur,DL Chahar,Brijesh Sharma,1,0,,,,,,,,,,167/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,18.2,Mumbai Indians,Rajasthan Royals,DL Chahar,SN Thakur,Brijesh Sharma,0,0,,,,,,,,,,167/8
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,18.3,Mumbai Indians,Rajasthan Royals,DL Chahar,SN Thakur,Brijesh Sharma,0,0,,,,,,lbw,DL Chahar,,,167/9
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,18.4,Mumbai Indians,Rajasthan Royals,AM Ghazanfar,SN Thakur,Brijesh Sharma,1,0,,,,,,,,,,168/9
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,18.5,Mumbai Indians,Rajasthan Royals,SN Thakur,AM Ghazanfar,Brijesh Sharma,1,0,,,,,,,,,,169/9
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,18.6,Mumbai Indians,Rajasthan Royals,AM Ghazanfar,SN Thakur,Brijesh Sharma,0,0,,,,,,,,,,169/9
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,19.1,Mumbai Indians,Rajasthan Royals,SN Thakur,AM Ghazanfar,MD Shanaka,4,0,,,,,,,,,,173/9
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,19.2,Mumbai Indians,Rajasthan Royals,SN Thakur,AM Ghazanfar,MD Shanaka,0,0,,,,,,,,,,173/9
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,19.3,Mumbai Indians,Rajasthan Royals,SN Thakur,AM Ghazanfar,MD Shanaka,0,0,,,,,,,,,,173/9
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,19.4,Mumbai Indians,Rajasthan Royals,SN Thakur,AM Ghazanfar,MD Shanaka,1,0,,,,,,,,,,174/9
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,19.5,Mumbai Indians,Rajasthan Royals,AM Ghazanfar,SN Thakur,MD Shanaka,1,0,,,,,,,,,,175/9
+69,2026,2026-05-24,"Wankhede Stadium, Mumbai",2,19.6,Mumbai Indians,Rajasthan Royals,SN Thakur,AM Ghazanfar,MD Shanaka,0,0,,,,,,,,,,175/9

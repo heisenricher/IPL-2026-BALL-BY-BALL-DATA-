@@ -1,0 +1,254 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,0.1,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,Mohammed Siraj,1,0,,,,,,,,,,1/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,0.2,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,Mohammed Siraj,4,0,,,,,,,,,,5/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,0.3,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,Mohammed Siraj,0,0,,,,,,,,,,5/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,0.4,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,Mohammed Siraj,4,0,,,,,,,,,,9/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,0.5,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,Mohammed Siraj,1,0,,,,,,,,,,10/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,0.6,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,Mohammed Siraj,0,0,,,,,,,,,,10/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,1.1,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,K Rabada,1,0,,,,,,,,,,11/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,1.2,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,K Rabada,1,0,,,,,,,,,,12/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,1.3,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,K Rabada,0,0,,,,,,,,,,12/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,1.4,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,K Rabada,0,1,1,,,,,,,,,13/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,1.4,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,K Rabada,0,0,,,,,,,,,,13/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,1.5,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,K Rabada,4,0,,,,,,,,,,17/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,1.6,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,K Rabada,0,0,,,,,,,,,,17/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,2.1,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,Mohammed Siraj,6,0,,,,,,,,,,23/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,2.2,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,Mohammed Siraj,4,0,,,,,,,,,,27/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,2.3,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,Mohammed Siraj,0,1,1,,,,,,,,,28/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,2.3,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,Mohammed Siraj,0,0,,,,,,,,,,28/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,2.4,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,Mohammed Siraj,4,0,,,,,,,,,,32/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,2.5,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,Mohammed Siraj,0,0,,,,,,,,,,32/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,2.6,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,Mohammed Siraj,0,0,,,,,,,,,,32/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,3.1,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,K Rabada,0,0,,,,,,,,,,32/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,3.2,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,K Rabada,0,1,1,,,,,,,,,33/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,3.2,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,K Rabada,4,0,,,,,,,,,,37/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,3.3,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,K Rabada,1,0,,,,,,,,,,38/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,3.4,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,K Rabada,0,0,,,,,,,,,,38/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,3.5,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,K Rabada,0,0,,,,,,,,,,38/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,3.6,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,K Rabada,6,0,,,,,,,,,,44/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,4.1,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,Ashok Sharma,4,0,,,,,,,,,,48/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,4.2,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,Ashok Sharma,6,0,,,,,,,,,,54/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,4.3,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,Ashok Sharma,1,0,,,,,,,,,,55/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,4.4,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,Ashok Sharma,0,0,,,,,,,,,,55/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,4.5,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,Ashok Sharma,2,0,,,,,,,,,,57/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,4.6,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,Ashok Sharma,0,0,,,,,,,,,,57/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,5.1,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,M Prasidh Krishna,1,0,,,,,,,,,,58/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,5.2,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,M Prasidh Krishna,0,0,,,,,,,,,,58/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,5.3,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,M Prasidh Krishna,6,0,,,,,,,,,,64/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,5.4,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,M Prasidh Krishna,4,0,,,,,,,,,,68/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,5.5,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,M Prasidh Krishna,1,0,,,,,,,,,,69/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,5.6,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,M Prasidh Krishna,0,0,,,,,,,,,,69/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,6.1,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,V Suryavanshi,Rashid Khan,1,0,,,,,,,,,,70/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,6.2,Rajasthan Royals,Gujarat Titans,V Suryavanshi,YBK Jaiswal,Rashid Khan,0,0,,,,,,caught,V Suryavanshi,,,70/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,6.3,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Rashid Khan,1,0,,,,,,,,,,71/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,6.4,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,Dhruv Jurel,Rashid Khan,1,0,,,,,,,,,,72/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,6.5,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Rashid Khan,1,0,,,,,,,,,,73/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,6.6,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,Dhruv Jurel,Rashid Khan,1,0,,,,,,,,,,74/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,7.1,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,Dhruv Jurel,M Prasidh Krishna,0,0,,,,,,,,,,74/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,7.2,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,Dhruv Jurel,M Prasidh Krishna,0,0,,,,,,,,,,74/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,7.3,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,Dhruv Jurel,M Prasidh Krishna,1,0,,,,,,,,,,75/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,7.4,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,M Prasidh Krishna,0,0,,,,,,,,,,75/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,7.5,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,M Prasidh Krishna,1,0,,,,,,,,,,76/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,7.6,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,Dhruv Jurel,M Prasidh Krishna,4,0,,,,,,,,,,80/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,8.1,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Rashid Khan,1,0,,,,,,,,,,81/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,8.2,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,Dhruv Jurel,Rashid Khan,1,0,,,,,,,,,,82/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,8.3,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Rashid Khan,0,5,5,,,,,,,,,87/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,8.3,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Rashid Khan,1,0,,,,,,,,,,88/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,8.4,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,Dhruv Jurel,Rashid Khan,1,0,,,,,,,,,,89/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,8.5,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Rashid Khan,1,0,,,,,,,,,,90/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,8.6,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,Dhruv Jurel,Rashid Khan,2,0,,,,,,,,,,92/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,9.1,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Ashok Sharma,0,0,,,,,,,,,,92/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,9.2,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Ashok Sharma,4,0,,,,,,,,,,96/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,9.3,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Ashok Sharma,0,0,,,,,,,,,,96/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,9.4,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Ashok Sharma,0,0,,,,,,,,,,96/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,9.5,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Ashok Sharma,1,0,,,,,,,,,,97/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,9.6,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,Dhruv Jurel,Ashok Sharma,0,0,,,,,,,,,,97/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,10.1,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Rashid Khan,4,0,,,,,,,,,,101/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,10.2,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Rashid Khan,2,0,,,,,,,,,,103/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,10.3,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Rashid Khan,0,0,,,,,,,,,,103/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,10.4,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Rashid Khan,0,0,,,,,,,,,,103/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,10.5,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Rashid Khan,0,0,,,,,,,,,,103/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,10.6,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Rashid Khan,4,0,,,,,,,,,,107/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,11.1,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,Dhruv Jurel,Mohammed Siraj,0,0,,,,,,,,,,107/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,11.2,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,Dhruv Jurel,Mohammed Siraj,4,0,,,,,,,,,,111/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,11.3,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,Dhruv Jurel,Mohammed Siraj,0,1,,,,1,,,,,,112/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,11.4,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Mohammed Siraj,0,0,,,,,,,,,,112/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,11.5,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Mohammed Siraj,4,0,,,,,,,,,,116/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,11.6,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,YBK Jaiswal,Mohammed Siraj,6,0,,,,,,,,,,122/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,12.1,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,Dhruv Jurel,K Rabada,0,0,,,,,,,,,,122/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,12.2,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,Dhruv Jurel,K Rabada,4,0,,,,,,,,,,126/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,12.3,Rajasthan Royals,Gujarat Titans,YBK Jaiswal,Dhruv Jurel,K Rabada,0,0,,,,,,bowled,YBK Jaiswal,,,126/2
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,12.4,Rajasthan Royals,Gujarat Titans,R Parag,Dhruv Jurel,K Rabada,6,0,,,,,,,,,,132/2
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,12.5,Rajasthan Royals,Gujarat Titans,R Parag,Dhruv Jurel,K Rabada,2,0,,,,,,,,,,134/2
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,12.6,Rajasthan Royals,Gujarat Titans,R Parag,Dhruv Jurel,K Rabada,0,0,,,,,,,,,,134/2
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,13.1,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,R Parag,M Prasidh Krishna,1,0,,,,,,,,,,135/2
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,13.2,Rajasthan Royals,Gujarat Titans,R Parag,Dhruv Jurel,M Prasidh Krishna,0,0,,,,,,caught,R Parag,,,135/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,13.3,Rajasthan Royals,Gujarat Titans,SO Hetmyer,Dhruv Jurel,M Prasidh Krishna,0,0,,,,,,,,,,135/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,13.4,Rajasthan Royals,Gujarat Titans,SO Hetmyer,Dhruv Jurel,M Prasidh Krishna,0,1,1,,,,,,,,,136/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,13.4,Rajasthan Royals,Gujarat Titans,SO Hetmyer,Dhruv Jurel,M Prasidh Krishna,0,0,,,,,,,,,,136/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,13.5,Rajasthan Royals,Gujarat Titans,SO Hetmyer,Dhruv Jurel,M Prasidh Krishna,6,0,,,,,,,,,,142/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,13.6,Rajasthan Royals,Gujarat Titans,SO Hetmyer,Dhruv Jurel,M Prasidh Krishna,6,0,,,,,,,,,,148/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,14.1,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,SO Hetmyer,Rashid Khan,0,1,1,,,,,,,,,149/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,14.1,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,SO Hetmyer,Rashid Khan,6,0,,,,,,,,,,155/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,14.2,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,SO Hetmyer,Rashid Khan,1,0,,,,,,,,,,156/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,14.3,Rajasthan Royals,Gujarat Titans,SO Hetmyer,Dhruv Jurel,Rashid Khan,1,0,,,,,,,,,,157/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,14.4,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,SO Hetmyer,Rashid Khan,1,0,,,,,,,,,,158/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,14.5,Rajasthan Royals,Gujarat Titans,SO Hetmyer,Dhruv Jurel,Rashid Khan,1,0,,,,,,,,,,159/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,14.6,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,SO Hetmyer,Rashid Khan,1,0,,,,,,,,,,160/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,15.1,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,SO Hetmyer,Ashok Sharma,1,0,,,,,,,,,,161/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,15.2,Rajasthan Royals,Gujarat Titans,SO Hetmyer,Dhruv Jurel,Ashok Sharma,4,0,,,,,,,,,,165/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,15.3,Rajasthan Royals,Gujarat Titans,SO Hetmyer,Dhruv Jurel,Ashok Sharma,0,0,,,,,,caught,SO Hetmyer,,,165/4
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,15.4,Rajasthan Royals,Gujarat Titans,D Ferreira,Dhruv Jurel,Ashok Sharma,0,0,,,,,,,,,,165/4
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,15.5,Rajasthan Royals,Gujarat Titans,D Ferreira,Dhruv Jurel,Ashok Sharma,1,0,,,,,,,,,,166/4
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,15.6,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,D Ferreira,Ashok Sharma,0,0,,,,,,,,,,166/4
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,16.1,Rajasthan Royals,Gujarat Titans,D Ferreira,Dhruv Jurel,K Rabada,0,0,,,,,,caught,D Ferreira,,,166/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,16.2,Rajasthan Royals,Gujarat Titans,RA Jadeja,Dhruv Jurel,K Rabada,1,0,,,,,,,,,,167/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,16.3,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,RA Jadeja,K Rabada,6,0,,,,,,,,,,173/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,16.4,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,RA Jadeja,K Rabada,0,1,1,,,,,,,,,174/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,16.4,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,RA Jadeja,K Rabada,2,0,,,,,,,,,,176/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,16.5,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,RA Jadeja,K Rabada,1,0,,,,,,,,,,177/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,16.6,Rajasthan Royals,Gujarat Titans,RA Jadeja,Dhruv Jurel,K Rabada,0,0,,,,,,,,,,177/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,17.1,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,RA Jadeja,Ashok Sharma,6,0,,,,,,,,,,183/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,17.2,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,RA Jadeja,Ashok Sharma,1,0,,,,,,,,,,184/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,17.3,Rajasthan Royals,Gujarat Titans,RA Jadeja,Dhruv Jurel,Ashok Sharma,1,0,,,,,,,,,,185/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,17.4,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,RA Jadeja,Ashok Sharma,0,1,1,,,,,,,,,186/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,17.4,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,RA Jadeja,Ashok Sharma,2,0,,,,,,,,,,188/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,17.5,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,RA Jadeja,Ashok Sharma,1,0,,,,,,,,,,189/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,17.6,Rajasthan Royals,Gujarat Titans,RA Jadeja,Dhruv Jurel,Ashok Sharma,0,1,1,,,,,,,,,190/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,17.6,Rajasthan Royals,Gujarat Titans,RA Jadeja,Dhruv Jurel,Ashok Sharma,0,0,,,,,,,,,,190/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,18.1,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,RA Jadeja,M Prasidh Krishna,2,0,,,,,,,,,,192/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,18.2,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,RA Jadeja,M Prasidh Krishna,1,0,,,,,,,,,,193/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,18.3,Rajasthan Royals,Gujarat Titans,RA Jadeja,Dhruv Jurel,M Prasidh Krishna,1,0,,,,,,,,,,194/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,18.4,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,RA Jadeja,M Prasidh Krishna,6,0,,,,,,,,,,200/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,18.5,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,RA Jadeja,M Prasidh Krishna,1,0,,,,,,,,,,201/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,18.6,Rajasthan Royals,Gujarat Titans,RA Jadeja,Dhruv Jurel,M Prasidh Krishna,0,0,,,,,,,,,,201/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,19.1,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,RA Jadeja,Mohammed Siraj,4,0,,,,,,,,,,205/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,19.2,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,RA Jadeja,Mohammed Siraj,0,0,,,,,,,,,,205/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,19.3,Rajasthan Royals,Gujarat Titans,Dhruv Jurel,RA Jadeja,Mohammed Siraj,0,0,,,,,,caught,Dhruv Jurel,,,205/6
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,19.4,Rajasthan Royals,Gujarat Titans,JC Archer,RA Jadeja,Mohammed Siraj,0,0,,,,,,,,,,205/6
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,19.5,Rajasthan Royals,Gujarat Titans,JC Archer,RA Jadeja,Mohammed Siraj,1,0,,,,,,,,,,206/6
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",1,19.6,Rajasthan Royals,Gujarat Titans,RA Jadeja,JC Archer,Mohammed Siraj,4,0,,,,,,,,,,210/6
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,0.1,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,JC Archer,0,5,5,,,,,,,,,5/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,0.1,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,JC Archer,0,0,,,,,,,,,,5/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,0.2,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,JC Archer,6,0,,,,,,,,,,11/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,0.3,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,JC Archer,0,0,,,,,,,,,,11/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,0.4,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,JC Archer,0,0,,,,,,,,,,11/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,0.5,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,JC Archer,0,0,,,,,,,,,,11/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,0.6,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,JC Archer,4,0,,,,,,,,,,15/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,1.1,Gujarat Titans,Rajasthan Royals,Kumar Kushagra,B Sai Sudharsan,N Burger,1,0,,,,,,,,,,16/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,1.2,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,N Burger,0,1,1,,,,,,,,,17/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,1.2,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,N Burger,4,0,,,,,,,,,,21/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,1.3,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,N Burger,0,0,,,,,,,,,,21/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,1.4,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,N Burger,1,0,,,,,,,,,,22/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,1.5,Gujarat Titans,Rajasthan Royals,Kumar Kushagra,B Sai Sudharsan,N Burger,0,0,,,,,,,,,,22/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,1.6,Gujarat Titans,Rajasthan Royals,Kumar Kushagra,B Sai Sudharsan,N Burger,0,0,,,,,,,,,,22/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,2.1,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,JC Archer,0,0,,,,,,,,,,22/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,2.2,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,JC Archer,1,0,,,,,,,,,,23/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,2.3,Gujarat Titans,Rajasthan Royals,Kumar Kushagra,B Sai Sudharsan,JC Archer,4,0,,,,,,,,,,27/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,2.4,Gujarat Titans,Rajasthan Royals,Kumar Kushagra,B Sai Sudharsan,JC Archer,0,0,,,,,,,,,,27/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,2.5,Gujarat Titans,Rajasthan Royals,Kumar Kushagra,B Sai Sudharsan,JC Archer,1,0,,,,,,,,,,28/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,2.6,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,JC Archer,4,0,,,,,,,,,,32/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,3.1,Gujarat Titans,Rajasthan Royals,Kumar Kushagra,B Sai Sudharsan,Sandeep Sharma,2,0,,,,,,,,,,34/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,3.2,Gujarat Titans,Rajasthan Royals,Kumar Kushagra,B Sai Sudharsan,Sandeep Sharma,4,0,,,,,,,,,,38/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,3.3,Gujarat Titans,Rajasthan Royals,Kumar Kushagra,B Sai Sudharsan,Sandeep Sharma,1,0,,,,,,,,,,39/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,3.4,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,Sandeep Sharma,0,0,,,,,,,,,,39/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,3.5,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,Sandeep Sharma,0,0,,,,,,,,,,39/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,3.6,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,Sandeep Sharma,1,0,,,,,,,,,,40/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,4.1,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,TU Deshpande,4,0,,,,,,,,,,44/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,4.2,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,TU Deshpande,0,0,,,,,,,,,,44/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,4.3,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,TU Deshpande,0,0,,,,,,,,,,44/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,4.4,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,TU Deshpande,0,0,,,,,,,,,,44/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,4.5,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,TU Deshpande,0,0,,,,,,,,,,44/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,4.6,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,TU Deshpande,1,0,,,,,,,,,,45/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,5.1,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,Sandeep Sharma,2,0,,,,,,,,,,47/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,5.2,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,Sandeep Sharma,4,0,,,,,,,,,,51/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,5.3,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,Sandeep Sharma,1,0,,,,,,,,,,52/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,5.4,Gujarat Titans,Rajasthan Royals,Kumar Kushagra,B Sai Sudharsan,Sandeep Sharma,4,0,,,,,,,,,,56/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,5.5,Gujarat Titans,Rajasthan Royals,Kumar Kushagra,B Sai Sudharsan,Sandeep Sharma,0,0,,,,,,,,,,56/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,5.6,Gujarat Titans,Rajasthan Royals,Kumar Kushagra,B Sai Sudharsan,Sandeep Sharma,0,0,,,,,,,,,,56/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,6.1,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,RA Jadeja,4,0,,,,,,,,,,60/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,6.2,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,RA Jadeja,2,0,,,,,,,,,,62/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,6.3,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,RA Jadeja,2,0,,,,,,,,,,64/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,6.4,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,RA Jadeja,1,0,,,,,,,,,,65/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,6.5,Gujarat Titans,Rajasthan Royals,Kumar Kushagra,B Sai Sudharsan,RA Jadeja,1,0,,,,,,,,,,66/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,6.6,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,RA Jadeja,1,0,,,,,,,,,,67/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,7.1,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,R Parag,4,0,,,,,,,,,,71/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,7.2,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,R Parag,0,0,,,,,,,,,,71/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,7.3,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,R Parag,0,0,,,,,,,,,,71/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,7.4,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,R Parag,6,0,,,,,,,,,,77/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,7.5,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,Kumar Kushagra,R Parag,1,0,,,,,,,,,,78/0
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,7.6,Gujarat Titans,Rajasthan Royals,Kumar Kushagra,B Sai Sudharsan,R Parag,0,0,,,,,,caught,Kumar Kushagra,,,78/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,8.1,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,JC Buttler,RA Jadeja,1,0,,,,,,,,,,79/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,8.2,Gujarat Titans,Rajasthan Royals,JC Buttler,B Sai Sudharsan,RA Jadeja,1,0,,,,,,,,,,80/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,8.3,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,JC Buttler,RA Jadeja,4,0,,,,,,,,,,84/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,8.4,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,JC Buttler,RA Jadeja,2,0,,,,,,,,,,86/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,8.5,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,JC Buttler,RA Jadeja,6,0,,,,,,,,,,92/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,8.6,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,JC Buttler,RA Jadeja,0,0,,,,,,,,,,92/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,9.1,Gujarat Titans,Rajasthan Royals,JC Buttler,B Sai Sudharsan,N Burger,0,1,,,,1,,,,,,93/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,9.2,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,JC Buttler,N Burger,1,0,,,,,,,,,,94/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,9.3,Gujarat Titans,Rajasthan Royals,JC Buttler,B Sai Sudharsan,N Burger,4,0,,,,,,,,,,98/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,9.4,Gujarat Titans,Rajasthan Royals,JC Buttler,B Sai Sudharsan,N Burger,0,0,,,,,,,,,,98/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,9.5,Gujarat Titans,Rajasthan Royals,JC Buttler,B Sai Sudharsan,N Burger,1,0,,,,,,,,,,99/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,9.6,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,JC Buttler,N Burger,4,0,,,,,,,,,,103/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,10.1,Gujarat Titans,Rajasthan Royals,JC Buttler,B Sai Sudharsan,Ravi Bishnoi,1,0,,,,,,,,,,104/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,10.2,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,JC Buttler,Ravi Bishnoi,1,1,,1,,,,,,,,106/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,10.2,Gujarat Titans,Rajasthan Royals,JC Buttler,B Sai Sudharsan,Ravi Bishnoi,1,0,,,,,,,,,,107/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,10.3,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,JC Buttler,Ravi Bishnoi,0,0,,,,,,,,,,107/1
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,10.4,Gujarat Titans,Rajasthan Royals,B Sai Sudharsan,JC Buttler,Ravi Bishnoi,0,0,,,,,,caught,B Sai Sudharsan,,,107/2
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,10.5,Gujarat Titans,Rajasthan Royals,GD Phillips,JC Buttler,Ravi Bishnoi,1,0,,,,,,,,,,108/2
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,10.6,Gujarat Titans,Rajasthan Royals,JC Buttler,GD Phillips,Ravi Bishnoi,4,0,,,,,,,,,,112/2
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,11.1,Gujarat Titans,Rajasthan Royals,GD Phillips,JC Buttler,TU Deshpande,1,0,,,,,,,,,,113/2
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,11.2,Gujarat Titans,Rajasthan Royals,JC Buttler,GD Phillips,TU Deshpande,4,0,,,,,,,,,,117/2
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,11.3,Gujarat Titans,Rajasthan Royals,JC Buttler,GD Phillips,TU Deshpande,1,0,,,,,,,,,,118/2
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,11.4,Gujarat Titans,Rajasthan Royals,GD Phillips,JC Buttler,TU Deshpande,1,0,,,,,,,,,,119/2
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,11.5,Gujarat Titans,Rajasthan Royals,JC Buttler,GD Phillips,TU Deshpande,4,0,,,,,,,,,,123/2
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,11.6,Gujarat Titans,Rajasthan Royals,JC Buttler,GD Phillips,TU Deshpande,4,0,,,,,,,,,,127/2
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,12.1,Gujarat Titans,Rajasthan Royals,GD Phillips,JC Buttler,Ravi Bishnoi,0,0,,,,,,caught,GD Phillips,,,127/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,12.2,Gujarat Titans,Rajasthan Royals,Washington Sundar,JC Buttler,Ravi Bishnoi,4,0,,,,,,,,,,131/3
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,12.3,Gujarat Titans,Rajasthan Royals,Washington Sundar,JC Buttler,Ravi Bishnoi,0,0,,,,,,caught,Washington Sundar,,,131/4
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,12.4,Gujarat Titans,Rajasthan Royals,R Tewatia,JC Buttler,Ravi Bishnoi,0,0,,,,,,,,,,131/4
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,12.5,Gujarat Titans,Rajasthan Royals,R Tewatia,JC Buttler,Ravi Bishnoi,1,0,,,,,,,,,,132/4
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,12.6,Gujarat Titans,Rajasthan Royals,JC Buttler,R Tewatia,Ravi Bishnoi,1,0,,,,,,,,,,133/4
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,13.1,Gujarat Titans,Rajasthan Royals,JC Buttler,R Tewatia,N Burger,0,0,,,,,,caught,JC Buttler,,,133/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,13.2,Gujarat Titans,Rajasthan Royals,M Shahrukh Khan,R Tewatia,N Burger,1,0,,,,,,,,,,134/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,13.3,Gujarat Titans,Rajasthan Royals,R Tewatia,M Shahrukh Khan,N Burger,1,0,,,,,,,,,,135/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,13.4,Gujarat Titans,Rajasthan Royals,M Shahrukh Khan,R Tewatia,N Burger,6,0,,,,,,,,,,141/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,13.5,Gujarat Titans,Rajasthan Royals,M Shahrukh Khan,R Tewatia,N Burger,0,0,,,,,,,,,,141/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,13.6,Gujarat Titans,Rajasthan Royals,M Shahrukh Khan,R Tewatia,N Burger,4,0,,,,,,,,,,145/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,14.1,Gujarat Titans,Rajasthan Royals,R Tewatia,M Shahrukh Khan,Ravi Bishnoi,4,0,,,,,,,,,,149/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,14.2,Gujarat Titans,Rajasthan Royals,R Tewatia,M Shahrukh Khan,Ravi Bishnoi,6,0,,,,,,,,,,155/5
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,14.3,Gujarat Titans,Rajasthan Royals,R Tewatia,M Shahrukh Khan,Ravi Bishnoi,0,0,,,,,,caught,R Tewatia,,,155/6
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,14.4,Gujarat Titans,Rajasthan Royals,Rashid Khan,M Shahrukh Khan,Ravi Bishnoi,4,0,,,,,,,,,,159/6
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,14.5,Gujarat Titans,Rajasthan Royals,Rashid Khan,M Shahrukh Khan,Ravi Bishnoi,2,0,,,,,,run out,M Shahrukh Khan,,,161/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,14.6,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,Ravi Bishnoi,0,0,,,,,,,,,,161/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,15.1,Gujarat Titans,Rajasthan Royals,Rashid Khan,K Rabada,JC Archer,1,0,,,,,,,,,,162/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,15.2,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,JC Archer,1,0,,,,,,,,,,163/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,15.3,Gujarat Titans,Rajasthan Royals,Rashid Khan,K Rabada,JC Archer,1,0,,,,,,,,,,164/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,15.4,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,JC Archer,6,0,,,,,,,,,,170/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,15.5,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,JC Archer,1,0,,,,,,,,,,171/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,15.6,Gujarat Titans,Rajasthan Royals,Rashid Khan,K Rabada,JC Archer,0,0,,,,,,,,,,171/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,16.1,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,Ravi Bishnoi,1,0,,,,,,,,,,172/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,16.2,Gujarat Titans,Rajasthan Royals,Rashid Khan,K Rabada,Ravi Bishnoi,4,0,,,,,,,,,,176/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,16.3,Gujarat Titans,Rajasthan Royals,Rashid Khan,K Rabada,Ravi Bishnoi,1,0,,,,,,,,,,177/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,16.4,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,Ravi Bishnoi,0,0,,,,,,,,,,177/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,16.5,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,Ravi Bishnoi,0,0,,,,,,,,,,177/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,16.6,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,Ravi Bishnoi,4,0,,,,,,,,,,181/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,17.1,Gujarat Titans,Rajasthan Royals,Rashid Khan,K Rabada,Sandeep Sharma,4,0,,,,,,,,,,185/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,17.2,Gujarat Titans,Rajasthan Royals,Rashid Khan,K Rabada,Sandeep Sharma,1,0,,,,,,,,,,186/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,17.3,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,Sandeep Sharma,6,0,,,,,,,,,,192/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,17.4,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,Sandeep Sharma,1,0,,,,,,,,,,193/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,17.5,Gujarat Titans,Rajasthan Royals,Rashid Khan,K Rabada,Sandeep Sharma,2,0,,,,,,,,,,195/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,17.6,Gujarat Titans,Rajasthan Royals,Rashid Khan,K Rabada,Sandeep Sharma,1,0,,,,,,,,,,196/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,18.1,Gujarat Titans,Rajasthan Royals,Rashid Khan,K Rabada,JC Archer,1,0,,,,,,,,,,197/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,18.2,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,JC Archer,0,0,,,,,,,,,,197/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,18.3,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,JC Archer,1,0,,,,,,,,,,198/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,18.4,Gujarat Titans,Rajasthan Royals,Rashid Khan,K Rabada,JC Archer,1,0,,,,,,,,,,199/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,18.5,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,JC Archer,0,0,,,,,,,,,,199/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,18.6,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,JC Archer,0,1,,,1,,,,,,,200/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,19.1,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,TU Deshpande,0,1,1,,,,,,,,,201/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,19.1,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,TU Deshpande,1,0,,,,,,,,,,202/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,19.2,Gujarat Titans,Rajasthan Royals,Rashid Khan,K Rabada,TU Deshpande,1,0,,,,,,,,,,203/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,19.3,Gujarat Titans,Rajasthan Royals,K Rabada,Rashid Khan,TU Deshpande,1,0,,,,,,,,,,204/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,19.4,Gujarat Titans,Rajasthan Royals,Rashid Khan,K Rabada,TU Deshpande,0,0,,,,,,,,,,204/7
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,19.5,Gujarat Titans,Rajasthan Royals,Rashid Khan,K Rabada,TU Deshpande,0,0,,,,,,caught,Rashid Khan,,,204/8
+9,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",2,19.6,Gujarat Titans,Rajasthan Royals,Ashok Sharma,K Rabada,TU Deshpande,0,0,,,,,,,,,,204/8

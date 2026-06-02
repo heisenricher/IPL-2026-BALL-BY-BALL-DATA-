@@ -1,0 +1,255 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.1,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,TM Head,Arshdeep Singh,0,0,,,,,,,,,,0/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.2,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,TM Head,Arshdeep Singh,6,0,,,,,,,,,,6/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.3,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,TM Head,Arshdeep Singh,0,0,,,,,,,,,,6/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.4,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,TM Head,Arshdeep Singh,1,0,,,,,,,,,,7/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.5,Sunrisers Hyderabad,Punjab Kings,TM Head,Abhishek Sharma,Arshdeep Singh,0,1,1,,,,,,,,,8/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.5,Sunrisers Hyderabad,Punjab Kings,TM Head,Abhishek Sharma,Arshdeep Singh,1,0,,,,,,,,,,9/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.6,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,TM Head,Arshdeep Singh,2,0,,,,,,,,,,11/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.1,Sunrisers Hyderabad,Punjab Kings,TM Head,Abhishek Sharma,M Jansen,1,0,,,,,,,,,,12/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.2,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,TM Head,M Jansen,6,0,,,,,,,,,,18/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.3,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,TM Head,M Jansen,4,0,,,,,,,,,,22/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.4,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,TM Head,M Jansen,6,0,,,,,,,,,,28/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.5,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,TM Head,M Jansen,0,0,,,,,,,,,,28/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.6,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,TM Head,M Jansen,4,0,,,,,,,,,,32/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.1,Sunrisers Hyderabad,Punjab Kings,TM Head,Abhishek Sharma,Arshdeep Singh,0,0,,,,,,,,,,32/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.2,Sunrisers Hyderabad,Punjab Kings,TM Head,Abhishek Sharma,Arshdeep Singh,0,0,,,,,,,,,,32/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.3,Sunrisers Hyderabad,Punjab Kings,TM Head,Abhishek Sharma,Arshdeep Singh,6,0,,,,,,,,,,38/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.4,Sunrisers Hyderabad,Punjab Kings,TM Head,Abhishek Sharma,Arshdeep Singh,6,0,,,,,,,,,,44/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.5,Sunrisers Hyderabad,Punjab Kings,TM Head,Abhishek Sharma,Arshdeep Singh,0,0,,,,,,,,,,44/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.6,Sunrisers Hyderabad,Punjab Kings,TM Head,Abhishek Sharma,Arshdeep Singh,4,0,,,,,,,,,,48/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.1,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,TM Head,LH Ferguson,0,0,,,,,,,,,,48/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.2,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,TM Head,LH Ferguson,6,0,,,,,,,,,,54/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.3,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,TM Head,LH Ferguson,0,0,,,,,,caught,Abhishek Sharma,,,54/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.4,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,TM Head,LH Ferguson,0,0,,,,,,,,,,54/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.5,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,TM Head,LH Ferguson,0,0,,,,,,,,,,54/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.6,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,TM Head,LH Ferguson,0,0,,,,,,,,,,54/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.1,Sunrisers Hyderabad,Punjab Kings,TM Head,Ishan Kishan,M Jansen,0,0,,,,,,,,,,54/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.2,Sunrisers Hyderabad,Punjab Kings,TM Head,Ishan Kishan,M Jansen,0,1,1,,,,,,,,,55/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.2,Sunrisers Hyderabad,Punjab Kings,TM Head,Ishan Kishan,M Jansen,4,0,,,,,,,,,,59/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.3,Sunrisers Hyderabad,Punjab Kings,TM Head,Ishan Kishan,M Jansen,4,0,,,,,,,,,,63/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.4,Sunrisers Hyderabad,Punjab Kings,TM Head,Ishan Kishan,M Jansen,1,0,,,,,,,,,,64/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.5,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,TM Head,M Jansen,1,0,,,,,,,,,,65/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.6,Sunrisers Hyderabad,Punjab Kings,TM Head,Ishan Kishan,M Jansen,0,0,,,,,,,,,,65/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.1,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,TM Head,LH Ferguson,1,0,,,,,,,,,,66/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.2,Sunrisers Hyderabad,Punjab Kings,TM Head,Ishan Kishan,LH Ferguson,6,0,,,,,,,,,,72/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.3,Sunrisers Hyderabad,Punjab Kings,TM Head,Ishan Kishan,LH Ferguson,1,0,,,,,,,,,,73/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.4,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,TM Head,LH Ferguson,4,0,,,,,,,,,,77/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.5,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,TM Head,LH Ferguson,1,0,,,,,,,,,,78/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.6,Sunrisers Hyderabad,Punjab Kings,TM Head,Ishan Kishan,LH Ferguson,1,0,,,,,,,,,,79/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.1,Sunrisers Hyderabad,Punjab Kings,TM Head,Ishan Kishan,YS Chahal,2,0,,,,,,,,,,81/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.2,Sunrisers Hyderabad,Punjab Kings,TM Head,Ishan Kishan,YS Chahal,1,0,,,,,,,,,,82/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.3,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,TM Head,YS Chahal,1,0,,,,,,,,,,83/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.4,Sunrisers Hyderabad,Punjab Kings,TM Head,Ishan Kishan,YS Chahal,0,1,1,,,,,,,,,84/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.4,Sunrisers Hyderabad,Punjab Kings,TM Head,Ishan Kishan,YS Chahal,0,0,,,,,,caught,TM Head,,,84/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.5,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,YS Chahal,1,0,,,,,,,,,,85/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.6,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,YS Chahal,1,0,,,,,,,,,,86/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.1,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,LH Ferguson,1,0,,,,,,,,,,87/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.2,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,LH Ferguson,0,0,,,,,,,,,,87/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.3,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,LH Ferguson,0,0,,,,,,,,,,87/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.4,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,LH Ferguson,1,0,,,,,,,,,,88/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.5,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,LH Ferguson,0,0,,,,,,,,,,88/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.6,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,LH Ferguson,6,0,,,,,,,,,,94/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.1,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,YS Chahal,6,0,,,,,,,,,,100/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.2,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,YS Chahal,1,0,,,,,,,,,,101/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.3,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,YS Chahal,1,0,,,,,,,,,,102/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.4,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,YS Chahal,4,0,,,,,,,,,,106/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.5,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,YS Chahal,0,0,,,,,,,,,,106/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.6,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,YS Chahal,1,0,,,,,,,,,,107/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.1,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,Vijaykumar Vyshak,2,0,,,,,,,,,,109/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.2,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,Vijaykumar Vyshak,4,0,,,,,,,,,,113/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.3,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,Vijaykumar Vyshak,1,0,,,,,,,,,,114/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.4,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,Vijaykumar Vyshak,1,0,,,,,,,,,,115/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.5,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,Vijaykumar Vyshak,2,0,,,,,,,,,,117/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.6,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,Vijaykumar Vyshak,1,0,,,,,,,,,,118/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.1,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,YS Chahal,1,0,,,,,,,,,,119/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.2,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,YS Chahal,1,0,,,,,,,,,,120/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.3,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,YS Chahal,1,0,,,,,,,,,,121/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.4,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,YS Chahal,1,0,,,,,,,,,,122/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.5,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,YS Chahal,0,1,,,1,,,,,,,123/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.6,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,YS Chahal,0,1,,,1,,,,,,,124/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.1,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,Vijaykumar Vyshak,4,0,,,,,,,,,,128/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.2,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,Vijaykumar Vyshak,2,0,,,,,,,,,,130/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.3,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,Vijaykumar Vyshak,1,0,,,,,,,,,,131/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.4,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,Vijaykumar Vyshak,1,0,,,,,,,,,,132/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.5,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,Vijaykumar Vyshak,1,0,,,,,,,,,,133/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.6,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,Vijaykumar Vyshak,1,0,,,,,,,,,,134/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.1,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,M Jansen,1,0,,,,,,,,,,135/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.2,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,M Jansen,2,0,,,,,,,,,,137/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.3,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,M Jansen,0,1,1,,,,,,,,,138/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.3,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,M Jansen,1,0,,,,,,,,,,139/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.4,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,M Jansen,0,1,,,,1,,,,,,140/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.5,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,M Jansen,1,0,,,,,,,,,,141/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.6,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,M Jansen,6,0,,,,,,,,,,147/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.1,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,Vijaykumar Vyshak,1,0,,,,,,,,,,148/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.2,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,Vijaykumar Vyshak,0,1,,,,1,,,,,,149/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.3,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,Vijaykumar Vyshak,6,0,,,,,,,,,,155/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.4,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,Vijaykumar Vyshak,6,0,,,,,,,,,,161/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.5,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,Vijaykumar Vyshak,6,0,,,,,,,,,,167/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.6,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,Vijaykumar Vyshak,1,0,,,,,,,,,,168/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.1,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,Arshdeep Singh,2,0,,,,,,,,,,170/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.2,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,Arshdeep Singh,1,0,,,,,,,,,,171/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.3,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Ishan Kishan,Arshdeep Singh,1,0,,,,,,,,,,172/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.4,Sunrisers Hyderabad,Punjab Kings,Ishan Kishan,H Klaasen,Arshdeep Singh,0,0,,,,,,caught,Ishan Kishan,,,172/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.5,Sunrisers Hyderabad,Punjab Kings,Nithish Kumar Reddy,H Klaasen,Arshdeep Singh,1,0,,,,,,,,,,173/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.6,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,Arshdeep Singh,1,0,,,,,,,,,,174/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.1,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,YS Chahal,0,0,,,,,,,,,,174/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.2,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,YS Chahal,1,0,,,,,,,,,,175/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.3,Sunrisers Hyderabad,Punjab Kings,Nithish Kumar Reddy,H Klaasen,YS Chahal,1,0,,,,,,,,,,176/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.4,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,YS Chahal,1,0,,,,,,,,,,177/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.5,Sunrisers Hyderabad,Punjab Kings,Nithish Kumar Reddy,H Klaasen,YS Chahal,4,0,,,,,,,,,,181/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.6,Sunrisers Hyderabad,Punjab Kings,Nithish Kumar Reddy,H Klaasen,YS Chahal,1,0,,,,,,,,,,182/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.1,Sunrisers Hyderabad,Punjab Kings,Nithish Kumar Reddy,H Klaasen,M Jansen,6,0,,,,,,,,,,188/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.2,Sunrisers Hyderabad,Punjab Kings,Nithish Kumar Reddy,H Klaasen,M Jansen,1,0,,,,,,,,,,189/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.3,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,M Jansen,6,0,,,,,,,,,,195/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.4,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,M Jansen,1,0,,,,,,,,,,196/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.5,Sunrisers Hyderabad,Punjab Kings,Nithish Kumar Reddy,H Klaasen,M Jansen,1,0,,,,,,,,,,197/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.6,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,M Jansen,2,0,,,,,,,,,,199/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.1,Sunrisers Hyderabad,Punjab Kings,Nithish Kumar Reddy,H Klaasen,LH Ferguson,1,0,,,,,,,,,,200/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.2,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,LH Ferguson,2,0,,,,,,,,,,202/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.3,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,LH Ferguson,0,0,,,,,,,,,,202/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.4,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,LH Ferguson,2,0,,,,,,,,,,204/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.5,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,LH Ferguson,0,1,1,,,,,,,,,205/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.5,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,LH Ferguson,1,0,,,,,,,,,,206/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.6,Sunrisers Hyderabad,Punjab Kings,Nithish Kumar Reddy,H Klaasen,LH Ferguson,6,0,,,,,,,,,,212/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.1,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,Arshdeep Singh,1,0,,,,,,,,,,213/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.2,Sunrisers Hyderabad,Punjab Kings,Nithish Kumar Reddy,H Klaasen,Arshdeep Singh,4,0,,,,,,,,,,217/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.3,Sunrisers Hyderabad,Punjab Kings,Nithish Kumar Reddy,H Klaasen,Arshdeep Singh,1,0,,,,,,,,,,218/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.4,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,Arshdeep Singh,2,0,,,,,,,,,,220/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.5,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,Arshdeep Singh,1,0,,,,,,,,,,221/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.6,Sunrisers Hyderabad,Punjab Kings,Nithish Kumar Reddy,H Klaasen,Arshdeep Singh,1,0,,,,,,,,,,222/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.1,Sunrisers Hyderabad,Punjab Kings,Nithish Kumar Reddy,H Klaasen,Vijaykumar Vyshak,1,0,,,,,,,,,,223/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.2,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,Vijaykumar Vyshak,0,0,,,,,,,,,,223/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.3,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,Vijaykumar Vyshak,6,0,,,,,,,,,,229/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.4,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,Vijaykumar Vyshak,2,0,,,,,,,,,,231/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.5,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,Vijaykumar Vyshak,4,0,,,,,,,,,,235/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.6,Sunrisers Hyderabad,Punjab Kings,H Klaasen,Nithish Kumar Reddy,Vijaykumar Vyshak,0,0,,,,,,caught,H Klaasen,,,235/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.1,Punjab Kings,Sunrisers Hyderabad,Priyansh Arya,P Simran Singh,PJ Cummins,1,0,,,,,,,,,,1/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.2,Punjab Kings,Sunrisers Hyderabad,P Simran Singh,Priyansh Arya,PJ Cummins,2,0,,,,,,,,,,3/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.3,Punjab Kings,Sunrisers Hyderabad,P Simran Singh,Priyansh Arya,PJ Cummins,0,0,,,,,,,,,,3/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.4,Punjab Kings,Sunrisers Hyderabad,P Simran Singh,Priyansh Arya,PJ Cummins,1,0,,,,,,,,,,4/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.5,Punjab Kings,Sunrisers Hyderabad,Priyansh Arya,P Simran Singh,PJ Cummins,0,0,,,,,,,,,,4/0
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.6,Punjab Kings,Sunrisers Hyderabad,Priyansh Arya,P Simran Singh,PJ Cummins,0,0,,,,,,caught,Priyansh Arya,,,4/1
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.1,Punjab Kings,Sunrisers Hyderabad,P Simran Singh,C Connolly,Nithish Kumar Reddy,0,0,,,,,,caught,P Simran Singh,,,4/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.2,Punjab Kings,Sunrisers Hyderabad,SS Iyer,C Connolly,Nithish Kumar Reddy,4,0,,,,,,,,,,8/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.3,Punjab Kings,Sunrisers Hyderabad,SS Iyer,C Connolly,Nithish Kumar Reddy,0,0,,,,,,,,,,8/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.4,Punjab Kings,Sunrisers Hyderabad,SS Iyer,C Connolly,Nithish Kumar Reddy,1,0,,,,,,,,,,9/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.5,Punjab Kings,Sunrisers Hyderabad,C Connolly,SS Iyer,Nithish Kumar Reddy,0,0,,,,,,,,,,9/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.6,Punjab Kings,Sunrisers Hyderabad,C Connolly,SS Iyer,Nithish Kumar Reddy,1,0,,,,,,,,,,10/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.1,Punjab Kings,Sunrisers Hyderabad,C Connolly,SS Iyer,PJ Cummins,4,0,,,,,,,,,,14/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.2,Punjab Kings,Sunrisers Hyderabad,C Connolly,SS Iyer,PJ Cummins,2,0,,,,,,,,,,16/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.3,Punjab Kings,Sunrisers Hyderabad,C Connolly,SS Iyer,PJ Cummins,0,0,,,,,,,,,,16/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.4,Punjab Kings,Sunrisers Hyderabad,C Connolly,SS Iyer,PJ Cummins,0,1,,1,,,,,,,,17/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.4,Punjab Kings,Sunrisers Hyderabad,C Connolly,SS Iyer,PJ Cummins,6,0,,,,,,,,,,23/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.5,Punjab Kings,Sunrisers Hyderabad,C Connolly,SS Iyer,PJ Cummins,0,0,,,,,,,,,,23/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.6,Punjab Kings,Sunrisers Hyderabad,C Connolly,SS Iyer,PJ Cummins,0,0,,,,,,,,,,23/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.1,Punjab Kings,Sunrisers Hyderabad,SS Iyer,C Connolly,E Malinga,0,0,,,,,,,,,,23/2
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.2,Punjab Kings,Sunrisers Hyderabad,SS Iyer,C Connolly,E Malinga,0,0,,,,,,caught,SS Iyer,,,23/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.3,Punjab Kings,Sunrisers Hyderabad,MP Stoinis,C Connolly,E Malinga,0,0,,,,,,,,,,23/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.4,Punjab Kings,Sunrisers Hyderabad,MP Stoinis,C Connolly,E Malinga,0,0,,,,,,,,,,23/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.5,Punjab Kings,Sunrisers Hyderabad,MP Stoinis,C Connolly,E Malinga,6,0,,,,,,,,,,29/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.6,Punjab Kings,Sunrisers Hyderabad,MP Stoinis,C Connolly,E Malinga,0,0,,,,,,,,,,29/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.1,Punjab Kings,Sunrisers Hyderabad,C Connolly,MP Stoinis,Sakib Hussain,1,0,,,,,,,,,,30/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.2,Punjab Kings,Sunrisers Hyderabad,MP Stoinis,C Connolly,Sakib Hussain,0,0,,,,,,,,,,30/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.3,Punjab Kings,Sunrisers Hyderabad,MP Stoinis,C Connolly,Sakib Hussain,2,0,,,,,,,,,,32/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.4,Punjab Kings,Sunrisers Hyderabad,MP Stoinis,C Connolly,Sakib Hussain,0,0,,,,,,,,,,32/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.5,Punjab Kings,Sunrisers Hyderabad,MP Stoinis,C Connolly,Sakib Hussain,4,0,,,,,,,,,,36/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.6,Punjab Kings,Sunrisers Hyderabad,MP Stoinis,C Connolly,Sakib Hussain,0,1,1,,,,,,,,,37/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.6,Punjab Kings,Sunrisers Hyderabad,MP Stoinis,C Connolly,Sakib Hussain,4,1,,1,,,,,,,,42/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.6,Punjab Kings,Sunrisers Hyderabad,MP Stoinis,C Connolly,Sakib Hussain,6,0,,,,,,,,,,48/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.1,Punjab Kings,Sunrisers Hyderabad,C Connolly,MP Stoinis,E Malinga,4,0,,,,,,,,,,52/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.2,Punjab Kings,Sunrisers Hyderabad,C Connolly,MP Stoinis,E Malinga,4,0,,,,,,,,,,56/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.3,Punjab Kings,Sunrisers Hyderabad,C Connolly,MP Stoinis,E Malinga,0,1,1,,,,,,,,,57/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.3,Punjab Kings,Sunrisers Hyderabad,C Connolly,MP Stoinis,E Malinga,0,0,,,,,,,,,,57/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.4,Punjab Kings,Sunrisers Hyderabad,C Connolly,MP Stoinis,E Malinga,0,0,,,,,,,,,,57/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.5,Punjab Kings,Sunrisers Hyderabad,C Connolly,MP Stoinis,E Malinga,0,0,,,,,,,,,,57/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.6,Punjab Kings,Sunrisers Hyderabad,C Connolly,MP Stoinis,E Malinga,0,0,,,,,,,,,,57/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.1,Punjab Kings,Sunrisers Hyderabad,MP Stoinis,C Connolly,Shivang Kumar,2,0,,,,,,,,,,59/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.2,Punjab Kings,Sunrisers Hyderabad,MP Stoinis,C Connolly,Shivang Kumar,4,0,,,,,,,,,,63/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.3,Punjab Kings,Sunrisers Hyderabad,MP Stoinis,C Connolly,Shivang Kumar,0,0,,,,,,,,,,63/3
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.4,Punjab Kings,Sunrisers Hyderabad,MP Stoinis,C Connolly,Shivang Kumar,0,0,,,,,,caught,MP Stoinis,,,63/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.5,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,Shivang Kumar,1,0,,,,,,,,,,64/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.6,Punjab Kings,Sunrisers Hyderabad,C Connolly,Suryansh Shedge,Shivang Kumar,0,0,,,,,,,,,,64/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.1,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,Nithish Kumar Reddy,0,0,,,,,,,,,,64/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.2,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,Nithish Kumar Reddy,1,0,,,,,,,,,,65/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.3,Punjab Kings,Sunrisers Hyderabad,C Connolly,Suryansh Shedge,Nithish Kumar Reddy,1,0,,,,,,,,,,66/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.4,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,Nithish Kumar Reddy,1,0,,,,,,,,,,67/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.5,Punjab Kings,Sunrisers Hyderabad,C Connolly,Suryansh Shedge,Nithish Kumar Reddy,1,0,,,,,,,,,,68/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.6,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,Nithish Kumar Reddy,1,0,,,,,,,,,,69/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.1,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,Shivang Kumar,1,0,,,,,,,,,,70/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.2,Punjab Kings,Sunrisers Hyderabad,C Connolly,Suryansh Shedge,Shivang Kumar,2,0,,,,,,,,,,72/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.3,Punjab Kings,Sunrisers Hyderabad,C Connolly,Suryansh Shedge,Shivang Kumar,1,0,,,,,,,,,,73/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.4,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,Shivang Kumar,0,0,,,,,,,,,,73/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.5,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,Shivang Kumar,1,0,,,,,,,,,,74/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.6,Punjab Kings,Sunrisers Hyderabad,C Connolly,Suryansh Shedge,Shivang Kumar,0,0,,,,,,,,,,74/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.1,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,Harsh Dubey,1,0,,,,,,,,,,75/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.2,Punjab Kings,Sunrisers Hyderabad,C Connolly,Suryansh Shedge,Harsh Dubey,0,1,1,,,,,,,,,76/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.2,Punjab Kings,Sunrisers Hyderabad,C Connolly,Suryansh Shedge,Harsh Dubey,0,1,1,,,,,,,,,77/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.2,Punjab Kings,Sunrisers Hyderabad,C Connolly,Suryansh Shedge,Harsh Dubey,1,0,,,,,,,,,,78/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.3,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,Harsh Dubey,1,0,,,,,,,,,,79/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.4,Punjab Kings,Sunrisers Hyderabad,C Connolly,Suryansh Shedge,Harsh Dubey,6,0,,,,,,,,,,85/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.5,Punjab Kings,Sunrisers Hyderabad,C Connolly,Suryansh Shedge,Harsh Dubey,6,0,,,,,,,,,,91/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.6,Punjab Kings,Sunrisers Hyderabad,C Connolly,Suryansh Shedge,Harsh Dubey,0,0,,,,,,,,,,91/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.1,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,Shivang Kumar,6,0,,,,,,,,,,97/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.2,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,Shivang Kumar,4,0,,,,,,,,,,101/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.3,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,Shivang Kumar,1,0,,,,,,,,,,102/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.4,Punjab Kings,Sunrisers Hyderabad,C Connolly,Suryansh Shedge,Shivang Kumar,1,0,,,,,,,,,,103/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.5,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,Shivang Kumar,0,0,,,,,,,,,,103/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.6,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,Shivang Kumar,6,0,,,,,,,,,,109/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.1,Punjab Kings,Sunrisers Hyderabad,C Connolly,Suryansh Shedge,PJ Cummins,0,0,,,,,,,,,,109/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.2,Punjab Kings,Sunrisers Hyderabad,C Connolly,Suryansh Shedge,PJ Cummins,1,0,,,,,,,,,,110/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.3,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,PJ Cummins,0,0,,,,,,,,,,110/4
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.4,Punjab Kings,Sunrisers Hyderabad,Suryansh Shedge,C Connolly,PJ Cummins,0,0,,,,,,caught,Suryansh Shedge,,,110/5
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.5,Punjab Kings,Sunrisers Hyderabad,Shashank Singh,C Connolly,PJ Cummins,4,0,,,,,,,,,,114/5
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.6,Punjab Kings,Sunrisers Hyderabad,Shashank Singh,C Connolly,PJ Cummins,0,0,,,,,,,,,,114/5
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.1,Punjab Kings,Sunrisers Hyderabad,C Connolly,Shashank Singh,Sakib Hussain,4,0,,,,,,,,,,118/5
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.2,Punjab Kings,Sunrisers Hyderabad,C Connolly,Shashank Singh,Sakib Hussain,1,0,,,,,,,,,,119/5
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.3,Punjab Kings,Sunrisers Hyderabad,Shashank Singh,C Connolly,Sakib Hussain,0,0,,,,,,caught,Shashank Singh,,,119/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.4,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,Sakib Hussain,1,0,,,,,,,,,,120/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.5,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,Sakib Hussain,1,0,,,,,,,,,,121/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.6,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,Sakib Hussain,0,0,,,,,,,,,,121/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.1,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,E Malinga,0,0,,,,,,,,,,121/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.2,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,E Malinga,2,0,,,,,,,,,,123/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.3,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,E Malinga,0,0,,,,,,,,,,123/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.4,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,E Malinga,1,0,,,,,,,,,,124/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.5,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,E Malinga,1,0,,,,,,,,,,125/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.6,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,E Malinga,1,0,,,,,,,,,,126/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.1,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,Sakib Hussain,0,0,,,,,,,,,,126/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.2,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,Sakib Hussain,1,0,,,,,,,,,,127/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.3,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,Sakib Hussain,1,0,,,,,,,,,,128/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.4,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,Sakib Hussain,2,0,,,,,,,,,,130/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.5,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,Sakib Hussain,0,0,,,,,,,,,,130/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.6,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,Sakib Hussain,0,0,,,,,,,,,,130/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.1,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,PJ Cummins,1,0,,,,,,,,,,131/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.2,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,PJ Cummins,6,0,,,,,,,,,,137/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.3,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,PJ Cummins,1,0,,,,,,,,,,138/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.4,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,PJ Cummins,1,0,,,,,,,,,,139/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.5,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,PJ Cummins,1,0,,,,,,,,,,140/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.6,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,PJ Cummins,2,0,,,,,,,,,,142/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.1,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,E Malinga,1,0,,,,,,,,,,143/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.2,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,E Malinga,1,0,,,,,,,,,,144/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.3,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,E Malinga,6,0,,,,,,,,,,150/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.4,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,E Malinga,6,0,,,,,,,,,,156/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.5,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,E Malinga,1,0,,,,,,,,,,157/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.6,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,E Malinga,1,0,,,,,,,,,,158/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.1,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,Sakib Hussain,0,1,1,,,,,,,,,159/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.1,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,Sakib Hussain,1,0,,,,,,,,,,160/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.2,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,Sakib Hussain,2,0,,,,,,,,,,162/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.3,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,Sakib Hussain,1,0,,,,,,,,,,163/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.4,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,Sakib Hussain,0,0,,,,,,,,,,163/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.5,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,Sakib Hussain,1,0,,,,,,,,,,164/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.6,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,Sakib Hussain,4,0,,,,,,,,,,168/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.1,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,Harsh Dubey,1,0,,,,,,,,,,169/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.2,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,Harsh Dubey,4,0,,,,,,,,,,173/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.3,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,Harsh Dubey,1,0,,,,,,,,,,174/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.4,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,Harsh Dubey,6,0,,,,,,,,,,180/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.5,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,Harsh Dubey,1,0,,,,,,,,,,181/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.6,Punjab Kings,Sunrisers Hyderabad,C Connolly,M Jansen,Harsh Dubey,6,0,,,,,,,,,,187/6
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.1,Punjab Kings,Sunrisers Hyderabad,M Jansen,C Connolly,Shivang Kumar,0,0,,,,,,caught,M Jansen,,,187/7
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.2,Punjab Kings,Sunrisers Hyderabad,Vijaykumar Vyshak,C Connolly,Shivang Kumar,1,0,,,,,,,,,,188/7
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.3,Punjab Kings,Sunrisers Hyderabad,C Connolly,Vijaykumar Vyshak,Shivang Kumar,2,0,,,,,,,,,,190/7
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.4,Punjab Kings,Sunrisers Hyderabad,C Connolly,Vijaykumar Vyshak,Shivang Kumar,0,1,1,,,,,,,,,191/7
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.4,Punjab Kings,Sunrisers Hyderabad,C Connolly,Vijaykumar Vyshak,Shivang Kumar,4,0,,,,,,,,,,195/7
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.5,Punjab Kings,Sunrisers Hyderabad,C Connolly,Vijaykumar Vyshak,Shivang Kumar,0,1,1,,,,,,,,,196/7
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.5,Punjab Kings,Sunrisers Hyderabad,C Connolly,Vijaykumar Vyshak,Shivang Kumar,6,0,,,,,,,,,,202/7
+49,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.6,Punjab Kings,Sunrisers Hyderabad,C Connolly,Vijaykumar Vyshak,Shivang Kumar,0,0,,,,,,,,,,202/7

@@ -1,0 +1,259 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,TM Head,B Kumar,0,0,,,,,,,,,,0/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,TM Head,B Kumar,0,2,2,,,,,,,,,2/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,TM Head,Abhishek Sharma,B Kumar,4,0,,,,,,,,,,6/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,TM Head,Abhishek Sharma,B Kumar,0,0,,,,,,,,,,6/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,TM Head,Abhishek Sharma,B Kumar,1,0,,,,,,,,,,7/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,TM Head,B Kumar,6,0,,,,,,,,,,13/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,TM Head,B Kumar,0,0,,,,,,,,,,13/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,TM Head,Abhishek Sharma,JR Hazlewood,2,0,,,,,,,,,,15/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,TM Head,Abhishek Sharma,JR Hazlewood,0,0,,,,,,,,,,15/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,TM Head,Abhishek Sharma,JR Hazlewood,1,0,,,,,,,,,,16/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,TM Head,JR Hazlewood,1,0,,,,,,,,,,17/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,TM Head,Abhishek Sharma,JR Hazlewood,0,0,,,,,,,,,,17/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,TM Head,Abhishek Sharma,JR Hazlewood,4,0,,,,,,,,,,21/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,TM Head,B Kumar,4,0,,,,,,,,,,25/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,TM Head,B Kumar,4,0,,,,,,,,,,29/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,TM Head,B Kumar,1,0,,,,,,,,,,30/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,TM Head,Abhishek Sharma,B Kumar,1,0,,,,,,,,,,31/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,TM Head,B Kumar,1,0,,,,,,,,,,32/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,TM Head,Abhishek Sharma,B Kumar,1,0,,,,,,,,,,33/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,TM Head,Abhishek Sharma,Rasikh Salam,4,0,,,,,,,,,,37/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,TM Head,Abhishek Sharma,Rasikh Salam,4,0,,,,,,,,,,41/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,TM Head,Abhishek Sharma,Rasikh Salam,0,0,,,,,,,,,,41/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,TM Head,Abhishek Sharma,Rasikh Salam,4,0,,,,,,,,,,45/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,TM Head,Abhishek Sharma,Rasikh Salam,0,0,,,,,,,,,,45/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,TM Head,Abhishek Sharma,Rasikh Salam,0,0,,,,,,bowled,TM Head,,,45/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,Ishan Kishan,JR Hazlewood,0,0,,,,,,,,,,45/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,Ishan Kishan,JR Hazlewood,1,0,,,,,,,,,,46/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Abhishek Sharma,JR Hazlewood,1,0,,,,,,,,,,47/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,Ishan Kishan,JR Hazlewood,0,0,,,,,,,,,,47/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,Ishan Kishan,JR Hazlewood,0,1,1,,,,,,,,,48/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,Ishan Kishan,JR Hazlewood,3,0,,,,,,,,,,51/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Abhishek Sharma,JR Hazlewood,1,0,,,,,,,,,,52/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Abhishek Sharma,Rasikh Salam,0,0,,,,,,,,,,52/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Abhishek Sharma,Rasikh Salam,1,0,,,,,,,,,,53/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,Ishan Kishan,Rasikh Salam,4,0,,,,,,,,,,57/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,Ishan Kishan,Rasikh Salam,1,0,,,,,,,,,,58/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Abhishek Sharma,Rasikh Salam,4,0,,,,,,,,,,62/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Abhishek Sharma,Rasikh Salam,1,0,,,,,,,,,,63/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Abhishek Sharma,Suyash Sharma,0,0,,,,,,,,,,63/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Abhishek Sharma,Suyash Sharma,1,0,,,,,,,,,,64/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,Ishan Kishan,Suyash Sharma,6,0,,,,,,,,,,70/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,Ishan Kishan,Suyash Sharma,6,0,,,,,,,,,,76/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,Ishan Kishan,Suyash Sharma,1,0,,,,,,,,,,77/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Abhishek Sharma,Suyash Sharma,0,0,,,,,,,,,,77/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,Ishan Kishan,R Shepherd,6,0,,,,,,,,,,83/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,Ishan Kishan,R Shepherd,1,0,,,,,,,,,,84/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Abhishek Sharma,R Shepherd,0,0,,,,,,,,,,84/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Abhishek Sharma,R Shepherd,0,1,1,,,,,,,,,85/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Abhishek Sharma,R Shepherd,1,0,,,,,,,,,,86/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,Ishan Kishan,R Shepherd,6,0,,,,,,,,,,92/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,Ishan Kishan,R Shepherd,4,0,,,,,,,,,,96/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Abhishek Sharma,Suyash Sharma,1,0,,,,,,,,,,97/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Abhishek Sharma,Ishan Kishan,Suyash Sharma,0,0,,,,,,caught,Abhishek Sharma,,,97/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,Suyash Sharma,0,0,,,,,,,,,,97/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,Suyash Sharma,1,0,,,,,,,,,,98/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,Suyash Sharma,4,0,,,,,,,,,,102/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,Suyash Sharma,1,0,,,,,,,,,,103/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,R Shepherd,2,0,,,,,,,,,,105/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,R Shepherd,2,0,,,,,,,,,,107/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,R Shepherd,0,1,1,,,,,,,,,108/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,R Shepherd,2,0,,,,,,,,,,110/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,R Shepherd,4,0,,,,,,,,,,114/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,R Shepherd,1,0,,,,,,,,,,115/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,R Shepherd,1,0,,,,,,,,,,116/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,KH Pandya,1,0,,,,,,,,,,117/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,KH Pandya,0,0,,,,,,,,,,117/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,KH Pandya,6,0,,,,,,,,,,123/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,KH Pandya,1,0,,,,,,,,,,124/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,KH Pandya,0,0,,,,,,,,,,124/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,KH Pandya,0,0,,,,,,,,,,124/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,R Shepherd,1,0,,,,,,,,,,125/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,R Shepherd,0,0,,,,,,,,,,125/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,R Shepherd,1,0,,,,,,,,,,126/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,R Shepherd,1,0,,,,,,,,,,127/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,R Shepherd,1,0,,,,,,,,,,128/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,R Shepherd,1,0,,,,,,,,,,129/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,JR Hazlewood,0,1,1,,,,,,,,,130/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,JR Hazlewood,1,0,,,,,,,,,,131/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,JR Hazlewood,6,0,,,,,,,,,,137/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,JR Hazlewood,0,1,1,,,,,,,,,138/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,JR Hazlewood,0,1,1,,,,,,,,,139/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,JR Hazlewood,6,0,,,,,,,,,,145/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,JR Hazlewood,4,0,,,,,,,,,,149/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,JR Hazlewood,6,0,,,,,,,,,,155/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,JR Hazlewood,1,0,,,,,,,,,,156/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,Suyash Sharma,6,0,,,,,,,,,,162/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,Suyash Sharma,0,0,,,,,,,,,,162/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,Suyash Sharma,0,1,1,,,,,,,,,163/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,Suyash Sharma,1,0,,,,,,,,,,164/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,Suyash Sharma,6,0,,,,,,,,,,170/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,Suyash Sharma,0,0,,,,,,,,,,170/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,Suyash Sharma,1,0,,,,,,,,,,171/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,B Kumar,4,0,,,,,,,,,,175/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,B Kumar,0,1,1,,,,,,,,,176/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,B Kumar,1,0,,,,,,,,,,177/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,B Kumar,0,0,,,,,,,,,,177/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,B Kumar,2,0,,,,,,,,,,179/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,B Kumar,4,0,,,,,,,,,,183/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,B Kumar,6,0,,,,,,,,,,189/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,Rasikh Salam,6,0,,,,,,,,,,195/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,Rasikh Salam,4,0,,,,,,,,,,199/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,Rasikh Salam,0,1,1,,,,,,,,,200/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,Rasikh Salam,4,0,,,,,,,,,,204/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,Rasikh Salam,1,0,,,,,,,,,,205/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,Rasikh Salam,2,0,,,,,,,,,,207/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,Rasikh Salam,2,0,,,,,,,,,,209/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,H Klaasen,KH Pandya,1,0,,,,,,,,,,210/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,H Klaasen,Ishan Kishan,KH Pandya,0,0,,,,,,caught,H Klaasen,,,210/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,Nithish Kumar Reddy,Ishan Kishan,KH Pandya,6,0,,,,,,,,,,216/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Nithish Kumar Reddy,Ishan Kishan,KH Pandya,0,1,1,,,,,,,,,217/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Nithish Kumar Reddy,Ishan Kishan,KH Pandya,6,0,,,,,,,,,,223/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,Nithish Kumar Reddy,Ishan Kishan,KH Pandya,0,0,,,,,,,,,,223/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,Nithish Kumar Reddy,Ishan Kishan,KH Pandya,2,0,,,,,,,,,,225/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Nithish Kumar Reddy,JR Hazlewood,1,0,,,,,,,,,,226/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Nithish Kumar Reddy,Ishan Kishan,JR Hazlewood,1,0,,,,,,,,,,227/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Nithish Kumar Reddy,JR Hazlewood,4,0,,,,,,,,,,231/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Nithish Kumar Reddy,JR Hazlewood,0,0,,,,,,,,,,231/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Nithish Kumar Reddy,JR Hazlewood,1,0,,,,,,,,,,232/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,Nithish Kumar Reddy,Ishan Kishan,JR Hazlewood,6,0,,,,,,,,,,238/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Nithish Kumar Reddy,B Kumar,1,0,,,,,,,,,,239/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Nithish Kumar Reddy,Ishan Kishan,B Kumar,1,0,,,,,,,,,,240/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Nithish Kumar Reddy,B Kumar,4,0,,,,,,,,,,244/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Nithish Kumar Reddy,B Kumar,1,0,,,,,,,,,,245/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,Nithish Kumar Reddy,Ishan Kishan,B Kumar,0,0,,,,,,,,,,245/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,Nithish Kumar Reddy,Ishan Kishan,B Kumar,1,0,,,,,,,,,,246/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.1,Sunrisers Hyderabad,Royal Challengers Bengaluru,Nithish Kumar Reddy,Ishan Kishan,Rasikh Salam,1,0,,,,,,,,,,247/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Nithish Kumar Reddy,Rasikh Salam,1,0,,,,,,,,,,248/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.3,Sunrisers Hyderabad,Royal Challengers Bengaluru,Nithish Kumar Reddy,Ishan Kishan,Rasikh Salam,4,0,,,,,,,,,,252/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Nithish Kumar Reddy,Ishan Kishan,Rasikh Salam,0,1,1,,,,,,,,,253/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Nithish Kumar Reddy,Ishan Kishan,Rasikh Salam,0,1,1,,,,,,,,,254/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.4,Sunrisers Hyderabad,Royal Challengers Bengaluru,Nithish Kumar Reddy,Ishan Kishan,Rasikh Salam,1,0,,,,,,,,,,255/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.5,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Nithish Kumar Reddy,Rasikh Salam,0,0,,,,,,,,,,255/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.6,Sunrisers Hyderabad,Royal Challengers Bengaluru,Ishan Kishan,Nithish Kumar Reddy,Rasikh Salam,0,0,,,,,,caught,Ishan Kishan,,,255/4
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,PJ Cummins,2,0,,,,,,,,,,2/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,PJ Cummins,1,0,,,,,,,,,,3/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,V Kohli,VR Iyer,PJ Cummins,0,0,,,,,,,,,,3/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,V Kohli,VR Iyer,PJ Cummins,1,0,,,,,,,,,,4/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,PJ Cummins,4,0,,,,,,,,,,8/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,PJ Cummins,6,0,,,,,,,,,,14/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,V Kohli,VR Iyer,E Malinga,1,0,,,,,,,,,,15/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,E Malinga,0,0,,,,,,,,,,15/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,E Malinga,0,0,,,,,,,,,,15/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,E Malinga,0,0,,,,,,,,,,15/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,E Malinga,0,0,,,,,,,,,,15/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,E Malinga,4,0,,,,,,,,,,19/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,V Kohli,VR Iyer,PJ Cummins,4,0,,,,,,,,,,23/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,V Kohli,VR Iyer,PJ Cummins,4,0,,,,,,,,,,27/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,V Kohli,VR Iyer,PJ Cummins,0,1,1,,,,,,,,,28/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,V Kohli,VR Iyer,PJ Cummins,1,0,,,,,,,,,,29/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,PJ Cummins,4,0,,,,,,,,,,33/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,PJ Cummins,0,0,,,,,,,,,,33/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,PJ Cummins,1,0,,,,,,,,,,34/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,Shivang Kumar,6,0,,,,,,,,,,40/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,Shivang Kumar,4,0,,,,,,,,,,44/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,Shivang Kumar,0,0,,,,,,,,,,44/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,Shivang Kumar,6,0,,,,,,,,,,50/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,Shivang Kumar,6,0,,,,,,,,,,56/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,Shivang Kumar,0,1,1,,,,,,,,,57/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,Shivang Kumar,0,0,,,,,,,,,,57/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,V Kohli,VR Iyer,E Malinga,2,0,,,,,,,,,,59/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,V Kohli,VR Iyer,E Malinga,1,0,,,,,,,,,,60/0
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,VR Iyer,V Kohli,E Malinga,0,0,,,,,,caught,VR Iyer,,,60/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,D Padikkal,V Kohli,E Malinga,4,0,,,,,,,,,,64/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,D Padikkal,V Kohli,E Malinga,6,0,,,,,,,,,,70/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,D Padikkal,V Kohli,E Malinga,1,0,,,,,,,,,,71/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,D Padikkal,V Kohli,Sakib Hussain,1,0,,,,,,,,,,72/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,V Kohli,D Padikkal,Sakib Hussain,1,0,,,,,,,,,,73/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,D Padikkal,V Kohli,Sakib Hussain,1,0,,,,,,,,,,74/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,V Kohli,D Padikkal,Sakib Hussain,0,0,,,,,,,,,,74/1
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,V Kohli,D Padikkal,Sakib Hussain,0,0,,,,,,caught,V Kohli,,,74/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,D Padikkal,Sakib Hussain,1,0,,,,,,,,,,75/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,D Padikkal,HV Patel,4,0,,,,,,,,,,79/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,D Padikkal,HV Patel,1,0,,,,,,,,,,80/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,D Padikkal,RM Patidar,HV Patel,1,0,,,,,,,,,,81/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,D Padikkal,HV Patel,2,0,,,,,,,,,,83/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,D Padikkal,HV Patel,1,0,,,,,,,,,,84/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,D Padikkal,RM Patidar,HV Patel,1,0,,,,,,,,,,85/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,D Padikkal,RM Patidar,Sakib Hussain,4,0,,,,,,,,,,89/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,D Padikkal,RM Patidar,Sakib Hussain,0,0,,,,,,,,,,89/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,D Padikkal,RM Patidar,Sakib Hussain,0,0,,,,,,,,,,89/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,D Padikkal,RM Patidar,Sakib Hussain,1,0,,,,,,,,,,90/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,D Padikkal,Sakib Hussain,1,0,,,,,,,,,,91/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,D Padikkal,RM Patidar,Sakib Hussain,0,0,,,,,,,,,,91/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,D Padikkal,E Malinga,1,0,,,,,,,,,,92/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,D Padikkal,RM Patidar,E Malinga,1,0,,,,,,,,,,93/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,D Padikkal,E Malinga,0,0,,,,,,,,,,93/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,D Padikkal,E Malinga,1,0,,,,,,,,,,94/2
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,D Padikkal,RM Patidar,E Malinga,0,0,,,,,,caught,D Padikkal,,,94/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,E Malinga,0,0,,,,,,,,,,94/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,HV Patel,1,0,,,,,,,,,,95/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,HV Patel,1,0,,,,,,,,,,96/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,HV Patel,1,0,,,,,,,,,,97/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,HV Patel,1,0,,,,,,,,,,98/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,HV Patel,1,0,,,,,,,,,,99/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,HV Patel,1,0,,,,,,,,,,100/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,PJ Cummins,4,0,,,,,,,,,,104/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,PJ Cummins,0,2,2,,,,,,,,,106/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,PJ Cummins,1,0,,,,,,,,,,107/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,PJ Cummins,0,0,,,,,,,,,,107/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,PJ Cummins,1,0,,,,,,,,,,108/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,PJ Cummins,1,1,,1,,,,,,,,110/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,PJ Cummins,1,0,,,,,,,,,,111/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,PJ Cummins,1,0,,,,,,,,,,112/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,Shivang Kumar,0,0,,,,,,,,,,112/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,Shivang Kumar,1,0,,,,,,,,,,113/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,Shivang Kumar,2,0,,,,,,,,,,115/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,Shivang Kumar,1,0,,,,,,,,,,116/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,Shivang Kumar,1,0,,,,,,,,,,117/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,Shivang Kumar,4,0,,,,,,,,,,121/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,Sakib Hussain,1,0,,,,,,,,,,122/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,Sakib Hussain,0,0,,,,,,,,,,122/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,Sakib Hussain,4,0,,,,,,,,,,126/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,Sakib Hussain,0,0,,,,,,,,,,126/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,Sakib Hussain,1,0,,,,,,,,,,127/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,Sakib Hussain,0,0,,,,,,,,,,127/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,HV Patel,4,0,,,,,,,,,,131/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,HV Patel,2,0,,,,,,,,,,133/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,HV Patel,1,0,,,,,,,,,,134/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,HV Patel,0,0,,,,,,,,,,134/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,HV Patel,4,0,,,,,,,,,,138/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,HV Patel,1,0,,,,,,,,,,139/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,Nithish Kumar Reddy,4,0,,,,,,,,,,143/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,Nithish Kumar Reddy,0,1,1,,,,,,,,,144/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,Nithish Kumar Reddy,1,0,,,,,,,,,,145/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,Nithish Kumar Reddy,1,0,,,,,,,,,,146/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,Nithish Kumar Reddy,0,0,,,,,,,,,,146/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,Nithish Kumar Reddy,1,0,,,,,,,,,,147/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,Nithish Kumar Reddy,2,0,,,,,,,,,,149/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,E Malinga,0,0,,,,,,,,,,149/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,E Malinga,2,0,,,,,,,,,,151/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,E Malinga,0,0,,,,,,,,,,151/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,E Malinga,4,0,,,,,,,,,,155/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,E Malinga,4,0,,,,,,,,,,159/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,E Malinga,1,0,,,,,,,,,,160/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,PJ Cummins,1,0,,,,,,,,,,161/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,PJ Cummins,0,0,,,,,,,,,,161/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,PJ Cummins,1,0,,,,,,,,,,162/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,PJ Cummins,4,0,,,,,,,,,,166/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,PJ Cummins,1,0,,,,,,,,,,167/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,PJ Cummins,0,1,,,,1,,,,,,168/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,HV Patel,1,0,,,,,,,,,,169/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,HV Patel,1,0,,,,,,,,,,170/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,HV Patel,0,0,,,,,,,,,,170/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,HV Patel,0,0,,,,,,,,,,170/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,HV Patel,1,0,,,,,,,,,,171/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,HV Patel,6,0,,,,,,,,,,177/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,RM Patidar,TM Head,0,1,,,,1,,,,,,178/3
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,RM Patidar,KH Pandya,TM Head,0,0,,,,,,caught,RM Patidar,,,178/4
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,TH David,KH Pandya,TM Head,1,0,,,,,,,,,,179/4
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,TH David,TM Head,4,0,,,,,,,,,,183/4
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,TH David,TM Head,1,0,,,,,,,,,,184/4
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,TH David,KH Pandya,TM Head,1,0,,,,,,,,,,185/4
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,TH David,KH Pandya,Sakib Hussain,2,0,,,,,,,,,,187/4
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,TH David,KH Pandya,Sakib Hussain,0,0,,,,,,,,,,187/4
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.3,Royal Challengers Bengaluru,Sunrisers Hyderabad,TH David,KH Pandya,Sakib Hussain,6,0,,,,,,,,,,193/4
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,TH David,KH Pandya,Sakib Hussain,4,0,,,,,,,,,,197/4
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.5,Royal Challengers Bengaluru,Sunrisers Hyderabad,TH David,KH Pandya,Sakib Hussain,1,0,,,,,,,,,,198/4
+67,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.6,Royal Challengers Bengaluru,Sunrisers Hyderabad,KH Pandya,TH David,Sakib Hussain,2,0,,,,,,,,,,200/4

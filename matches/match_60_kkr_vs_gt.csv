@@ -1,0 +1,253 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,0.1,Kolkata Knight Riders,Gujarat Titans,AM Rahane,FH Allen,Mohammed Siraj,1,0,,,,,,,,,,1/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,0.2,Kolkata Knight Riders,Gujarat Titans,FH Allen,AM Rahane,Mohammed Siraj,1,0,,,,,,,,,,2/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,0.3,Kolkata Knight Riders,Gujarat Titans,AM Rahane,FH Allen,Mohammed Siraj,0,0,,,,,,,,,,2/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,0.4,Kolkata Knight Riders,Gujarat Titans,AM Rahane,FH Allen,Mohammed Siraj,0,0,,,,,,,,,,2/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,0.5,Kolkata Knight Riders,Gujarat Titans,AM Rahane,FH Allen,Mohammed Siraj,1,0,,,,,,,,,,3/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,0.6,Kolkata Knight Riders,Gujarat Titans,FH Allen,AM Rahane,Mohammed Siraj,2,0,,,,,,,,,,5/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,1.1,Kolkata Knight Riders,Gujarat Titans,AM Rahane,FH Allen,K Rabada,0,0,,,,,,,,,,5/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,1.2,Kolkata Knight Riders,Gujarat Titans,AM Rahane,FH Allen,K Rabada,0,0,,,,,,,,,,5/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,1.3,Kolkata Knight Riders,Gujarat Titans,AM Rahane,FH Allen,K Rabada,0,0,,,,,,,,,,5/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,1.4,Kolkata Knight Riders,Gujarat Titans,AM Rahane,FH Allen,K Rabada,6,0,,,,,,,,,,11/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,1.5,Kolkata Knight Riders,Gujarat Titans,AM Rahane,FH Allen,K Rabada,1,0,,,,,,,,,,12/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,1.6,Kolkata Knight Riders,Gujarat Titans,FH Allen,AM Rahane,K Rabada,1,0,,,,,,,,,,13/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,2.1,Kolkata Knight Riders,Gujarat Titans,FH Allen,AM Rahane,Mohammed Siraj,2,0,,,,,,,,,,15/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,2.2,Kolkata Knight Riders,Gujarat Titans,FH Allen,AM Rahane,Mohammed Siraj,0,0,,,,,,,,,,15/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,2.3,Kolkata Knight Riders,Gujarat Titans,FH Allen,AM Rahane,Mohammed Siraj,0,0,,,,,,,,,,15/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,2.4,Kolkata Knight Riders,Gujarat Titans,FH Allen,AM Rahane,Mohammed Siraj,4,0,,,,,,,,,,19/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,2.5,Kolkata Knight Riders,Gujarat Titans,FH Allen,AM Rahane,Mohammed Siraj,4,0,,,,,,,,,,23/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,2.6,Kolkata Knight Riders,Gujarat Titans,FH Allen,AM Rahane,Mohammed Siraj,2,0,,,,,,,,,,25/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,3.1,Kolkata Knight Riders,Gujarat Titans,AM Rahane,FH Allen,K Rabada,1,0,,,,,,,,,,26/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,3.2,Kolkata Knight Riders,Gujarat Titans,FH Allen,AM Rahane,K Rabada,6,0,,,,,,,,,,32/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,3.3,Kolkata Knight Riders,Gujarat Titans,FH Allen,AM Rahane,K Rabada,6,0,,,,,,,,,,38/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,3.4,Kolkata Knight Riders,Gujarat Titans,FH Allen,AM Rahane,K Rabada,1,0,,,,,,,,,,39/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,3.5,Kolkata Knight Riders,Gujarat Titans,AM Rahane,FH Allen,K Rabada,0,0,,,,,,,,,,39/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,3.6,Kolkata Knight Riders,Gujarat Titans,AM Rahane,FH Allen,K Rabada,0,0,,,,,,,,,,39/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,4.1,Kolkata Knight Riders,Gujarat Titans,FH Allen,AM Rahane,Mohammed Siraj,1,0,,,,,,,,,,40/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,4.2,Kolkata Knight Riders,Gujarat Titans,AM Rahane,FH Allen,Mohammed Siraj,4,0,,,,,,,,,,44/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,4.3,Kolkata Knight Riders,Gujarat Titans,AM Rahane,FH Allen,Mohammed Siraj,0,0,,,,,,bowled,AM Rahane,,,44/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,4.4,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,Mohammed Siraj,0,0,,,,,,,,,,44/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,4.5,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,Mohammed Siraj,0,1,1,,,,,,,,,45/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,4.5,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,Mohammed Siraj,0,1,1,,,,,,,,,46/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,4.5,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,Mohammed Siraj,0,0,,,,,,,,,,46/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,4.6,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,Mohammed Siraj,1,0,,,,,,,,,,47/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,5.1,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,K Rabada,0,0,,,,,,,,,,47/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,5.2,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,K Rabada,0,1,,,,1,,,,,,48/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,5.3,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,K Rabada,0,1,1,,,,,,,,,49/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,5.3,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,K Rabada,0,0,,,,,,,,,,49/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,5.4,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,K Rabada,1,0,,,,,,,,,,50/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,5.5,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,K Rabada,6,0,,,,,,,,,,56/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,5.6,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,K Rabada,0,0,,,,,,,,,,56/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,6.1,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,JO Holder,1,0,,,,,,,,,,57/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,6.2,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,JO Holder,1,0,,,,,,,,,,58/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,6.3,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,JO Holder,1,0,,,,,,,,,,59/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,6.4,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,JO Holder,1,0,,,,,,,,,,60/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,6.5,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,JO Holder,1,0,,,,,,,,,,61/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,6.6,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,JO Holder,6,0,,,,,,,,,,67/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,7.1,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,Rashid Khan,6,0,,,,,,,,,,73/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,7.2,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,Rashid Khan,6,0,,,,,,,,,,79/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,7.3,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,Rashid Khan,4,0,,,,,,,,,,83/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,7.4,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,Rashid Khan,1,0,,,,,,,,,,84/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,7.5,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,Rashid Khan,0,0,,,,,,,,,,84/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,7.6,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,Rashid Khan,1,0,,,,,,,,,,85/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,8.1,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,JO Holder,1,0,,,,,,,,,,86/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,8.2,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,JO Holder,6,0,,,,,,,,,,92/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,8.3,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,JO Holder,1,0,,,,,,,,,,93/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,8.4,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,JO Holder,1,0,,,,,,,,,,94/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,8.5,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,JO Holder,0,0,,,,,,,,,,94/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,8.6,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,JO Holder,6,0,,,,,,,,,,100/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,9.1,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,R Sai Kishore,2,0,,,,,,,,,,102/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,9.2,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,R Sai Kishore,1,0,,,,,,,,,,103/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,9.3,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,R Sai Kishore,6,0,,,,,,,,,,109/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,9.4,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,R Sai Kishore,1,0,,,,,,,,,,110/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,9.5,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,R Sai Kishore,0,0,,,,,,,,,,110/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,9.6,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,R Sai Kishore,6,0,,,,,,,,,,116/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,10.1,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,Arshad Khan,6,0,,,,,,,,,,122/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,10.2,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,Arshad Khan,6,0,,,,,,,,,,128/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,10.3,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,Arshad Khan,0,0,,,,,,,,,,128/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,10.4,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,Arshad Khan,6,0,,,,,,,,,,134/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,10.5,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,Arshad Khan,0,0,,,,,,,,,,134/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,10.6,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,Arshad Khan,4,0,,,,,,,,,,138/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,11.1,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,FH Allen,R Sai Kishore,1,0,,,,,,,,,,139/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,11.2,Kolkata Knight Riders,Gujarat Titans,FH Allen,A Raghuvanshi,R Sai Kishore,0,0,,,,,,caught,FH Allen,,,139/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,11.3,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,R Sai Kishore,1,0,,,,,,,,,,140/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,11.4,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,R Sai Kishore,2,0,,,,,,,,,,142/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,11.5,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,R Sai Kishore,1,0,,,,,,,,,,143/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,11.6,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,R Sai Kishore,0,0,,,,,,,,,,143/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,12.1,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,Rashid Khan,1,0,,,,,,,,,,144/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,12.2,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,Rashid Khan,1,0,,,,,,,,,,145/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,12.3,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,Rashid Khan,4,0,,,,,,,,,,149/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,12.4,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,Rashid Khan,1,0,,,,,,,,,,150/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,12.5,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,Rashid Khan,1,0,,,,,,,,,,151/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,12.6,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,Rashid Khan,6,0,,,,,,,,,,157/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,13.1,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,R Sai Kishore,0,0,,,,,,,,,,157/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,13.2,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,R Sai Kishore,6,0,,,,,,,,,,163/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,13.3,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,R Sai Kishore,0,0,,,,,,,,,,163/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,13.4,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,R Sai Kishore,4,0,,,,,,,,,,167/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,13.5,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,R Sai Kishore,6,0,,,,,,,,,,173/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,13.6,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,R Sai Kishore,1,0,,,,,,,,,,174/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,14.1,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,JO Holder,1,0,,,,,,,,,,175/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,14.2,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,JO Holder,0,0,,,,,,,,,,175/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,14.3,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,JO Holder,0,0,,,,,,,,,,175/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,14.4,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,JO Holder,0,0,,,,,,,,,,175/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,14.5,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,JO Holder,0,1,,1,,,,,,,,176/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,14.5,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,JO Holder,1,0,,,,,,,,,,177/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,14.6,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,JO Holder,2,0,,,,,,,,,,179/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,15.1,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,Rashid Khan,1,0,,,,,,,,,,180/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,15.2,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,Rashid Khan,4,0,,,,,,,,,,184/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,15.3,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,Rashid Khan,6,0,,,,,,,,,,190/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,15.4,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,Rashid Khan,0,0,,,,,,,,,,190/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,15.5,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,Rashid Khan,0,0,,,,,,,,,,190/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,15.6,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,Rashid Khan,2,0,,,,,,,,,,192/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,16.1,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,JO Holder,4,0,,,,,,,,,,196/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,16.2,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,JO Holder,1,0,,,,,,,,,,197/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,16.3,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,JO Holder,1,0,,,,,,,,,,198/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,16.4,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,JO Holder,1,0,,,,,,,,,,199/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,16.5,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,JO Holder,0,0,,,,,,,,,,199/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,16.6,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,JO Holder,1,0,,,,,,,,,,200/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,17.1,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,K Rabada,1,0,,,,,,,,,,201/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,17.2,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,K Rabada,1,0,,,,,,,,,,202/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,17.3,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,K Rabada,1,0,,,,,,,,,,203/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,17.4,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,K Rabada,1,0,,,,,,,,,,204/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,17.5,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,K Rabada,0,0,,,,,,,,,,204/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,17.6,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,K Rabada,6,0,,,,,,,,,,210/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,18.1,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,Mohammed Siraj,0,0,,,,,,,,,,210/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,18.2,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,Mohammed Siraj,0,1,1,,,,,,,,,211/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,18.2,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,Mohammed Siraj,6,0,,,,,,,,,,217/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,18.3,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,Mohammed Siraj,2,0,,,,,,,,,,219/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,18.4,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,Mohammed Siraj,6,0,,,,,,,,,,225/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,18.5,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,Mohammed Siraj,6,0,,,,,,,,,,231/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,18.6,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,Mohammed Siraj,4,0,,,,,,,,,,235/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,19.1,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,Rashid Khan,1,0,,,,,,,,,,236/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,19.2,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,Rashid Khan,4,0,,,,,,,,,,240/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,19.3,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,C Green,Rashid Khan,1,0,,,,,,,,,,241/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,19.4,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,Rashid Khan,4,0,,,,,,,,,,245/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,19.5,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,Rashid Khan,0,0,,,,,,,,,,245/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",1,19.6,Kolkata Knight Riders,Gujarat Titans,C Green,A Raghuvanshi,Rashid Khan,2,0,,,,,,,,,,247/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,0.1,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,SR Dubey,0,0,,,,,,,,,,0/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,0.2,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,SR Dubey,0,0,,,,,,,,,,0/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,0.3,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,SR Dubey,0,0,,,,,,,,,,0/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,0.4,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,SR Dubey,4,0,,,,,,,,,,4/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,0.5,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,SR Dubey,0,5,5,,,,,,,,,9/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,0.5,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,SR Dubey,4,0,,,,,,,,,,13/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,0.6,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,SR Dubey,0,1,1,,,,,,,,,14/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,0.6,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,SR Dubey,0,1,1,,,,,,,,,15/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,0.6,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,SR Dubey,0,0,,,,,,,,,,15/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,1.1,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,C Green,0,4,,,,4,,,,,,19/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,1.2,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,C Green,0,0,,,,,,,,,,19/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,1.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,C Green,0,0,,,,,,,,,,19/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,1.4,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,C Green,6,0,,,,,,,,,,25/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,1.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,C Green,1,0,,,,,,,,,,26/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,1.6,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,C Green,1,0,,,,,,,,,,27/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,2.1,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,Kartik Tyagi,4,0,,,,,,,,,,31/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,2.2,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,Kartik Tyagi,6,0,,,,,,,,,,37/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,2.3,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,Kartik Tyagi,4,0,,,,,,,,,,41/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,2.4,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,Kartik Tyagi,0,0,,,,,,,,,,41/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,2.5,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,Kartik Tyagi,0,0,,,,,,,,,,41/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,2.6,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,Kartik Tyagi,0,1,,,,1,,,,,,42/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,3.1,Gujarat Titans,Kolkata Knight Riders,N Sindhu,Shubman Gill,M Pathirana,0,1,1,,,,,,,,,43/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,3.1,Gujarat Titans,Kolkata Knight Riders,N Sindhu,Shubman Gill,M Pathirana,0,0,,,,,,,,,,43/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,3.2,Gujarat Titans,Kolkata Knight Riders,N Sindhu,Shubman Gill,M Pathirana,0,0,,,,,,,,,,43/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,3.3,Gujarat Titans,Kolkata Knight Riders,N Sindhu,Shubman Gill,M Pathirana,1,0,,,,,,,,,,44/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,3.4,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,N Sindhu,M Pathirana,0,0,,,,,,,,,,44/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,3.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,N Sindhu,M Pathirana,0,1,1,,,,,,,,,45/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,3.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,N Sindhu,M Pathirana,0,0,,,,,,,,,,45/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,3.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,N Sindhu,M Pathirana,4,0,,,,,,,,,,49/0
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,4.1,Gujarat Titans,Kolkata Knight Riders,N Sindhu,Shubman Gill,SP Narine,0,0,,,,,,caught,N Sindhu,,,49/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,4.2,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,SP Narine,1,0,,,,,,,,,,50/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,4.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,SP Narine,0,0,,,,,,,,,,50/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,4.4,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,SP Narine,0,0,,,,,,,,,,50/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,4.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,SP Narine,0,0,,,,,,,,,,50/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,4.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,SP Narine,0,1,,,,1,,,,,,51/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,5.1,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,M Pathirana,1,0,,,,,,,,,,52/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,5.2,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,M Pathirana,1,0,,,,,,,,,,53/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,5.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,SR Dubey,1,0,,,,,,,,,,54/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,5.4,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,SR Dubey,0,0,,,,,,,,,,54/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,5.5,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,SR Dubey,1,0,,,,,,,,,,55/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,5.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,SR Dubey,1,0,,,,,,,,,,56/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,6.1,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,SP Narine,0,0,,,,,,,,,,56/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,6.2,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,SP Narine,6,0,,,,,,,,,,62/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,6.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,SP Narine,0,0,,,,,,,,,,62/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,6.4,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,SP Narine,6,0,,,,,,,,,,68/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,6.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,SP Narine,1,0,,,,,,,,,,69/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,6.6,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,SP Narine,0,0,,,,,,,,,,69/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,7.1,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,1,0,,,,,,,,,,70/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,7.2,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,CV Varun,1,0,,,,,,,,,,71/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,7.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,1,0,,,,,,,,,,72/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,7.4,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,CV Varun,1,0,,,,,,,,,,73/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,7.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,0,0,,,,,,,,,,73/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,7.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,1,0,,,,,,,,,,74/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,8.1,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,AS Roy,0,0,,,,,,,,,,74/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,8.2,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,AS Roy,6,0,,,,,,,,,,80/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,8.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,AS Roy,6,0,,,,,,,,,,86/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,8.4,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,AS Roy,0,1,,,,1,,,,,,87/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,8.5,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,AS Roy,1,0,,,,,,,,,,88/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,8.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,AS Roy,4,0,,,,,,,,,,92/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,9.1,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,CV Varun,1,0,,,,,,,,,,93/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,9.2,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,1,0,,,,,,,,,,94/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,9.3,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,CV Varun,4,0,,,,,,,,,,98/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,9.4,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,CV Varun,1,0,,,,,,,,,,99/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,9.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,2,0,,,,,,,,,,101/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,9.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,0,0,,,,,,,,,,101/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,10.1,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,Kartik Tyagi,2,0,,,,,,,,,,103/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,10.2,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,Kartik Tyagi,2,0,,,,,,,,,,105/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,10.3,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,Kartik Tyagi,0,0,,,,,,,,,,105/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,10.4,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,Kartik Tyagi,1,0,,,,,,,,,,106/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,10.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,Kartik Tyagi,1,0,,,,,,,,,,107/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,10.6,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,Kartik Tyagi,4,0,,,,,,,,,,111/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,11.1,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,1,0,,,,,,,,,,112/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,11.2,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,CV Varun,1,0,,,,,,,,,,113/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,11.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,0,1,1,,,,,,,,,114/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,11.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,1,0,,,,,,,,,,115/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,11.4,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,CV Varun,2,0,,,,,,,,,,117/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,11.5,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,CV Varun,4,0,,,,,,,,,,121/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,11.6,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,CV Varun,1,0,,,,,,,,,,122/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,12.1,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,C Green,4,0,,,,,,,,,,126/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,12.2,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,C Green,0,0,,,,,,,,,,126/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,12.3,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,C Green,0,0,,,,,,,,,,126/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,12.4,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,C Green,1,0,,,,,,,,,,127/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,12.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,C Green,2,0,,,,,,,,,,129/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,12.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,C Green,1,0,,,,,,,,,,130/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,13.1,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,2,0,,,,,,,,,,132/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,13.2,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,6,0,,,,,,,,,,138/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,13.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,0,0,,,,,,,,,,138/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,13.4,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,4,0,,,,,,,,,,142/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,13.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,6,0,,,,,,,,,,148/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,13.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,4,0,,,,,,,,,,152/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,14.1,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,SP Narine,2,0,,,,,,,,,,154/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,14.2,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,SP Narine,1,0,,,,,,,,,,155/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,14.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,SP Narine,2,0,,,,,,,,,,157/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,14.4,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,SP Narine,4,0,,,,,,,,,,161/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,14.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,SP Narine,1,0,,,,,,,,,,162/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,14.6,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,SP Narine,0,1,,,1,,,,,,,163/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,15.1,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,Kartik Tyagi,4,0,,,,,,,,,,167/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,15.2,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,Kartik Tyagi,6,0,,,,,,,,,,173/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,15.3,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,Kartik Tyagi,0,0,,,,,,,,,,173/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,15.4,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,Kartik Tyagi,1,0,,,,,,,,,,174/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,15.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,Kartik Tyagi,1,0,,,,,,,,,,175/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,15.6,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,Kartik Tyagi,2,0,,,,,,,,,,177/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,16.1,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,SP Narine,0,0,,,,,,,,,,177/1
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,16.2,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,SP Narine,0,0,,,,,,caught,Shubman Gill,,,177/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,16.3,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,JC Buttler,SP Narine,1,0,,,,,,,,,,178/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,16.4,Gujarat Titans,Kolkata Knight Riders,JC Buttler,B Sai Sudharsan,SP Narine,1,0,,,,,,,,,,179/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,16.5,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,JC Buttler,SP Narine,2,0,,,,,,,,,,181/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,16.6,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,JC Buttler,SP Narine,1,0,,,,,,,,,,182/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,17.1,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,JC Buttler,Kartik Tyagi,6,0,,,,,,,,,,188/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,17.2,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,JC Buttler,Kartik Tyagi,4,0,,,,,,,,,,192/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,17.3,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,JC Buttler,Kartik Tyagi,0,0,,,,,,,,,,192/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,17.4,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,JC Buttler,Kartik Tyagi,4,0,,,,,,,,,,196/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,17.5,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,JC Buttler,Kartik Tyagi,1,0,,,,,,,,,,197/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,17.6,Gujarat Titans,Kolkata Knight Riders,JC Buttler,B Sai Sudharsan,Kartik Tyagi,6,0,,,,,,,,,,203/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,18.1,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,JC Buttler,SR Dubey,0,0,,,,,,,,,,203/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,18.2,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,JC Buttler,SR Dubey,0,0,,,,,,,,,,203/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,18.3,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,JC Buttler,SR Dubey,0,1,1,,,,,,,,,204/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,18.3,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,JC Buttler,SR Dubey,2,0,,,,,,,,,,206/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,18.4,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,JC Buttler,SR Dubey,1,0,,,,,,,,,,207/2
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,18.5,Gujarat Titans,Kolkata Knight Riders,JC Buttler,B Sai Sudharsan,SR Dubey,0,0,,,,,,caught,JC Buttler,,,207/3
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,18.6,Gujarat Titans,Kolkata Knight Riders,R Tewatia,B Sai Sudharsan,SR Dubey,1,0,,,,,,,,,,208/3
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,19.1,Gujarat Titans,Kolkata Knight Riders,R Tewatia,B Sai Sudharsan,C Green,0,1,,,,1,,,,,,209/3
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,19.2,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,R Tewatia,C Green,1,0,,,,,,,,,,210/3
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,19.3,Gujarat Titans,Kolkata Knight Riders,R Tewatia,B Sai Sudharsan,C Green,1,0,,,,,,,,,,211/3
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,19.4,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,R Tewatia,C Green,6,0,,,,,,,,,,217/3
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,19.5,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,R Tewatia,C Green,1,0,,,,,,,,,,218/3
+60,2026,2026-05-16,"Eden Gardens, Kolkata",2,19.6,Gujarat Titans,Kolkata Knight Riders,R Tewatia,B Sai Sudharsan,C Green,0,0,,,,,,caught,R Tewatia,,,218/4

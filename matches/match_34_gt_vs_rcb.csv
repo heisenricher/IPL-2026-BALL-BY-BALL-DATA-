@@ -1,0 +1,240 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,0.1,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,B Kumar,1,0,,,,,,,,,,1/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,0.2,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,B Kumar,0,0,,,,,,,,,,1/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,0.3,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,B Kumar,1,0,,,,,,,,,,2/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,0.4,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,B Kumar,4,0,,,,,,,,,,6/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,0.5,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,B Kumar,0,0,,,,,,,,,,6/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,0.6,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,B Kumar,1,0,,,,,,,,,,7/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,1.1,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,JR Hazlewood,0,0,,,,,,,,,,7/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,1.2,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,JR Hazlewood,0,0,,,,,,,,,,7/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,1.3,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,JR Hazlewood,2,0,,,,,,,,,,9/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,1.4,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,JR Hazlewood,0,1,1,,,,,,,,,10/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,1.4,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,JR Hazlewood,0,0,,,,,,,,,,10/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,1.5,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,JR Hazlewood,0,0,,,,,,,,,,10/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,1.6,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,JR Hazlewood,0,1,,,,1,,,,,,11/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,2.1,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,B Kumar,4,0,,,,,,,,,,15/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,2.2,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,B Kumar,0,0,,,,,,,,,,15/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,2.3,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,B Kumar,0,0,,,,,,,,,,15/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,2.4,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,B Kumar,4,0,,,,,,,,,,19/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,2.5,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,B Kumar,0,0,,,,,,,,,,19/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,2.6,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,B Kumar,1,0,,,,,,,,,,20/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,3.1,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Rasikh Salam,0,0,,,,,,,,,,20/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,3.2,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Rasikh Salam,4,0,,,,,,,,,,24/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,3.3,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Rasikh Salam,4,0,,,,,,,,,,28/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,3.4,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Rasikh Salam,1,0,,,,,,,,,,29/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,3.5,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,Rasikh Salam,1,0,,,,,,,,,,30/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,3.6,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Rasikh Salam,1,0,,,,,,,,,,31/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,4.1,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,JR Hazlewood,4,0,,,,,,,,,,35/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,4.2,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,JR Hazlewood,0,0,,,,,,,,,,35/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,4.3,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,JR Hazlewood,0,0,,,,,,,,,,35/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,4.4,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,JR Hazlewood,6,0,,,,,,,,,,41/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,4.5,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,JR Hazlewood,0,0,,,,,,,,,,41/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,4.6,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,JR Hazlewood,4,0,,,,,,,,,,45/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,5.1,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,Rasikh Salam,0,0,,,,,,,,,,45/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,5.2,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,Rasikh Salam,2,0,,,,,,,,,,47/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,5.3,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,Rasikh Salam,4,0,,,,,,,,,,51/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,5.4,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,Rasikh Salam,1,0,,,,,,,,,,52/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,5.5,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Rasikh Salam,4,0,,,,,,,,,,56/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,5.6,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Rasikh Salam,1,0,,,,,,,,,,57/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,6.1,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,KH Pandya,1,0,,,,,,,,,,58/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,6.2,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,KH Pandya,1,0,,,,,,,,,,59/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,6.3,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,KH Pandya,1,0,,,,,,,,,,60/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,6.4,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,KH Pandya,0,0,,,,,,,,,,60/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,6.5,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,KH Pandya,1,0,,,,,,,,,,61/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,6.6,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,KH Pandya,0,0,,,,,,,,,,61/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,7.1,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,R Shepherd,1,0,,,,,,,,,,62/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,7.2,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,R Shepherd,6,0,,,,,,,,,,68/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,7.3,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,R Shepherd,4,0,,,,,,,,,,72/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,7.4,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,R Shepherd,1,0,,,,,,,,,,73/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,7.5,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,R Shepherd,4,0,,,,,,,,,,77/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,7.6,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,R Shepherd,1,0,,,,,,,,,,78/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,8.1,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,KH Pandya,1,0,,,,,,,,,,79/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,8.2,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,KH Pandya,0,1,1,,,,,,,,,80/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,8.2,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,KH Pandya,6,0,,,,,,,,,,86/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,8.3,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,KH Pandya,1,0,,,,,,,,,,87/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,8.4,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,KH Pandya,1,0,,,,,,,,,,88/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,8.5,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,KH Pandya,0,0,,,,,,,,,,88/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,8.6,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,KH Pandya,6,0,,,,,,,,,,94/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,9.1,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,Suyash Sharma,1,0,,,,,,,,,,95/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,9.2,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Suyash Sharma,1,0,,,,,,,,,,96/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,9.3,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,Suyash Sharma,0,1,1,,,,,,,,,97/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,9.3,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,Suyash Sharma,1,0,,,,,,,,,,98/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,9.4,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Suyash Sharma,1,0,,,,,,,,,,99/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,9.5,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,Suyash Sharma,1,0,,,,,,,,,,100/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,9.6,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Suyash Sharma,4,0,,,,,,,,,,104/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,10.1,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,KH Pandya,6,0,,,,,,,,,,110/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,10.2,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,KH Pandya,1,0,,,,,,,,,,111/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,10.3,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,KH Pandya,1,0,,,,,,,,,,112/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,10.4,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,KH Pandya,1,0,,,,,,,,,,113/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,10.5,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,KH Pandya,2,0,,,,,,,,,,115/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,10.6,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,KH Pandya,1,0,,,,,,,,,,116/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,11.1,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Rasikh Salam,1,0,,,,,,,,,,117/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,11.2,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,Rasikh Salam,1,0,,,,,,,,,,118/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,11.3,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Rasikh Salam,0,0,,,,,,,,,,118/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,11.4,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Rasikh Salam,1,0,,,,,,,,,,119/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,11.5,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,Rasikh Salam,1,0,,,,,,,,,,120/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,11.6,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Rasikh Salam,1,0,,,,,,,,,,121/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,12.1,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Suyash Sharma,6,0,,,,,,,,,,127/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,12.2,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Suyash Sharma,0,0,,,,,,,,,,127/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,12.3,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,Suyash Sharma,1,0,,,,,,,,,,128/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,12.4,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,Suyash Sharma,0,0,,,,,,caught,Shubman Gill,,,128/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,12.5,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,B Sai Sudharsan,Suyash Sharma,0,2,,,,2,,,,,,130/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,12.6,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,B Sai Sudharsan,Suyash Sharma,1,0,,,,,,,,,,131/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,13.1,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,B Sai Sudharsan,B Kumar,2,0,,,,,,,,,,133/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,13.2,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,B Sai Sudharsan,B Kumar,1,0,,,,,,,,,,134/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,13.3,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,JC Buttler,B Kumar,4,0,,,,,,,,,,138/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,13.4,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,JC Buttler,B Kumar,1,0,,,,,,,,,,139/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,13.5,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,B Sai Sudharsan,B Kumar,1,0,,,,,,,,,,140/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,13.6,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,JC Buttler,B Kumar,1,0,,,,,,,,,,141/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,14.1,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,JC Buttler,Suyash Sharma,1,0,,,,,,,,,,142/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,14.2,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,B Sai Sudharsan,Suyash Sharma,4,0,,,,,,,,,,146/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,14.3,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,B Sai Sudharsan,Suyash Sharma,1,0,,,,,,,,,,147/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,14.4,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,JC Buttler,Suyash Sharma,1,0,,,,,,,,,,148/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,14.5,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,B Sai Sudharsan,Suyash Sharma,6,0,,,,,,,,,,154/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,14.6,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,B Sai Sudharsan,Suyash Sharma,1,0,,,,,,,,,,155/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,15.1,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,B Sai Sudharsan,JR Hazlewood,4,0,,,,,,,,,,159/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,15.2,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,B Sai Sudharsan,JR Hazlewood,1,0,,,,,,,,,,160/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,15.3,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,JC Buttler,JR Hazlewood,0,0,,,,,,caught and bowled,B Sai Sudharsan,,,160/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,15.4,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,JC Buttler,JR Hazlewood,0,0,,,,,,,,,,160/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,15.5,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,JC Buttler,JR Hazlewood,6,0,,,,,,,,,,166/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,15.6,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,JC Buttler,JR Hazlewood,4,0,,,,,,,,,,170/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,16.1,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,Suyash Sharma,1,0,,,,,,,,,,171/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,16.2,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,JC Buttler,Suyash Sharma,1,0,,,,,,,,,,172/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,16.3,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,Suyash Sharma,1,0,,,,,,,,,,173/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,16.4,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,JC Buttler,Suyash Sharma,0,0,,,,,,,,,,173/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,16.5,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,JC Buttler,Suyash Sharma,1,0,,,,,,,,,,174/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,16.6,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,Suyash Sharma,0,0,,,,,,,,,,174/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,17.1,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,JC Buttler,B Kumar,1,0,,,,,,,,,,175/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,17.2,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,B Kumar,1,0,,,,,,,,,,176/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,17.3,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,JC Buttler,B Kumar,1,0,,,,,,,,,,177/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,17.4,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,B Kumar,0,0,,,,,,caught,JC Buttler,,,177/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,17.5,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,Washington Sundar,B Kumar,1,0,,,,,,,,,,178/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,17.6,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,JO Holder,B Kumar,1,0,,,,,,,,,,179/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,18.1,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,JO Holder,JR Hazlewood,1,0,,,,,,,,,,180/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,18.2,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,Washington Sundar,JR Hazlewood,2,0,,,,,,,,,,182/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,18.3,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,Washington Sundar,JR Hazlewood,0,0,,,,,,,,,,182/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,18.4,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,Washington Sundar,JR Hazlewood,2,0,,,,,,,,,,184/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,18.5,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,Washington Sundar,JR Hazlewood,1,0,,,,,,,,,,185/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,18.6,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,JO Holder,JR Hazlewood,2,0,,,,,,,,,,187/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,19.1,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,Washington Sundar,KH Pandya,6,0,,,,,,,,,,193/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,19.2,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,Washington Sundar,KH Pandya,0,0,,,,,,,,,,193/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,19.3,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,Washington Sundar,KH Pandya,6,0,,,,,,,,,,199/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,19.4,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,Washington Sundar,KH Pandya,4,0,,,,,,,,,,203/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,19.5,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,Washington Sundar,KH Pandya,1,0,,,,,,,,,,204/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",1,19.6,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,JO Holder,KH Pandya,1,0,,,,,,,,,,205/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,0.1,Royal Challengers Bengaluru,Gujarat Titans,JG Bethell,V Kohli,Mohammed Siraj,0,0,,,,,,,,,,0/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,0.2,Royal Challengers Bengaluru,Gujarat Titans,JG Bethell,V Kohli,Mohammed Siraj,1,0,,,,,,,,,,1/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,0.3,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,Mohammed Siraj,0,0,,,,,,,,,,1/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,0.4,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,Mohammed Siraj,2,0,,,,,,,,,,3/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,0.5,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,Mohammed Siraj,1,0,,,,,,,,,,4/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,0.6,Royal Challengers Bengaluru,Gujarat Titans,JG Bethell,V Kohli,Mohammed Siraj,0,1,,,,1,,,,,,5/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,1.1,Royal Challengers Bengaluru,Gujarat Titans,JG Bethell,V Kohli,K Rabada,4,0,,,,,,,,,,9/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,1.2,Royal Challengers Bengaluru,Gujarat Titans,JG Bethell,V Kohli,K Rabada,0,0,,,,,,,,,,9/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,1.3,Royal Challengers Bengaluru,Gujarat Titans,JG Bethell,V Kohli,K Rabada,1,0,,,,,,,,,,10/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,1.4,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,K Rabada,4,0,,,,,,,,,,14/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,1.5,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,K Rabada,0,0,,,,,,,,,,14/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,1.6,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,K Rabada,0,1,,,,1,,,,,,15/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,2.1,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,Mohammed Siraj,2,0,,,,,,,,,,17/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,2.2,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,Mohammed Siraj,1,0,,,,,,,,,,18/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,2.3,Royal Challengers Bengaluru,Gujarat Titans,JG Bethell,V Kohli,Mohammed Siraj,4,0,,,,,,,,,,22/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,2.4,Royal Challengers Bengaluru,Gujarat Titans,JG Bethell,V Kohli,Mohammed Siraj,0,0,,,,,,,,,,22/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,2.5,Royal Challengers Bengaluru,Gujarat Titans,JG Bethell,V Kohli,Mohammed Siraj,4,0,,,,,,,,,,26/0
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,2.6,Royal Challengers Bengaluru,Gujarat Titans,JG Bethell,V Kohli,Mohammed Siraj,0,0,,,,,,caught,JG Bethell,,,26/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,3.1,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,K Rabada,4,0,,,,,,,,,,30/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,3.2,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,K Rabada,1,0,,,,,,,,,,31/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,3.3,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,K Rabada,6,0,,,,,,,,,,37/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,3.4,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,K Rabada,1,0,,,,,,,,,,38/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,3.5,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,K Rabada,1,0,,,,,,,,,,39/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,3.6,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,K Rabada,1,0,,,,,,,,,,40/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,4.1,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,Mohammed Siraj,4,0,,,,,,,,,,44/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,4.2,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,Mohammed Siraj,0,0,,,,,,,,,,44/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,4.3,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,Mohammed Siraj,0,0,,,,,,,,,,44/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,4.4,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,Mohammed Siraj,0,0,,,,,,,,,,44/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,4.5,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,Mohammed Siraj,0,0,,,,,,,,,,44/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,4.6,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,Mohammed Siraj,6,0,,,,,,,,,,50/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,5.1,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,JO Holder,1,0,,,,,,,,,,51/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,5.2,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,JO Holder,1,0,,,,,,,,,,52/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,5.3,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,JO Holder,4,0,,,,,,,,,,56/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,5.4,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,JO Holder,0,0,,,,,,,,,,56/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,5.5,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,JO Holder,1,0,,,,,,,,,,57/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,5.6,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,JO Holder,1,0,,,,,,,,,,58/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,6.1,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,M Prasidh Krishna,1,0,,,,,,,,,,59/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,6.2,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,M Prasidh Krishna,2,0,,,,,,,,,,61/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,6.3,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,M Prasidh Krishna,4,0,,,,,,,,,,65/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,6.4,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,M Prasidh Krishna,4,0,,,,,,,,,,69/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,6.5,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,M Prasidh Krishna,0,0,,,,,,,,,,69/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,6.6,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,M Prasidh Krishna,1,0,,,,,,,,,,70/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,7.1,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,Rashid Khan,0,0,,,,,,,,,,70/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,7.2,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,Rashid Khan,6,0,,,,,,,,,,76/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,7.3,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,Rashid Khan,4,0,,,,,,,,,,80/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,7.4,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,Rashid Khan,1,0,,,,,,,,,,81/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,7.5,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,Rashid Khan,1,0,,,,,,,,,,82/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,7.6,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,Rashid Khan,1,0,,,,,,,,,,83/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,8.1,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,M Prasidh Krishna,1,0,,,,,,,,,,84/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,8.2,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,M Prasidh Krishna,4,0,,,,,,,,,,88/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,8.3,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,M Prasidh Krishna,6,0,,,,,,,,,,94/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,8.4,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,M Prasidh Krishna,1,0,,,,,,,,,,95/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,8.5,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,M Prasidh Krishna,1,0,,,,,,,,,,96/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,8.6,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,M Prasidh Krishna,6,0,,,,,,,,,,102/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,9.1,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,Rashid Khan,1,0,,,,,,,,,,103/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,9.2,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,Rashid Khan,0,0,,,,,,,,,,103/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,9.3,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,Rashid Khan,6,0,,,,,,,,,,109/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,9.4,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,Rashid Khan,0,1,1,,,,,,,,,110/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,9.4,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,Rashid Khan,6,0,,,,,,,,,,116/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,9.5,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,Rashid Khan,1,0,,,,,,,,,,117/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,9.6,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,Rashid Khan,1,0,,,,,,,,,,118/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,10.1,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,K Rabada,1,0,,,,,,,,,,119/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,10.2,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,K Rabada,1,0,,,,,,,,,,120/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,10.3,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,K Rabada,0,0,,,,,,,,,,120/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,10.4,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,K Rabada,4,0,,,,,,,,,,124/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,10.5,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,K Rabada,6,0,,,,,,,,,,130/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,10.6,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,K Rabada,1,0,,,,,,,,,,131/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,11.1,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,JO Holder,1,0,,,,,,,,,,132/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,11.2,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,JO Holder,0,0,,,,,,,,,,132/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,11.3,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,JO Holder,1,0,,,,,,,,,,133/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,11.4,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,JO Holder,0,0,,,,,,,,,,133/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,11.5,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,JO Holder,1,0,,,,,,,,,,134/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,11.6,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,JO Holder,0,0,,,,,,,,,,134/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,12.1,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,Rashid Khan,4,0,,,,,,,,,,138/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,12.2,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,Rashid Khan,1,0,,,,,,,,,,139/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,12.3,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,Rashid Khan,1,0,,,,,,,,,,140/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,12.4,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,Rashid Khan,1,0,,,,,,,,,,141/1
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,12.5,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,Rashid Khan,0,0,,,,,,bowled,D Padikkal,,,141/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,12.6,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,V Kohli,Rashid Khan,0,0,,,,,,,,,,141/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,13.1,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,RM Patidar,JO Holder,0,1,1,,,,,,,,,142/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,13.1,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,RM Patidar,JO Holder,0,0,,,,,,,,,,142/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,13.2,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,RM Patidar,JO Holder,6,0,,,,,,,,,,148/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,13.3,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,RM Patidar,JO Holder,6,0,,,,,,,,,,154/2
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,13.4,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,RM Patidar,JO Holder,0,0,,,,,,bowled,V Kohli,,,154/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,13.5,Royal Challengers Bengaluru,Gujarat Titans,JM Sharma,RM Patidar,JO Holder,0,0,,,,,,,,,,154/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,13.6,Royal Challengers Bengaluru,Gujarat Titans,JM Sharma,RM Patidar,JO Holder,4,0,,,,,,,,,,158/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,14.1,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,JM Sharma,Rashid Khan,6,0,,,,,,,,,,164/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,14.2,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,JM Sharma,Rashid Khan,1,0,,,,,,,,,,165/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,14.3,Royal Challengers Bengaluru,Gujarat Titans,JM Sharma,RM Patidar,Rashid Khan,0,0,,,,,,,,,,165/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,14.4,Royal Challengers Bengaluru,Gujarat Titans,JM Sharma,RM Patidar,Rashid Khan,6,0,,,,,,,,,,171/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,14.5,Royal Challengers Bengaluru,Gujarat Titans,JM Sharma,RM Patidar,Rashid Khan,0,0,,,,,,,,,,171/3
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,14.6,Royal Challengers Bengaluru,Gujarat Titans,JM Sharma,RM Patidar,Rashid Khan,0,0,,,,,,caught,JM Sharma,,,171/4
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,15.1,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,TH David,MJ Suthar,1,0,,,,,,,,,,172/4
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,15.2,Royal Challengers Bengaluru,Gujarat Titans,TH David,RM Patidar,MJ Suthar,1,0,,,,,,,,,,173/4
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,15.3,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,TH David,MJ Suthar,0,0,,,,,,caught,RM Patidar,,,173/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,15.4,Royal Challengers Bengaluru,Gujarat Titans,KH Pandya,TH David,MJ Suthar,1,0,,,,,,,,,,174/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,15.5,Royal Challengers Bengaluru,Gujarat Titans,TH David,KH Pandya,MJ Suthar,0,0,,,,,,,,,,174/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,15.6,Royal Challengers Bengaluru,Gujarat Titans,TH David,KH Pandya,MJ Suthar,1,0,,,,,,,,,,175/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,16.1,Royal Challengers Bengaluru,Gujarat Titans,TH David,KH Pandya,K Rabada,1,0,,,,,,,,,,176/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,16.2,Royal Challengers Bengaluru,Gujarat Titans,KH Pandya,TH David,K Rabada,1,0,,,,,,,,,,177/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,16.3,Royal Challengers Bengaluru,Gujarat Titans,TH David,KH Pandya,K Rabada,0,0,,,,,,,,,,177/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,16.4,Royal Challengers Bengaluru,Gujarat Titans,TH David,KH Pandya,K Rabada,0,0,,,,,,,,,,177/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,16.5,Royal Challengers Bengaluru,Gujarat Titans,TH David,KH Pandya,K Rabada,0,1,1,,,,,,,,,178/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,16.5,Royal Challengers Bengaluru,Gujarat Titans,TH David,KH Pandya,K Rabada,6,0,,,,,,,,,,184/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,16.6,Royal Challengers Bengaluru,Gujarat Titans,TH David,KH Pandya,K Rabada,0,0,,,,,,,,,,184/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,17.1,Royal Challengers Bengaluru,Gujarat Titans,KH Pandya,TH David,MJ Suthar,4,0,,,,,,,,,,188/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,17.2,Royal Challengers Bengaluru,Gujarat Titans,KH Pandya,TH David,MJ Suthar,4,0,,,,,,,,,,192/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,17.3,Royal Challengers Bengaluru,Gujarat Titans,KH Pandya,TH David,MJ Suthar,0,0,,,,,,,,,,192/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,17.4,Royal Challengers Bengaluru,Gujarat Titans,KH Pandya,TH David,MJ Suthar,0,0,,,,,,,,,,192/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,17.5,Royal Challengers Bengaluru,Gujarat Titans,KH Pandya,TH David,MJ Suthar,6,0,,,,,,,,,,198/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,17.6,Royal Challengers Bengaluru,Gujarat Titans,KH Pandya,TH David,MJ Suthar,1,0,,,,,,,,,,199/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,18.1,Royal Challengers Bengaluru,Gujarat Titans,KH Pandya,TH David,JO Holder,0,0,,,,,,,,,,199/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,18.2,Royal Challengers Bengaluru,Gujarat Titans,KH Pandya,TH David,JO Holder,1,0,,,,,,,,,,200/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,18.3,Royal Challengers Bengaluru,Gujarat Titans,TH David,KH Pandya,JO Holder,1,0,,,,,,,,,,201/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,18.4,Royal Challengers Bengaluru,Gujarat Titans,KH Pandya,TH David,JO Holder,4,0,,,,,,,,,,205/5
+34,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",2,18.5,Royal Challengers Bengaluru,Gujarat Titans,KH Pandya,TH David,JO Holder,1,0,,,,,,,,,,206/5

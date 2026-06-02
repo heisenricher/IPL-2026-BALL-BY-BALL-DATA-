@@ -1,0 +1,255 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,0.1,Gujarat Titans,Delhi Capitals,B Sai Sudharsan,Shubman Gill,Mukesh Kumar,4,0,,,,,,,,,,4/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,0.2,Gujarat Titans,Delhi Capitals,B Sai Sudharsan,Shubman Gill,Mukesh Kumar,1,0,,,,,,,,,,5/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,0.3,Gujarat Titans,Delhi Capitals,Shubman Gill,B Sai Sudharsan,Mukesh Kumar,4,0,,,,,,,,,,9/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,0.4,Gujarat Titans,Delhi Capitals,Shubman Gill,B Sai Sudharsan,Mukesh Kumar,1,0,,,,,,,,,,10/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,0.5,Gujarat Titans,Delhi Capitals,B Sai Sudharsan,Shubman Gill,Mukesh Kumar,1,0,,,,,,,,,,11/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,0.6,Gujarat Titans,Delhi Capitals,Shubman Gill,B Sai Sudharsan,Mukesh Kumar,0,0,,,,,,,,,,11/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,1.1,Gujarat Titans,Delhi Capitals,B Sai Sudharsan,Shubman Gill,L Ngidi,4,0,,,,,,,,,,15/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,1.2,Gujarat Titans,Delhi Capitals,B Sai Sudharsan,Shubman Gill,L Ngidi,1,0,,,,,,,,,,16/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,1.3,Gujarat Titans,Delhi Capitals,Shubman Gill,B Sai Sudharsan,L Ngidi,0,0,,,,,,,,,,16/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,1.4,Gujarat Titans,Delhi Capitals,Shubman Gill,B Sai Sudharsan,L Ngidi,0,0,,,,,,,,,,16/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,1.5,Gujarat Titans,Delhi Capitals,Shubman Gill,B Sai Sudharsan,L Ngidi,1,0,,,,,,,,,,17/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,1.6,Gujarat Titans,Delhi Capitals,B Sai Sudharsan,Shubman Gill,L Ngidi,1,0,,,,,,,,,,18/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,2.1,Gujarat Titans,Delhi Capitals,B Sai Sudharsan,Shubman Gill,Mukesh Kumar,0,1,1,,,,,,,,,19/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,2.1,Gujarat Titans,Delhi Capitals,B Sai Sudharsan,Shubman Gill,Mukesh Kumar,0,0,,,,,,bowled,B Sai Sudharsan,,,19/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,2.2,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,Mukesh Kumar,0,0,,,,,,,,,,19/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,2.3,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,Mukesh Kumar,0,0,,,,,,,,,,19/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,2.4,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,Mukesh Kumar,0,0,,,,,,,,,,19/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,2.5,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,Mukesh Kumar,6,0,,,,,,,,,,25/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,2.6,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,Mukesh Kumar,0,1,1,,,,,,,,,26/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,2.6,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,Mukesh Kumar,1,0,,,,,,,,,,27/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,3.1,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,AR Patel,4,0,,,,,,,,,,31/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,3.2,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,AR Patel,6,0,,,,,,,,,,37/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,3.3,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,AR Patel,0,0,,,,,,,,,,37/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,3.4,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,AR Patel,1,0,,,,,,,,,,38/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,3.5,Gujarat Titans,Delhi Capitals,Shubman Gill,JC Buttler,AR Patel,1,0,,,,,,,,,,39/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,3.6,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,AR Patel,1,0,,,,,,,,,,40/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,4.1,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,Mukesh Kumar,6,0,,,,,,,,,,46/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,4.2,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,Mukesh Kumar,6,0,,,,,,,,,,52/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,4.3,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,Mukesh Kumar,4,0,,,,,,,,,,56/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,4.4,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,Mukesh Kumar,0,0,,,,,,,,,,56/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,4.5,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,Mukesh Kumar,6,0,,,,,,,,,,62/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,4.6,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,Mukesh Kumar,1,0,,,,,,,,,,63/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,5.1,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,L Ngidi,0,0,,,,,,,,,,63/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,5.2,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,L Ngidi,0,0,,,,,,,,,,63/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,5.3,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,L Ngidi,4,0,,,,,,,,,,67/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,5.4,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,L Ngidi,0,0,,,,,,,,,,67/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,5.5,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,L Ngidi,0,0,,,,,,,,,,67/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,5.6,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,L Ngidi,1,0,,,,,,,,,,68/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,6.1,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,AR Patel,1,0,,,,,,,,,,69/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,6.2,Gujarat Titans,Delhi Capitals,Shubman Gill,JC Buttler,AR Patel,1,0,,,,,,,,,,70/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,6.3,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,AR Patel,2,0,,,,,,,,,,72/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,6.4,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,AR Patel,1,0,,,,,,,,,,73/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,6.5,Gujarat Titans,Delhi Capitals,Shubman Gill,JC Buttler,AR Patel,4,0,,,,,,,,,,77/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,6.6,Gujarat Titans,Delhi Capitals,Shubman Gill,JC Buttler,AR Patel,0,0,,,,,,,,,,77/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,7.1,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,Kuldeep Yadav,1,0,,,,,,,,,,78/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,7.2,Gujarat Titans,Delhi Capitals,Shubman Gill,JC Buttler,Kuldeep Yadav,1,0,,,,,,,,,,79/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,7.3,Gujarat Titans,Delhi Capitals,JC Buttler,Shubman Gill,Kuldeep Yadav,0,0,,,,,,bowled,JC Buttler,,,79/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,7.4,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,Kuldeep Yadav,1,0,,,,,,,,,,80/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,7.5,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,Kuldeep Yadav,1,0,,,,,,,,,,81/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,7.6,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,Kuldeep Yadav,4,0,,,,,,,,,,85/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,8.1,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,T Natarajan,0,0,,,,,,,,,,85/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,8.2,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,T Natarajan,1,0,,,,,,,,,,86/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,8.3,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,T Natarajan,1,0,,,,,,,,,,87/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,8.4,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,T Natarajan,1,0,,,,,,,,,,88/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,8.5,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,T Natarajan,1,0,,,,,,,,,,89/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,8.6,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,T Natarajan,1,0,,,,,,,,,,90/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,9.1,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,Kuldeep Yadav,6,0,,,,,,,,,,96/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,9.2,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,Kuldeep Yadav,1,0,,,,,,,,,,97/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,9.3,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,Kuldeep Yadav,1,0,,,,,,,,,,98/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,9.4,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,Kuldeep Yadav,1,0,,,,,,,,,,99/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,9.5,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,Kuldeep Yadav,1,0,,,,,,,,,,100/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,9.6,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,Kuldeep Yadav,1,0,,,,,,,,,,101/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,10.1,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,T Natarajan,1,0,,,,,,,,,,102/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,10.2,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,T Natarajan,1,0,,,,,,,,,,103/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,10.3,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,T Natarajan,1,0,,,,,,,,,,104/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,10.4,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,T Natarajan,4,0,,,,,,,,,,108/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,10.5,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,T Natarajan,1,0,,,,,,,,,,109/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,10.6,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,T Natarajan,1,0,,,,,,,,,,110/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,11.1,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,V Nigam,1,0,,,,,,,,,,111/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,11.2,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,V Nigam,4,0,,,,,,,,,,115/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,11.3,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,V Nigam,4,1,,1,,,,,,,,120/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,11.3,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,V Nigam,6,0,,,,,,,,,,126/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,11.4,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,V Nigam,1,0,,,,,,,,,,127/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,11.5,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,V Nigam,6,0,,,,,,,,,,133/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,11.6,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,V Nigam,0,0,,,,,,,,,,133/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,12.1,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,Kuldeep Yadav,1,0,,,,,,,,,,134/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,12.2,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,Kuldeep Yadav,0,0,,,,,,,,,,134/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,12.3,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,Kuldeep Yadav,6,0,,,,,,,,,,140/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,12.4,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,Kuldeep Yadav,1,0,,,,,,,,,,141/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,12.5,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,Kuldeep Yadav,0,0,,,,,,,,,,141/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,12.6,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,Kuldeep Yadav,1,0,,,,,,,,,,142/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,13.1,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,AR Patel,1,0,,,,,,,,,,143/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,13.2,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,AR Patel,1,0,,,,,,,,,,144/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,13.3,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,AR Patel,1,0,,,,,,,,,,145/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,13.4,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,AR Patel,1,0,,,,,,,,,,146/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,13.5,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,AR Patel,4,0,,,,,,,,,,150/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,13.6,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,AR Patel,0,1,1,,,,,,,,,151/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,13.6,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,AR Patel,1,0,,,,,,,,,,152/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,14.1,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,L Ngidi,0,0,,,,,,,,,,152/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,14.2,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,L Ngidi,1,0,,,,,,,,,,153/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,14.3,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,L Ngidi,1,0,,,,,,,,,,154/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,14.4,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,L Ngidi,1,0,,,,,,,,,,155/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,14.5,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,L Ngidi,0,1,1,,,,,,,,,156/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,14.5,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,L Ngidi,4,0,,,,,,,,,,160/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,14.6,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,L Ngidi,1,0,,,,,,,,,,161/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,15.1,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,T Natarajan,1,0,,,,,,,,,,162/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,15.2,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,T Natarajan,1,0,,,,,,,,,,163/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,15.3,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,T Natarajan,4,0,,,,,,,,,,167/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,15.4,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,T Natarajan,0,0,,,,,,,,,,167/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,15.5,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,T Natarajan,1,0,,,,,,,,,,168/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,15.6,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,T Natarajan,0,0,,,,,,,,,,168/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,16.1,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,Kuldeep Yadav,6,0,,,,,,,,,,174/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,16.2,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,Kuldeep Yadav,1,0,,,,,,,,,,175/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,16.3,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,Kuldeep Yadav,1,0,,,,,,,,,,176/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,16.4,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,Kuldeep Yadav,6,0,,,,,,,,,,182/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,16.5,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,Kuldeep Yadav,0,0,,,,,,,,,,182/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,16.6,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,Kuldeep Yadav,0,0,,,,,,,,,,182/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,17.1,Gujarat Titans,Delhi Capitals,Washington Sundar,Shubman Gill,L Ngidi,1,0,,,,,,,,,,183/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,17.2,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,L Ngidi,0,0,,,,,,,,,,183/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,17.3,Gujarat Titans,Delhi Capitals,Shubman Gill,Washington Sundar,L Ngidi,0,0,,,,,,caught,Shubman Gill,,,183/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,17.4,Gujarat Titans,Delhi Capitals,GD Phillips,Washington Sundar,L Ngidi,0,0,,,,,,,,,,183/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,17.5,Gujarat Titans,Delhi Capitals,GD Phillips,Washington Sundar,L Ngidi,0,1,1,,,,,,,,,184/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,17.5,Gujarat Titans,Delhi Capitals,GD Phillips,Washington Sundar,L Ngidi,0,0,,,,,,,,,,184/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,17.6,Gujarat Titans,Delhi Capitals,GD Phillips,Washington Sundar,L Ngidi,1,0,,,,,,,,,,185/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,18.1,Gujarat Titans,Delhi Capitals,GD Phillips,Washington Sundar,T Natarajan,1,0,,,,,,,,,,186/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,18.2,Gujarat Titans,Delhi Capitals,Washington Sundar,GD Phillips,T Natarajan,0,0,,,,,,,,,,186/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,18.3,Gujarat Titans,Delhi Capitals,Washington Sundar,GD Phillips,T Natarajan,1,0,,,,,,,,,,187/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,18.4,Gujarat Titans,Delhi Capitals,GD Phillips,Washington Sundar,T Natarajan,1,0,,,,,,,,,,188/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,18.5,Gujarat Titans,Delhi Capitals,Washington Sundar,GD Phillips,T Natarajan,6,0,,,,,,,,,,194/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,18.6,Gujarat Titans,Delhi Capitals,Washington Sundar,GD Phillips,T Natarajan,4,0,,,,,,,,,,198/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,19.1,Gujarat Titans,Delhi Capitals,GD Phillips,Washington Sundar,Mukesh Kumar,6,0,,,,,,,,,,204/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,19.2,Gujarat Titans,Delhi Capitals,GD Phillips,Washington Sundar,Mukesh Kumar,1,0,,,,,,,,,,205/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,19.3,Gujarat Titans,Delhi Capitals,Washington Sundar,GD Phillips,Mukesh Kumar,0,0,,,,,,caught,Washington Sundar,,,205/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,19.4,Gujarat Titans,Delhi Capitals,R Tewatia,GD Phillips,Mukesh Kumar,1,0,,,,,,,,,,206/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,19.5,Gujarat Titans,Delhi Capitals,GD Phillips,R Tewatia,Mukesh Kumar,0,0,,,,,,,,,,206/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",1,19.6,Gujarat Titans,Delhi Capitals,GD Phillips,R Tewatia,Mukesh Kumar,4,0,,,,,,,,,,210/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,0.1,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,Mohammed Siraj,0,0,,,,,,,,,,0/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,0.2,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,Mohammed Siraj,4,0,,,,,,,,,,4/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,0.3,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,Mohammed Siraj,4,0,,,,,,,,,,8/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,0.4,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,Mohammed Siraj,1,0,,,,,,,,,,9/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,0.5,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,Mohammed Siraj,1,0,,,,,,,,,,10/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,0.6,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,Mohammed Siraj,4,0,,,,,,,,,,14/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,1.1,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,K Rabada,0,0,,,,,,,,,,14/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,1.2,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,K Rabada,0,0,,,,,,,,,,14/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,1.3,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,K Rabada,4,0,,,,,,,,,,18/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,1.4,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,K Rabada,1,0,,,,,,,,,,19/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,1.5,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,K Rabada,0,1,1,,,,,,,,,20/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,1.5,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,K Rabada,0,0,,,,,,,,,,20/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,1.6,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,K Rabada,0,0,,,,,,,,,,20/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,2.1,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,Mohammed Siraj,2,0,,,,,,,,,,22/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,2.2,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,Mohammed Siraj,0,0,,,,,,,,,,22/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,2.3,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,Mohammed Siraj,0,0,,,,,,,,,,22/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,2.4,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,Mohammed Siraj,4,0,,,,,,,,,,26/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,2.5,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,Mohammed Siraj,0,0,,,,,,,,,,26/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,2.6,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,Mohammed Siraj,0,1,1,,,,,,,,,27/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,2.6,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,Mohammed Siraj,0,0,,,,,,,,,,27/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,3.1,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,K Rabada,1,0,,,,,,,,,,28/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,3.2,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,K Rabada,1,0,,,,,,,,,,29/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,3.3,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,K Rabada,1,0,,,,,,,,,,30/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,3.4,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,K Rabada,6,0,,,,,,,,,,36/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,3.5,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,K Rabada,0,0,,,,,,,,,,36/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,3.6,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,K Rabada,0,0,,,,,,,,,,36/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,4.1,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,Rashid Khan,0,0,,,,,,,,,,36/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,4.2,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,Rashid Khan,1,0,,,,,,,,,,37/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,4.3,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,Rashid Khan,1,0,,,,,,,,,,38/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,4.4,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,Rashid Khan,1,0,,,,,,,,,,39/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,4.5,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,Rashid Khan,0,0,,,,,,,,,,39/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,4.6,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,Rashid Khan,1,0,,,,,,,,,,40/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,5.1,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,Ashok Sharma,4,0,,,,,,,,,,44/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,5.2,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,Ashok Sharma,1,0,,,,,,,,,,45/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,5.3,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,Ashok Sharma,4,0,,,,,,,,,,49/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,5.4,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,Ashok Sharma,6,0,,,,,,,,,,55/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,5.5,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,Ashok Sharma,4,0,,,,,,,,,,59/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,5.6,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,Ashok Sharma,4,0,,,,,,,,,,63/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,6.1,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,M Prasidh Krishna,1,0,,,,,,,,,,64/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,6.2,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,M Prasidh Krishna,0,0,,,,,,,,,,64/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,6.3,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,M Prasidh Krishna,2,0,,,,,,,,,,66/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,6.4,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,M Prasidh Krishna,0,0,,,,,,,,,,66/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,6.5,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,M Prasidh Krishna,1,0,,,,,,,,,,67/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,6.6,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,M Prasidh Krishna,4,0,,,,,,,,,,71/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,7.1,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,Rashid Khan,1,0,,,,,,,,,,72/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,7.2,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,Rashid Khan,1,0,,,,,,,,,,73/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,7.3,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,Rashid Khan,1,0,,,,,,,,,,74/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,7.4,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,Rashid Khan,0,0,,,,,,,,,,74/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,7.5,Delhi Capitals,Gujarat Titans,KL Rahul,P Nissanka,Rashid Khan,1,0,,,,,,,,,,75/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,7.6,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,Rashid Khan,1,0,,,,,,,,,,76/0
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,8.1,Delhi Capitals,Gujarat Titans,P Nissanka,KL Rahul,M Prasidh Krishna,0,0,,,,,,caught,P Nissanka,,,76/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,8.2,Delhi Capitals,Gujarat Titans,N Rana,KL Rahul,M Prasidh Krishna,1,0,,,,,,,,,,77/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,8.3,Delhi Capitals,Gujarat Titans,KL Rahul,N Rana,M Prasidh Krishna,4,0,,,,,,,,,,81/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,8.4,Delhi Capitals,Gujarat Titans,KL Rahul,N Rana,M Prasidh Krishna,6,0,,,,,,,,,,87/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,8.5,Delhi Capitals,Gujarat Titans,KL Rahul,N Rana,M Prasidh Krishna,6,0,,,,,,,,,,93/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,8.6,Delhi Capitals,Gujarat Titans,KL Rahul,N Rana,M Prasidh Krishna,4,0,,,,,,,,,,97/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,9.1,Delhi Capitals,Gujarat Titans,N Rana,KL Rahul,Rashid Khan,0,0,,,,,,,,,,97/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,9.2,Delhi Capitals,Gujarat Titans,N Rana,KL Rahul,Rashid Khan,0,0,,,,,,,,,,97/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,9.3,Delhi Capitals,Gujarat Titans,N Rana,KL Rahul,Rashid Khan,0,0,,,,,,,,,,97/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,9.4,Delhi Capitals,Gujarat Titans,N Rana,KL Rahul,Rashid Khan,4,0,,,,,,,,,,101/1
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,9.5,Delhi Capitals,Gujarat Titans,N Rana,KL Rahul,Rashid Khan,0,0,,,,,,caught,N Rana,,,101/2
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,9.6,Delhi Capitals,Gujarat Titans,Sameer Rizvi,KL Rahul,Rashid Khan,0,0,,,,,,bowled,Sameer Rizvi,,,101/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,10.1,Delhi Capitals,Gujarat Titans,KL Rahul,DA Miller,Washington Sundar,6,0,,,,,,,,,,107/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,10.2,Delhi Capitals,Gujarat Titans,KL Rahul,DA Miller,Washington Sundar,1,0,,,,,,,,,,108/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,10.3,Delhi Capitals,Gujarat Titans,DA Miller,KL Rahul,Washington Sundar,1,0,,,,,,,,,,109/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,10.4,Delhi Capitals,Gujarat Titans,KL Rahul,DA Miller,Washington Sundar,1,0,,,,,,,,,,110/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,10.5,Delhi Capitals,Gujarat Titans,DA Miller,KL Rahul,Washington Sundar,2,0,,,,,,,,,,112/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,10.6,Delhi Capitals,Gujarat Titans,DA Miller,KL Rahul,Washington Sundar,0,0,,,,,,,,,,112/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,11.1,Delhi Capitals,Gujarat Titans,KL Rahul,DA Miller,Ashok Sharma,1,0,,,,,,,,,,113/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,11.2,Delhi Capitals,Gujarat Titans,DA Miller,KL Rahul,Ashok Sharma,0,0,,,,,,,,,,113/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,11.3,Delhi Capitals,Gujarat Titans,DA Miller,KL Rahul,Ashok Sharma,1,0,,,,,,,,,,114/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,11.4,Delhi Capitals,Gujarat Titans,KL Rahul,DA Miller,Ashok Sharma,1,0,,,,,,,,,,115/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,11.5,Delhi Capitals,Gujarat Titans,DA Miller,KL Rahul,Ashok Sharma,0,1,1,,,,,,,,,116/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,11.5,Delhi Capitals,Gujarat Titans,DA Miller,KL Rahul,Ashok Sharma,1,0,,,,,,,,,,117/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,11.6,Delhi Capitals,Gujarat Titans,KL Rahul,DA Miller,Ashok Sharma,1,0,,,,,,,,,,118/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,12.1,Delhi Capitals,Gujarat Titans,KL Rahul,DA Miller,M Prasidh Krishna,1,0,,,,,,,,,,119/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,12.2,Delhi Capitals,Gujarat Titans,DA Miller,KL Rahul,M Prasidh Krishna,4,0,,,,,,,,,,123/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,12.3,Delhi Capitals,Gujarat Titans,DA Miller,KL Rahul,M Prasidh Krishna,0,0,,,,,,,,,,123/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,12.4,Delhi Capitals,Gujarat Titans,DA Miller,KL Rahul,M Prasidh Krishna,2,0,,,,,,,,,,125/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,12.5,Delhi Capitals,Gujarat Titans,DA Miller,KL Rahul,M Prasidh Krishna,1,0,,,,,,,,,,126/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,12.6,Delhi Capitals,Gujarat Titans,KL Rahul,DA Miller,M Prasidh Krishna,4,0,,,,,,,,,,130/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,13.1,Delhi Capitals,Gujarat Titans,AR Patel,KL Rahul,Rashid Khan,1,0,,,,,,,,,,131/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,13.2,Delhi Capitals,Gujarat Titans,KL Rahul,AR Patel,Rashid Khan,1,0,,,,,,,,,,132/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,13.3,Delhi Capitals,Gujarat Titans,AR Patel,KL Rahul,Rashid Khan,1,0,,,,,,,,,,133/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,13.4,Delhi Capitals,Gujarat Titans,KL Rahul,AR Patel,Rashid Khan,0,0,,,,,,,,,,133/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,13.5,Delhi Capitals,Gujarat Titans,KL Rahul,AR Patel,Rashid Khan,1,0,,,,,,,,,,134/3
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,13.6,Delhi Capitals,Gujarat Titans,AR Patel,KL Rahul,Rashid Khan,0,0,,,,,,caught,AR Patel,,,134/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,14.1,Delhi Capitals,Gujarat Titans,KL Rahul,T Stubbs,K Rabada,0,1,1,,,,,,,,,135/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,14.1,Delhi Capitals,Gujarat Titans,KL Rahul,T Stubbs,K Rabada,4,0,,,,,,,,,,139/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,14.2,Delhi Capitals,Gujarat Titans,KL Rahul,T Stubbs,K Rabada,1,0,,,,,,,,,,140/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,14.3,Delhi Capitals,Gujarat Titans,T Stubbs,KL Rahul,K Rabada,1,0,,,,,,,,,,141/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,14.4,Delhi Capitals,Gujarat Titans,KL Rahul,T Stubbs,K Rabada,1,0,,,,,,,,,,142/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,14.5,Delhi Capitals,Gujarat Titans,T Stubbs,KL Rahul,K Rabada,0,0,,,,,,,,,,142/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,14.6,Delhi Capitals,Gujarat Titans,T Stubbs,KL Rahul,K Rabada,0,0,,,,,,,,,,142/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,15.1,Delhi Capitals,Gujarat Titans,KL Rahul,T Stubbs,Ashok Sharma,4,0,,,,,,,,,,146/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,15.2,Delhi Capitals,Gujarat Titans,KL Rahul,T Stubbs,Ashok Sharma,0,1,1,,,,,,,,,147/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,15.2,Delhi Capitals,Gujarat Titans,KL Rahul,T Stubbs,Ashok Sharma,1,0,,,,,,,,,,148/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,15.3,Delhi Capitals,Gujarat Titans,T Stubbs,KL Rahul,Ashok Sharma,5,0,,,,,,,,,,153/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,15.4,Delhi Capitals,Gujarat Titans,KL Rahul,T Stubbs,Ashok Sharma,4,0,,,,,,,,,,157/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,15.5,Delhi Capitals,Gujarat Titans,KL Rahul,T Stubbs,Ashok Sharma,1,0,,,,,,,,,,158/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,15.6,Delhi Capitals,Gujarat Titans,T Stubbs,KL Rahul,Ashok Sharma,0,0,,,,,,,,,,158/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,16.1,Delhi Capitals,Gujarat Titans,KL Rahul,T Stubbs,Mohammed Siraj,1,0,,,,,,,,,,159/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,16.2,Delhi Capitals,Gujarat Titans,T Stubbs,KL Rahul,Mohammed Siraj,1,0,,,,,,,,,,160/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,16.3,Delhi Capitals,Gujarat Titans,KL Rahul,T Stubbs,Mohammed Siraj,0,0,,,,,,,,,,160/4
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,16.4,Delhi Capitals,Gujarat Titans,KL Rahul,T Stubbs,Mohammed Siraj,0,0,,,,,,run out,T Stubbs,,,160/5
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,16.5,Delhi Capitals,Gujarat Titans,KL Rahul,V Nigam,Mohammed Siraj,0,1,1,,,,,,,,,161/5
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,16.5,Delhi Capitals,Gujarat Titans,KL Rahul,V Nigam,Mohammed Siraj,0,1,1,,,,,,,,,162/5
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,16.5,Delhi Capitals,Gujarat Titans,KL Rahul,V Nigam,Mohammed Siraj,4,0,,,,,,,,,,166/5
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,16.6,Delhi Capitals,Gujarat Titans,KL Rahul,V Nigam,Mohammed Siraj,0,0,,,,,,caught,KL Rahul,,,166/6
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,17.1,Delhi Capitals,Gujarat Titans,DA Miller,V Nigam,K Rabada,1,0,,,,,,,,,,167/6
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,17.2,Delhi Capitals,Gujarat Titans,V Nigam,DA Miller,K Rabada,2,0,,,,,,,,,,169/6
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,17.3,Delhi Capitals,Gujarat Titans,V Nigam,DA Miller,K Rabada,0,0,,,,,,,,,,169/6
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,17.4,Delhi Capitals,Gujarat Titans,V Nigam,DA Miller,K Rabada,1,0,,,,,,,,,,170/6
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,17.5,Delhi Capitals,Gujarat Titans,DA Miller,V Nigam,K Rabada,4,0,,,,,,,,,,174/6
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,17.6,Delhi Capitals,Gujarat Titans,DA Miller,V Nigam,K Rabada,1,0,,,,,,,,,,175/6
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,18.1,Delhi Capitals,Gujarat Titans,DA Miller,V Nigam,Mohammed Siraj,0,1,1,,,,,,,,,176/6
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,18.1,Delhi Capitals,Gujarat Titans,DA Miller,V Nigam,Mohammed Siraj,6,0,,,,,,,,,,182/6
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,18.2,Delhi Capitals,Gujarat Titans,DA Miller,V Nigam,Mohammed Siraj,4,0,,,,,,,,,,186/6
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,18.3,Delhi Capitals,Gujarat Titans,DA Miller,V Nigam,Mohammed Siraj,6,0,,,,,,,,,,192/6
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,18.4,Delhi Capitals,Gujarat Titans,DA Miller,V Nigam,Mohammed Siraj,1,0,,,,,,,,,,193/6
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,18.5,Delhi Capitals,Gujarat Titans,V Nigam,DA Miller,Mohammed Siraj,4,0,,,,,,,,,,197/6
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,18.6,Delhi Capitals,Gujarat Titans,V Nigam,DA Miller,Mohammed Siraj,1,0,,,,,,,,,,198/6
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,19.1,Delhi Capitals,Gujarat Titans,V Nigam,DA Miller,M Prasidh Krishna,4,0,,,,,,,,,,202/6
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,19.2,Delhi Capitals,Gujarat Titans,V Nigam,DA Miller,M Prasidh Krishna,0,0,,,,,,caught,V Nigam,,,202/7
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,19.3,Delhi Capitals,Gujarat Titans,Kuldeep Yadav,DA Miller,M Prasidh Krishna,1,0,,,,,,,,,,203/7
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,19.4,Delhi Capitals,Gujarat Titans,DA Miller,Kuldeep Yadav,M Prasidh Krishna,6,0,,,,,,,,,,209/7
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,19.5,Delhi Capitals,Gujarat Titans,DA Miller,Kuldeep Yadav,M Prasidh Krishna,0,0,,,,,,,,,,209/7
+14,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",2,19.6,Delhi Capitals,Gujarat Titans,DA Miller,Kuldeep Yadav,M Prasidh Krishna,0,0,,,,,,run out,Kuldeep Yadav,,,209/8

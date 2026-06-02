@@ -1,0 +1,229 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,0.1,Chennai Super Kings,Gujarat Titans,SV Samson,RD Gaikwad,Mohammed Siraj,0,0,,,,,,,,,,0/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,0.2,Chennai Super Kings,Gujarat Titans,SV Samson,RD Gaikwad,Mohammed Siraj,0,0,,,,,,,,,,0/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,0.3,Chennai Super Kings,Gujarat Titans,SV Samson,RD Gaikwad,Mohammed Siraj,0,0,,,,,,,,,,0/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,0.4,Chennai Super Kings,Gujarat Titans,SV Samson,RD Gaikwad,Mohammed Siraj,0,0,,,,,,,,,,0/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,0.5,Chennai Super Kings,Gujarat Titans,SV Samson,RD Gaikwad,Mohammed Siraj,0,0,,,,,,,,,,0/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,0.6,Chennai Super Kings,Gujarat Titans,SV Samson,RD Gaikwad,Mohammed Siraj,1,0,,,,,,,,,,1/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,1.1,Chennai Super Kings,Gujarat Titans,SV Samson,RD Gaikwad,K Rabada,0,0,,,,,,,,,,1/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,1.2,Chennai Super Kings,Gujarat Titans,SV Samson,RD Gaikwad,K Rabada,4,0,,,,,,,,,,5/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,1.3,Chennai Super Kings,Gujarat Titans,SV Samson,RD Gaikwad,K Rabada,0,0,,,,,,,,,,5/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,1.4,Chennai Super Kings,Gujarat Titans,SV Samson,RD Gaikwad,K Rabada,2,0,,,,,,,,,,7/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,1.5,Chennai Super Kings,Gujarat Titans,SV Samson,RD Gaikwad,K Rabada,4,0,,,,,,,,,,11/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,1.6,Chennai Super Kings,Gujarat Titans,SV Samson,RD Gaikwad,K Rabada,0,0,,,,,,,,,,11/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,2.1,Chennai Super Kings,Gujarat Titans,RD Gaikwad,SV Samson,Mohammed Siraj,4,0,,,,,,,,,,15/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,2.2,Chennai Super Kings,Gujarat Titans,RD Gaikwad,SV Samson,Mohammed Siraj,4,0,,,,,,,,,,19/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,2.3,Chennai Super Kings,Gujarat Titans,RD Gaikwad,SV Samson,Mohammed Siraj,0,0,,,,,,,,,,19/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,2.4,Chennai Super Kings,Gujarat Titans,RD Gaikwad,SV Samson,Mohammed Siraj,0,0,,,,,,,,,,19/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,2.5,Chennai Super Kings,Gujarat Titans,RD Gaikwad,SV Samson,Mohammed Siraj,0,0,,,,,,,,,,19/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,2.6,Chennai Super Kings,Gujarat Titans,RD Gaikwad,SV Samson,Mohammed Siraj,2,0,,,,,,,,,,21/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,3.1,Chennai Super Kings,Gujarat Titans,SV Samson,RD Gaikwad,K Rabada,0,0,,,,,,,,,,21/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,3.2,Chennai Super Kings,Gujarat Titans,SV Samson,RD Gaikwad,K Rabada,0,0,,,,,,,,,,21/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,3.3,Chennai Super Kings,Gujarat Titans,SV Samson,RD Gaikwad,K Rabada,0,0,,,,,,caught,SV Samson,,,21/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,3.4,Chennai Super Kings,Gujarat Titans,Urvil Patel,RD Gaikwad,K Rabada,0,0,,,,,,,,,,21/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,3.5,Chennai Super Kings,Gujarat Titans,Urvil Patel,RD Gaikwad,K Rabada,4,0,,,,,,,,,,25/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,3.6,Chennai Super Kings,Gujarat Titans,Urvil Patel,RD Gaikwad,K Rabada,0,0,,,,,,caught,Urvil Patel,,,25/2
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,4.1,Chennai Super Kings,Gujarat Titans,RD Gaikwad,SN Khan,Mohammed Siraj,0,0,,,,,,,,,,25/2
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,4.2,Chennai Super Kings,Gujarat Titans,RD Gaikwad,SN Khan,Mohammed Siraj,0,0,,,,,,,,,,25/2
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,4.3,Chennai Super Kings,Gujarat Titans,RD Gaikwad,SN Khan,Mohammed Siraj,1,0,,,,,,,,,,26/2
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,4.4,Chennai Super Kings,Gujarat Titans,SN Khan,RD Gaikwad,Mohammed Siraj,0,0,,,,,,caught,SN Khan,,,26/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,4.5,Chennai Super Kings,Gujarat Titans,D Brevis,RD Gaikwad,Mohammed Siraj,0,0,,,,,,,,,,26/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,4.6,Chennai Super Kings,Gujarat Titans,D Brevis,RD Gaikwad,Mohammed Siraj,0,0,,,,,,,,,,26/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,5.1,Chennai Super Kings,Gujarat Titans,RD Gaikwad,D Brevis,K Rabada,0,0,,,,,,,,,,26/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,5.2,Chennai Super Kings,Gujarat Titans,RD Gaikwad,D Brevis,K Rabada,0,0,,,,,,,,,,26/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,5.3,Chennai Super Kings,Gujarat Titans,RD Gaikwad,D Brevis,K Rabada,1,0,,,,,,,,,,27/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,5.4,Chennai Super Kings,Gujarat Titans,D Brevis,RD Gaikwad,K Rabada,0,0,,,,,,,,,,27/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,5.5,Chennai Super Kings,Gujarat Titans,D Brevis,RD Gaikwad,K Rabada,1,0,,,,,,,,,,28/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,5.6,Chennai Super Kings,Gujarat Titans,RD Gaikwad,D Brevis,K Rabada,0,0,,,,,,,,,,28/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,6.1,Chennai Super Kings,Gujarat Titans,D Brevis,RD Gaikwad,MJ Suthar,1,0,,,,,,,,,,29/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,6.2,Chennai Super Kings,Gujarat Titans,RD Gaikwad,D Brevis,MJ Suthar,0,0,,,,,,,,,,29/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,6.3,Chennai Super Kings,Gujarat Titans,RD Gaikwad,D Brevis,MJ Suthar,0,1,1,,,,,,,,,30/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,6.3,Chennai Super Kings,Gujarat Titans,RD Gaikwad,D Brevis,MJ Suthar,0,0,,,,,,,,,,30/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,6.4,Chennai Super Kings,Gujarat Titans,RD Gaikwad,D Brevis,MJ Suthar,0,0,,,,,,,,,,30/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,6.5,Chennai Super Kings,Gujarat Titans,RD Gaikwad,D Brevis,MJ Suthar,2,0,,,,,,,,,,32/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,6.6,Chennai Super Kings,Gujarat Titans,RD Gaikwad,D Brevis,MJ Suthar,1,0,,,,,,,,,,33/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,7.1,Chennai Super Kings,Gujarat Titans,RD Gaikwad,D Brevis,JO Holder,1,0,,,,,,,,,,34/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,7.2,Chennai Super Kings,Gujarat Titans,D Brevis,RD Gaikwad,JO Holder,0,0,,,,,,,,,,34/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,7.3,Chennai Super Kings,Gujarat Titans,D Brevis,RD Gaikwad,JO Holder,0,0,,,,,,,,,,34/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,7.4,Chennai Super Kings,Gujarat Titans,D Brevis,RD Gaikwad,JO Holder,0,1,,,,1,,,,,,35/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,7.5,Chennai Super Kings,Gujarat Titans,RD Gaikwad,D Brevis,JO Holder,0,0,,,,,,,,,,35/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,7.6,Chennai Super Kings,Gujarat Titans,RD Gaikwad,D Brevis,JO Holder,1,0,,,,,,,,,,36/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,8.1,Chennai Super Kings,Gujarat Titans,RD Gaikwad,D Brevis,MJ Suthar,1,0,,,,,,,,,,37/3
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,8.2,Chennai Super Kings,Gujarat Titans,D Brevis,RD Gaikwad,MJ Suthar,0,0,,,,,,caught,D Brevis,,,37/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,8.3,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,MJ Suthar,0,0,,,,,,,,,,37/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,8.4,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,MJ Suthar,1,0,,,,,,,,,,38/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,8.5,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,MJ Suthar,0,0,,,,,,,,,,38/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,8.6,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,MJ Suthar,0,0,,,,,,,,,,38/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,9.1,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,JO Holder,4,0,,,,,,,,,,42/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,9.2,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,JO Holder,0,0,,,,,,,,,,42/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,9.3,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,JO Holder,1,0,,,,,,,,,,43/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,9.4,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,JO Holder,0,0,,,,,,,,,,43/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,9.5,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,JO Holder,0,0,,,,,,,,,,43/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,9.6,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,JO Holder,0,0,,,,,,,,,,43/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,10.1,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,Arshad Khan,0,1,,,,1,,,,,,44/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,10.2,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,Arshad Khan,0,0,,,,,,,,,,44/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,10.3,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,Arshad Khan,0,0,,,,,,,,,,44/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,10.4,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,Arshad Khan,0,0,,,,,,,,,,44/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,10.5,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,Arshad Khan,0,0,,,,,,,,,,44/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,10.6,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,Arshad Khan,1,0,,,,,,,,,,45/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,11.1,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,JO Holder,0,0,,,,,,,,,,45/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,11.2,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,JO Holder,0,0,,,,,,,,,,45/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,11.3,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,JO Holder,0,0,,,,,,,,,,45/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,11.4,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,JO Holder,0,1,1,,,,,,,,,46/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,11.4,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,JO Holder,1,0,,,,,,,,,,47/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,11.5,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,JO Holder,0,0,,,,,,,,,,47/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,11.6,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,JO Holder,4,0,,,,,,,,,,51/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,12.1,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,Arshad Khan,0,0,,,,,,,,,,51/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,12.2,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,Arshad Khan,6,0,,,,,,,,,,57/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,12.3,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,Arshad Khan,0,0,,,,,,,,,,57/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,12.4,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,Arshad Khan,6,0,,,,,,,,,,63/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,12.5,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,Arshad Khan,0,0,,,,,,,,,,63/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,12.6,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,Arshad Khan,3,0,,,,,,,,,,66/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,13.1,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,JO Holder,6,0,,,,,,,,,,72/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,13.2,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,JO Holder,1,0,,,,,,,,,,73/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,13.3,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,JO Holder,0,0,,,,,,,,,,73/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,13.4,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,JO Holder,0,0,,,,,,,,,,73/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,13.5,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,JO Holder,1,0,,,,,,,,,,74/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,13.6,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,JO Holder,1,0,,,,,,,,,,75/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,14.1,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,Rashid Khan,0,0,,,,,,,,,,75/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,14.2,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,Rashid Khan,1,0,,,,,,,,,,76/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,14.3,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,Rashid Khan,0,5,5,,,,,,,,,81/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,14.3,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,Rashid Khan,4,0,,,,,,,,,,85/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,14.4,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,Rashid Khan,6,0,,,,,,,,,,91/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,14.5,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,Rashid Khan,1,0,,,,,,,,,,92/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,14.6,Chennai Super Kings,Gujarat Titans,RD Gaikwad,S Dube,Rashid Khan,4,0,,,,,,,,,,96/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,15.1,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,Arshad Khan,0,0,,,,,,,,,,96/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,15.2,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,Arshad Khan,0,0,,,,,,,,,,96/4
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,15.3,Chennai Super Kings,Gujarat Titans,S Dube,RD Gaikwad,Arshad Khan,0,0,,,,,,bowled,S Dube,,,96/5
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,15.4,Chennai Super Kings,Gujarat Titans,Kartik Sharma,RD Gaikwad,Arshad Khan,4,0,,,,,,,,,,100/5
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,15.5,Chennai Super Kings,Gujarat Titans,Kartik Sharma,RD Gaikwad,Arshad Khan,0,0,,,,,,,,,,100/5
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,15.6,Chennai Super Kings,Gujarat Titans,Kartik Sharma,RD Gaikwad,Arshad Khan,2,0,,,,,,,,,,102/5
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,16.1,Chennai Super Kings,Gujarat Titans,RD Gaikwad,Kartik Sharma,Mohammed Siraj,2,0,,,,,,,,,,104/5
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,16.2,Chennai Super Kings,Gujarat Titans,RD Gaikwad,Kartik Sharma,Mohammed Siraj,6,0,,,,,,,,,,110/5
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,16.3,Chennai Super Kings,Gujarat Titans,RD Gaikwad,Kartik Sharma,Mohammed Siraj,1,0,,,,,,,,,,111/5
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,16.4,Chennai Super Kings,Gujarat Titans,Kartik Sharma,RD Gaikwad,Mohammed Siraj,0,0,,,,,,,,,,111/5
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,16.5,Chennai Super Kings,Gujarat Titans,Kartik Sharma,RD Gaikwad,Mohammed Siraj,1,0,,,,,,,,,,112/5
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,16.6,Chennai Super Kings,Gujarat Titans,RD Gaikwad,Kartik Sharma,Mohammed Siraj,1,0,,,,,,,,,,113/5
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,17.1,Chennai Super Kings,Gujarat Titans,RD Gaikwad,Kartik Sharma,K Rabada,1,0,,,,,,,,,,114/5
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,17.2,Chennai Super Kings,Gujarat Titans,Kartik Sharma,RD Gaikwad,K Rabada,4,0,,,,,,,,,,118/5
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,17.3,Chennai Super Kings,Gujarat Titans,Kartik Sharma,RD Gaikwad,K Rabada,4,0,,,,,,,,,,122/5
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,17.4,Chennai Super Kings,Gujarat Titans,Kartik Sharma,RD Gaikwad,K Rabada,0,0,,,,,,,,,,122/5
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,17.5,Chennai Super Kings,Gujarat Titans,Kartik Sharma,RD Gaikwad,K Rabada,0,0,,,,,,caught,Kartik Sharma,,,122/6
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,17.6,Chennai Super Kings,Gujarat Titans,J Overton,RD Gaikwad,K Rabada,0,0,,,,,,,,,,122/6
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,18.1,Chennai Super Kings,Gujarat Titans,RD Gaikwad,J Overton,Arshad Khan,1,0,,,,,,,,,,123/6
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,18.2,Chennai Super Kings,Gujarat Titans,J Overton,RD Gaikwad,Arshad Khan,0,1,1,,,,,,,,,124/6
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,18.2,Chennai Super Kings,Gujarat Titans,J Overton,RD Gaikwad,Arshad Khan,0,1,1,,,,,,,,,125/6
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,18.2,Chennai Super Kings,Gujarat Titans,J Overton,RD Gaikwad,Arshad Khan,4,0,,,,,,,,,,129/6
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,18.3,Chennai Super Kings,Gujarat Titans,J Overton,RD Gaikwad,Arshad Khan,6,0,,,,,,,,,,135/6
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,18.4,Chennai Super Kings,Gujarat Titans,J Overton,RD Gaikwad,Arshad Khan,4,0,,,,,,,,,,139/6
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,18.5,Chennai Super Kings,Gujarat Titans,J Overton,RD Gaikwad,Arshad Khan,4,0,,,,,,,,,,143/6
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,18.6,Chennai Super Kings,Gujarat Titans,J Overton,RD Gaikwad,Arshad Khan,0,0,,,,,,caught,J Overton,,,143/7
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,19.1,Chennai Super Kings,Gujarat Titans,RD Gaikwad,AJ Hosein,MJ Suthar,4,0,,,,,,,,,,147/7
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,19.2,Chennai Super Kings,Gujarat Titans,RD Gaikwad,AJ Hosein,MJ Suthar,0,0,,,,,,,,,,147/7
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,19.3,Chennai Super Kings,Gujarat Titans,RD Gaikwad,AJ Hosein,MJ Suthar,2,0,,,,,,,,,,149/7
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,19.4,Chennai Super Kings,Gujarat Titans,RD Gaikwad,AJ Hosein,MJ Suthar,4,0,,,,,,,,,,153/7
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,19.5,Chennai Super Kings,Gujarat Titans,RD Gaikwad,AJ Hosein,MJ Suthar,0,1,1,,,,,,,,,154/7
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,19.5,Chennai Super Kings,Gujarat Titans,RD Gaikwad,AJ Hosein,MJ Suthar,0,0,,,,,,,,,,154/7
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",1,19.6,Chennai Super Kings,Gujarat Titans,RD Gaikwad,AJ Hosein,MJ Suthar,4,0,,,,,,,,,,158/7
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,0.1,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,Shubman Gill,AJ Hosein,1,0,,,,,,,,,,1/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,0.2,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,AJ Hosein,0,0,,,,,,,,,,1/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,0.3,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,AJ Hosein,0,0,,,,,,,,,,1/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,0.4,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,AJ Hosein,4,0,,,,,,,,,,5/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,0.5,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,AJ Hosein,6,0,,,,,,,,,,11/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,0.6,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,AJ Hosein,0,0,,,,,,,,,,11/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,1.1,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,Shubman Gill,A Kamboj,0,0,,,,,,,,,,11/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,1.2,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,Shubman Gill,A Kamboj,0,0,,,,,,,,,,11/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,1.3,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,Shubman Gill,A Kamboj,1,0,,,,,,,,,,12/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,1.4,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,A Kamboj,0,0,,,,,,,,,,12/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,1.5,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,A Kamboj,0,0,,,,,,,,,,12/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,1.6,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,A Kamboj,1,0,,,,,,,,,,13/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,2.1,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,J Overton,2,0,,,,,,,,,,15/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,2.2,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,J Overton,6,0,,,,,,,,,,21/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,2.3,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,J Overton,1,0,,,,,,,,,,22/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,2.4,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,Shubman Gill,J Overton,6,0,,,,,,,,,,28/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,2.5,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,Shubman Gill,J Overton,1,0,,,,,,,,,,29/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,2.6,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,J Overton,1,0,,,,,,,,,,30/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,3.1,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,A Kamboj,0,0,,,,,,,,,,30/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,3.2,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,A Kamboj,0,0,,,,,,,,,,30/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,3.3,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,A Kamboj,1,0,,,,,,,,,,31/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,3.4,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,Shubman Gill,A Kamboj,0,0,,,,,,,,,,31/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,3.5,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,Shubman Gill,A Kamboj,0,0,,,,,,,,,,31/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,3.6,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,Shubman Gill,A Kamboj,0,0,,,,,,,,,,31/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,4.1,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,Gurjapneet Singh,1,0,,,,,,,,,,32/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,4.2,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,Shubman Gill,Gurjapneet Singh,1,0,,,,,,,,,,33/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,4.3,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,Gurjapneet Singh,0,0,,,,,,,,,,33/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,4.4,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,Gurjapneet Singh,1,0,,,,,,,,,,34/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,4.5,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,Shubman Gill,Gurjapneet Singh,4,0,,,,,,,,,,38/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,4.6,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,Shubman Gill,Gurjapneet Singh,4,0,,,,,,,,,,42/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,5.1,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,A Kamboj,6,0,,,,,,,,,,48/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,5.2,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,A Kamboj,1,0,,,,,,,,,,49/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,5.3,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,Shubman Gill,A Kamboj,4,0,,,,,,,,,,53/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,5.4,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,Shubman Gill,A Kamboj,1,0,,,,,,,,,,54/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,5.5,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,A Kamboj,0,0,,,,,,,,,,54/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,5.6,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,A Kamboj,1,0,,,,,,,,,,55/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,6.1,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,Noor Ahmad,1,0,,,,,,,,,,56/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,6.2,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,Shubman Gill,Noor Ahmad,1,0,,,,,,,,,,57/0
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,6.3,Gujarat Titans,Chennai Super Kings,Shubman Gill,B Sai Sudharsan,Noor Ahmad,0,1,1,,,,,stumped,Shubman Gill,,,58/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,6.3,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,Noor Ahmad,1,0,,,,,,,,,,59/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,6.4,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Noor Ahmad,0,0,,,,,,,,,,59/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,6.5,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Noor Ahmad,1,0,,,,,,,,,,60/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,6.6,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,Noor Ahmad,0,0,,,,,,,,,,60/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,7.1,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Gurjapneet Singh,1,0,,,,,,,,,,61/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,7.2,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,Gurjapneet Singh,1,0,,,,,,,,,,62/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,7.3,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Gurjapneet Singh,1,0,,,,,,,,,,63/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,7.4,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,Gurjapneet Singh,1,0,,,,,,,,,,64/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,7.5,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Gurjapneet Singh,4,0,,,,,,,,,,68/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,7.6,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Gurjapneet Singh,1,0,,,,,,,,,,69/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,8.1,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Noor Ahmad,0,0,,,,,,,,,,69/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,8.2,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Noor Ahmad,1,0,,,,,,,,,,70/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,8.3,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,Noor Ahmad,1,0,,,,,,,,,,71/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,8.4,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Noor Ahmad,2,0,,,,,,,,,,73/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,8.5,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Noor Ahmad,1,0,,,,,,,,,,74/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,8.6,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Noor Ahmad,1,0,,,,,,,,,,75/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,9.1,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,S Dube,1,0,,,,,,,,,,76/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,9.2,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,S Dube,0,0,,,,,,,,,,76/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,9.3,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,S Dube,1,0,,,,,,,,,,77/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,9.4,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,S Dube,1,0,,,,,,,,,,78/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,9.5,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,S Dube,0,0,,,,,,,,,,78/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,9.6,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,S Dube,4,0,,,,,,,,,,82/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,10.1,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,AJ Hosein,1,0,,,,,,,,,,83/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,10.2,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,AJ Hosein,0,0,,,,,,,,,,83/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,10.3,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,AJ Hosein,1,0,,,,,,,,,,84/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,10.4,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,AJ Hosein,6,0,,,,,,,,,,90/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,10.5,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,AJ Hosein,2,0,,,,,,,,,,92/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,10.6,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,AJ Hosein,1,0,,,,,,,,,,93/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,11.1,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Noor Ahmad,1,0,,,,,,,,,,94/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,11.2,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,Noor Ahmad,4,0,,,,,,,,,,98/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,11.3,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,Noor Ahmad,0,0,,,,,,,,,,98/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,11.4,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,Noor Ahmad,2,0,,,,,,,,,,100/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,11.5,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,Noor Ahmad,1,0,,,,,,,,,,101/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,11.6,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Noor Ahmad,1,0,,,,,,,,,,102/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,12.1,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,AJ Hosein,6,0,,,,,,,,,,108/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,12.2,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,AJ Hosein,1,0,,,,,,,,,,109/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,12.3,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,AJ Hosein,0,0,,,,,,,,,,109/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,12.4,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,AJ Hosein,2,0,,,,,,,,,,111/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,12.5,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,AJ Hosein,1,0,,,,,,,,,,112/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,12.6,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,AJ Hosein,6,0,,,,,,,,,,118/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,13.1,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,J Overton,0,0,,,,,,,,,,118/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,13.2,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,J Overton,1,0,,,,,,,,,,119/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,13.3,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,J Overton,1,0,,,,,,,,,,120/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,13.4,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,J Overton,0,1,1,,,,,,,,,121/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,13.4,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,J Overton,0,0,,,,,,,,,,121/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,13.5,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,J Overton,4,0,,,,,,,,,,125/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,13.6,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,J Overton,4,0,,,,,,,,,,129/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,14.1,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Noor Ahmad,6,0,,,,,,,,,,135/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,14.2,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Noor Ahmad,1,0,,,,,,,,,,136/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,14.3,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,Noor Ahmad,0,0,,,,,,,,,,136/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,14.4,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,Noor Ahmad,0,0,,,,,,,,,,136/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,14.5,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,Noor Ahmad,1,0,,,,,,,,,,137/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,14.6,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Noor Ahmad,1,0,,,,,,,,,,138/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,15.1,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Gurjapneet Singh,6,0,,,,,,,,,,144/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,15.2,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Gurjapneet Singh,1,0,,,,,,,,,,145/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,15.3,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,Gurjapneet Singh,1,0,,,,,,,,,,146/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,15.4,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Gurjapneet Singh,1,0,,,,,,,,,,147/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,15.5,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,Gurjapneet Singh,1,0,,,,,,,,,,148/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,15.6,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,Gurjapneet Singh,6,0,,,,,,,,,,154/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,16.1,Gujarat Titans,Chennai Super Kings,JC Buttler,B Sai Sudharsan,AJ Hosein,1,0,,,,,,,,,,155/1
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,16.2,Gujarat Titans,Chennai Super Kings,B Sai Sudharsan,JC Buttler,AJ Hosein,0,0,,,,,,caught,B Sai Sudharsan,,,155/2
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,16.3,Gujarat Titans,Chennai Super Kings,Washington Sundar,JC Buttler,AJ Hosein,1,0,,,,,,,,,,156/2
+37,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",2,16.4,Gujarat Titans,Chennai Super Kings,JC Buttler,Washington Sundar,AJ Hosein,6,0,,,,,,,,,,162/2

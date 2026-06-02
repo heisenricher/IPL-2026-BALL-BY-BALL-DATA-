@@ -1,0 +1,250 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,0.1,Kolkata Knight Riders,Gujarat Titans,TL Seifert,AM Rahane,Mohammed Siraj,0,0,,,,,,,,,,0/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,0.2,Kolkata Knight Riders,Gujarat Titans,TL Seifert,AM Rahane,Mohammed Siraj,4,0,,,,,,,,,,4/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,0.3,Kolkata Knight Riders,Gujarat Titans,TL Seifert,AM Rahane,Mohammed Siraj,1,0,,,,,,,,,,5/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,0.4,Kolkata Knight Riders,Gujarat Titans,AM Rahane,TL Seifert,Mohammed Siraj,0,0,,,,,,caught,AM Rahane,,,5/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,0.5,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,TL Seifert,Mohammed Siraj,0,0,,,,,,,,,,5/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,0.6,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,TL Seifert,Mohammed Siraj,4,0,,,,,,,,,,9/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,1.1,Kolkata Knight Riders,Gujarat Titans,TL Seifert,A Raghuvanshi,K Rabada,0,0,,,,,,,,,,9/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,1.2,Kolkata Knight Riders,Gujarat Titans,TL Seifert,A Raghuvanshi,K Rabada,0,0,,,,,,,,,,9/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,1.3,Kolkata Knight Riders,Gujarat Titans,TL Seifert,A Raghuvanshi,K Rabada,6,0,,,,,,,,,,15/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,1.4,Kolkata Knight Riders,Gujarat Titans,TL Seifert,A Raghuvanshi,K Rabada,1,0,,,,,,,,,,16/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,1.5,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,TL Seifert,K Rabada,4,0,,,,,,,,,,20/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,1.6,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,TL Seifert,K Rabada,0,1,1,,,,,,,,,21/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,1.6,Kolkata Knight Riders,Gujarat Titans,A Raghuvanshi,TL Seifert,K Rabada,0,0,,,,,,caught,A Raghuvanshi,,,21/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,2.1,Kolkata Knight Riders,Gujarat Titans,TL Seifert,C Green,Mohammed Siraj,0,0,,,,,,,,,,21/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,2.2,Kolkata Knight Riders,Gujarat Titans,TL Seifert,C Green,Mohammed Siraj,0,0,,,,,,,,,,21/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,2.3,Kolkata Knight Riders,Gujarat Titans,TL Seifert,C Green,Mohammed Siraj,1,0,,,,,,,,,,22/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,2.4,Kolkata Knight Riders,Gujarat Titans,C Green,TL Seifert,Mohammed Siraj,0,0,,,,,,,,,,22/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,2.5,Kolkata Knight Riders,Gujarat Titans,C Green,TL Seifert,Mohammed Siraj,2,0,,,,,,,,,,24/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,2.6,Kolkata Knight Riders,Gujarat Titans,C Green,TL Seifert,Mohammed Siraj,0,0,,,,,,,,,,24/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,3.1,Kolkata Knight Riders,Gujarat Titans,TL Seifert,C Green,K Rabada,4,0,,,,,,,,,,28/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,3.2,Kolkata Knight Riders,Gujarat Titans,TL Seifert,C Green,K Rabada,1,0,,,,,,,,,,29/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,3.3,Kolkata Knight Riders,Gujarat Titans,C Green,TL Seifert,K Rabada,0,1,,,,1,,,,,,30/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,3.4,Kolkata Knight Riders,Gujarat Titans,TL Seifert,C Green,K Rabada,1,0,,,,,,,,,,31/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,3.5,Kolkata Knight Riders,Gujarat Titans,C Green,TL Seifert,K Rabada,1,0,,,,,,,,,,32/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,3.6,Kolkata Knight Riders,Gujarat Titans,TL Seifert,C Green,K Rabada,0,0,,,,,,caught,TL Seifert,,,32/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,4.1,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,Mohammed Siraj,1,0,,,,,,,,,,33/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,4.2,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,Mohammed Siraj,0,0,,,,,,,,,,33/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,4.3,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,Mohammed Siraj,1,0,,,,,,,,,,34/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,4.4,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,Mohammed Siraj,0,0,,,,,,,,,,34/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,4.5,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,Mohammed Siraj,0,0,,,,,,,,,,34/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,4.6,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,Mohammed Siraj,2,0,,,,,,,,,,36/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,5.1,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,K Rabada,0,0,,,,,,,,,,36/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,5.2,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,K Rabada,0,0,,,,,,,,,,36/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,5.3,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,K Rabada,1,0,,,,,,,,,,37/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,5.4,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,K Rabada,0,0,,,,,,,,,,37/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,5.5,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,K Rabada,0,0,,,,,,,,,,37/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,5.6,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,K Rabada,0,0,,,,,,,,,,37/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,6.1,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,M Prasidh Krishna,1,0,,,,,,,,,,38/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,6.2,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,M Prasidh Krishna,0,1,1,,,,,,,,,39/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,6.2,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,M Prasidh Krishna,1,0,,,,,,,,,,40/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,6.3,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,M Prasidh Krishna,0,0,,,,,,,,,,40/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,6.4,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,M Prasidh Krishna,0,0,,,,,,,,,,40/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,6.5,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,M Prasidh Krishna,6,0,,,,,,,,,,46/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,6.6,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,M Prasidh Krishna,2,0,,,,,,,,,,48/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,7.1,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,Ashok Sharma,1,0,,,,,,,,,,49/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,7.2,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,Ashok Sharma,0,0,,,,,,,,,,49/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,7.3,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,Ashok Sharma,0,0,,,,,,,,,,49/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,7.4,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,Ashok Sharma,6,0,,,,,,,,,,55/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,7.5,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,Ashok Sharma,4,0,,,,,,,,,,59/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,7.6,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,Ashok Sharma,0,0,,,,,,,,,,59/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,8.1,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,M Prasidh Krishna,4,0,,,,,,,,,,63/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,8.2,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,M Prasidh Krishna,1,0,,,,,,,,,,64/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,8.3,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,M Prasidh Krishna,0,0,,,,,,,,,,64/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,8.4,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,M Prasidh Krishna,1,0,,,,,,,,,,65/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,8.5,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,M Prasidh Krishna,2,0,,,,,,,,,,67/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,8.6,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,M Prasidh Krishna,2,0,,,,,,,,,,69/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,9.1,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,Rashid Khan,4,0,,,,,,,,,,73/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,9.2,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,Rashid Khan,1,0,,,,,,,,,,74/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,9.3,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,Rashid Khan,0,0,,,,,,,,,,74/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,9.4,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,Rashid Khan,0,1,1,,,,,,,,,75/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,9.4,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,Rashid Khan,0,0,,,,,,,,,,75/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,9.5,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,Rashid Khan,4,0,,,,,,,,,,79/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,9.6,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,Rashid Khan,1,0,,,,,,,,,,80/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,10.1,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,Ashok Sharma,0,0,,,,,,,,,,80/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,10.2,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,Ashok Sharma,0,1,,1,,,,,,,,81/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,10.2,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,Ashok Sharma,0,0,,,,,,,,,,81/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,10.3,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,Ashok Sharma,4,0,,,,,,,,,,85/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,10.4,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,Ashok Sharma,0,0,,,,,,,,,,85/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,10.5,Kolkata Knight Riders,Gujarat Titans,C Green,R Powell,Ashok Sharma,1,0,,,,,,,,,,86/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,10.6,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,Ashok Sharma,0,1,1,,,,,,,,,87/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,10.6,Kolkata Knight Riders,Gujarat Titans,R Powell,C Green,Ashok Sharma,0,0,,,,,,caught,R Powell,,,87/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,11.1,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,Rashid Khan,0,1,,,,1,,,,,,88/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,11.2,Kolkata Knight Riders,Gujarat Titans,AS Roy,C Green,Rashid Khan,0,0,,,,,,,,,,88/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,11.3,Kolkata Knight Riders,Gujarat Titans,AS Roy,C Green,Rashid Khan,4,0,,,,,,,,,,92/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,11.4,Kolkata Knight Riders,Gujarat Titans,AS Roy,C Green,Rashid Khan,1,0,,,,,,,,,,93/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,11.5,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,Rashid Khan,6,0,,,,,,,,,,99/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,11.6,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,Rashid Khan,4,0,,,,,,,,,,103/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,12.1,Kolkata Knight Riders,Gujarat Titans,AS Roy,C Green,Ashok Sharma,2,0,,,,,,,,,,105/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,12.2,Kolkata Knight Riders,Gujarat Titans,AS Roy,C Green,Ashok Sharma,1,0,,,,,,,,,,106/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,12.3,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,Ashok Sharma,6,0,,,,,,,,,,112/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,12.4,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,Ashok Sharma,0,1,1,,,,,,,,,113/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,12.4,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,Ashok Sharma,6,0,,,,,,,,,,119/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,12.5,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,Ashok Sharma,2,0,,,,,,,,,,121/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,12.6,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,Ashok Sharma,1,0,,,,,,,,,,122/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,13.1,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,Rashid Khan,6,0,,,,,,,,,,128/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,13.2,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,Rashid Khan,4,0,,,,,,,,,,132/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,13.3,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,Rashid Khan,4,0,,,,,,,,,,136/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,13.4,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,Rashid Khan,0,0,,,,,,,,,,136/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,13.5,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,Rashid Khan,2,0,,,,,,,,,,138/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,13.6,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,Rashid Khan,1,0,,,,,,,,,,139/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,14.1,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,M Prasidh Krishna,1,0,,,,,,,,,,140/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,14.2,Kolkata Knight Riders,Gujarat Titans,AS Roy,C Green,M Prasidh Krishna,1,0,,,,,,,,,,141/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,14.3,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,M Prasidh Krishna,4,0,,,,,,,,,,145/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,14.4,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,M Prasidh Krishna,0,1,1,,,,,,,,,146/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,14.4,Kolkata Knight Riders,Gujarat Titans,C Green,AS Roy,M Prasidh Krishna,1,0,,,,,,,,,,147/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,14.5,Kolkata Knight Riders,Gujarat Titans,AS Roy,C Green,M Prasidh Krishna,0,0,,,,,,caught,AS Roy,,,147/5
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,14.6,Kolkata Knight Riders,Gujarat Titans,RK Singh,C Green,M Prasidh Krishna,1,0,,,,,,,,,,148/5
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,15.1,Kolkata Knight Riders,Gujarat Titans,RK Singh,C Green,K Rabada,0,0,,,,,,caught,RK Singh,,,148/6
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,15.2,Kolkata Knight Riders,Gujarat Titans,Ramandeep Singh,C Green,K Rabada,0,0,,,,,,,,,,148/6
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,15.3,Kolkata Knight Riders,Gujarat Titans,Ramandeep Singh,C Green,K Rabada,6,0,,,,,,,,,,154/6
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,15.4,Kolkata Knight Riders,Gujarat Titans,Ramandeep Singh,C Green,K Rabada,0,0,,,,,,,,,,154/6
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,15.5,Kolkata Knight Riders,Gujarat Titans,Ramandeep Singh,C Green,K Rabada,2,0,,,,,,,,,,156/6
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,15.6,Kolkata Knight Riders,Gujarat Titans,Ramandeep Singh,C Green,K Rabada,1,0,,,,,,,,,,157/6
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,16.1,Kolkata Knight Riders,Gujarat Titans,Ramandeep Singh,C Green,Ashok Sharma,4,0,,,,,,,,,,161/6
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,16.2,Kolkata Knight Riders,Gujarat Titans,Ramandeep Singh,C Green,Ashok Sharma,4,0,,,,,,,,,,165/6
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,16.3,Kolkata Knight Riders,Gujarat Titans,Ramandeep Singh,C Green,Ashok Sharma,0,0,,,,,,caught,Ramandeep Singh,,,165/7
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,16.4,Kolkata Knight Riders,Gujarat Titans,SP Narine,C Green,Ashok Sharma,0,0,,,,,,,,,,165/7
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,16.5,Kolkata Knight Riders,Gujarat Titans,SP Narine,C Green,Ashok Sharma,0,0,,,,,,,,,,165/7
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,16.6,Kolkata Knight Riders,Gujarat Titans,SP Narine,C Green,Ashok Sharma,0,0,,,,,,,,,,165/7
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,17.1,Kolkata Knight Riders,Gujarat Titans,C Green,SP Narine,Mohammed Siraj,1,0,,,,,,,,,,166/7
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,17.2,Kolkata Knight Riders,Gujarat Titans,SP Narine,C Green,Mohammed Siraj,0,0,,,,,,,,,,166/7
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,17.3,Kolkata Knight Riders,Gujarat Titans,SP Narine,C Green,Mohammed Siraj,0,0,,,,,,caught,SP Narine,,,166/8
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,17.4,Kolkata Knight Riders,Gujarat Titans,Kartik Tyagi,C Green,Mohammed Siraj,0,0,,,,,,,,,,166/8
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,17.5,Kolkata Knight Riders,Gujarat Titans,Kartik Tyagi,C Green,Mohammed Siraj,0,0,,,,,,,,,,166/8
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,17.6,Kolkata Knight Riders,Gujarat Titans,Kartik Tyagi,C Green,Mohammed Siraj,6,0,,,,,,,,,,172/8
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,18.1,Kolkata Knight Riders,Gujarat Titans,C Green,Kartik Tyagi,M Prasidh Krishna,1,0,,,,,,,,,,173/8
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,18.2,Kolkata Knight Riders,Gujarat Titans,Kartik Tyagi,C Green,M Prasidh Krishna,0,0,,,,,,run out,Kartik Tyagi,,,173/9
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,18.3,Kolkata Knight Riders,Gujarat Titans,C Green,VG Arora,M Prasidh Krishna,0,0,,,,,,,,,,173/9
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,18.4,Kolkata Knight Riders,Gujarat Titans,C Green,VG Arora,M Prasidh Krishna,0,0,,,,,,,,,,173/9
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,18.5,Kolkata Knight Riders,Gujarat Titans,C Green,VG Arora,M Prasidh Krishna,0,0,,,,,,,,,,173/9
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,18.6,Kolkata Knight Riders,Gujarat Titans,C Green,VG Arora,M Prasidh Krishna,1,0,,,,,,,,,,174/9
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,19.1,Kolkata Knight Riders,Gujarat Titans,C Green,VG Arora,Rashid Khan,0,0,,,,,,,,,,174/9
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,19.2,Kolkata Knight Riders,Gujarat Titans,C Green,VG Arora,Rashid Khan,0,0,,,,,,,,,,174/9
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,19.3,Kolkata Knight Riders,Gujarat Titans,C Green,VG Arora,Rashid Khan,1,0,,,,,,,,,,175/9
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,19.4,Kolkata Knight Riders,Gujarat Titans,VG Arora,C Green,Rashid Khan,0,1,,,,1,,,,,,176/9
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,19.5,Kolkata Knight Riders,Gujarat Titans,C Green,VG Arora,Rashid Khan,0,4,,,4,,,,,,,180/9
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",1,19.6,Kolkata Knight Riders,Gujarat Titans,C Green,VG Arora,Rashid Khan,0,0,,,,,,caught,C Green,,,180/10
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,0.1,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,VG Arora,0,1,,,,1,,,,,,1/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,0.2,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,VG Arora,0,0,,,,,,,,,,1/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,0.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,VG Arora,2,0,,,,,,,,,,3/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,0.4,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,VG Arora,4,0,,,,,,,,,,7/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,0.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,VG Arora,1,0,,,,,,,,,,8/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,0.6,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,VG Arora,1,0,,,,,,,,,,9/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,1.1,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,Kartik Tyagi,0,0,,,,,,,,,,9/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,1.2,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,Kartik Tyagi,0,0,,,,,,,,,,9/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,1.3,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,Kartik Tyagi,3,0,,,,,,,,,,12/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,1.4,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,Kartik Tyagi,0,0,,,,,,,,,,12/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,1.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,Kartik Tyagi,4,0,,,,,,,,,,16/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,1.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,Kartik Tyagi,4,0,,,,,,,,,,20/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,2.1,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,AS Roy,1,0,,,,,,,,,,21/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,2.2,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,AS Roy,6,0,,,,,,,,,,27/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,2.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,AS Roy,1,0,,,,,,,,,,28/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,2.4,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,AS Roy,6,0,,,,,,,,,,34/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,2.5,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,AS Roy,0,0,,,,,,,,,,34/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,2.6,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,AS Roy,6,0,,,,,,,,,,40/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,3.1,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,SP Narine,1,0,,,,,,,,,,41/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,3.2,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,SP Narine,0,0,,,,,,,,,,41/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,3.3,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,SP Narine,4,0,,,,,,,,,,45/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,3.4,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,SP Narine,0,0,,,,,,,,,,45/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,3.5,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,SP Narine,0,0,,,,,,,,,,45/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,3.6,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,SP Narine,0,0,,,,,,,,,,45/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,4.1,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,VG Arora,0,0,,,,,,,,,,45/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,4.2,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,VG Arora,6,0,,,,,,,,,,51/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,4.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,VG Arora,1,0,,,,,,,,,,52/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,4.4,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,VG Arora,1,0,,,,,,,,,,53/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,4.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,VG Arora,0,0,,,,,,,,,,53/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,4.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,B Sai Sudharsan,VG Arora,4,0,,,,,,,,,,57/0
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,5.1,Gujarat Titans,Kolkata Knight Riders,B Sai Sudharsan,Shubman Gill,SP Narine,0,0,,,,,,caught,B Sai Sudharsan,,,57/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,5.2,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,SP Narine,4,0,,,,,,,,,,61/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,5.3,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,SP Narine,0,0,,,,,,,,,,61/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,5.4,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,SP Narine,6,0,,,,,,,,,,67/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,5.5,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,SP Narine,0,0,,,,,,,,,,67/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,5.6,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,SP Narine,4,0,,,,,,,,,,71/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,6.1,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,AS Roy,1,0,,,,,,,,,,72/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,6.2,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,AS Roy,1,0,,,,,,,,,,73/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,6.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,AS Roy,4,0,,,,,,,,,,77/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,6.4,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,AS Roy,1,0,,,,,,,,,,78/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,6.5,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,AS Roy,1,0,,,,,,,,,,79/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,6.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,AS Roy,4,0,,,,,,,,,,83/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,7.1,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,CV Varun,6,0,,,,,,,,,,89/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,7.2,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,CV Varun,0,0,,,,,,,,,,89/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,7.3,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,CV Varun,1,0,,,,,,,,,,90/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,7.4,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,1,0,,,,,,,,,,91/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,7.5,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,CV Varun,1,0,,,,,,,,,,92/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,7.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,CV Varun,1,0,,,,,,,,,,93/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,8.1,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,Kartik Tyagi,0,0,,,,,,,,,,93/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,8.2,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,Kartik Tyagi,0,0,,,,,,,,,,93/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,8.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,JC Buttler,Kartik Tyagi,1,0,,,,,,,,,,94/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,8.4,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,Kartik Tyagi,0,0,,,,,,,,,,94/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,8.5,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,Kartik Tyagi,0,0,,,,,,,,,,94/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,8.6,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,Kartik Tyagi,1,0,,,,,,,,,,95/1
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,9.1,Gujarat Titans,Kolkata Knight Riders,JC Buttler,Shubman Gill,CV Varun,0,0,,,,,,caught,JC Buttler,,,95/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,9.2,Gujarat Titans,Kolkata Knight Riders,Washington Sundar,Shubman Gill,CV Varun,0,0,,,,,,,,,,95/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,9.3,Gujarat Titans,Kolkata Knight Riders,Washington Sundar,Shubman Gill,CV Varun,1,0,,,,,,,,,,96/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,9.4,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,CV Varun,1,0,,,,,,,,,,97/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,9.5,Gujarat Titans,Kolkata Knight Riders,Washington Sundar,Shubman Gill,CV Varun,1,0,,,,,,,,,,98/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,9.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,CV Varun,1,0,,,,,,,,,,99/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,10.1,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,SP Narine,1,0,,,,,,,,,,100/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,10.2,Gujarat Titans,Kolkata Knight Riders,Washington Sundar,Shubman Gill,SP Narine,0,0,,,,,,,,,,100/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,10.3,Gujarat Titans,Kolkata Knight Riders,Washington Sundar,Shubman Gill,SP Narine,1,0,,,,,,,,,,101/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,10.4,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,SP Narine,2,0,,,,,,,,,,103/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,10.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,SP Narine,0,0,,,,,,,,,,103/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,10.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,SP Narine,1,0,,,,,,,,,,104/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,11.1,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,CV Varun,2,0,,,,,,,,,,106/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,11.2,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,CV Varun,2,0,,,,,,,,,,108/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,11.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,CV Varun,4,0,,,,,,,,,,112/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,11.4,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,CV Varun,0,0,,,,,,,,,,112/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,11.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,CV Varun,6,0,,,,,,,,,,118/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,11.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,CV Varun,1,0,,,,,,,,,,119/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,12.1,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,SP Narine,1,0,,,,,,,,,,120/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,12.2,Gujarat Titans,Kolkata Knight Riders,Washington Sundar,Shubman Gill,SP Narine,1,0,,,,,,,,,,121/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,12.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,SP Narine,1,0,,,,,,,,,,122/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,12.4,Gujarat Titans,Kolkata Knight Riders,Washington Sundar,Shubman Gill,SP Narine,1,0,,,,,,,,,,123/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,12.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,SP Narine,0,0,,,,,,,,,,123/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,12.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,SP Narine,0,0,,,,,,,,,,123/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,13.1,Gujarat Titans,Kolkata Knight Riders,Washington Sundar,Shubman Gill,Kartik Tyagi,2,0,,,,,,,,,,125/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,13.2,Gujarat Titans,Kolkata Knight Riders,Washington Sundar,Shubman Gill,Kartik Tyagi,0,1,,,,1,,,,,,126/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,13.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,Kartik Tyagi,6,0,,,,,,,,,,132/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,13.4,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,Kartik Tyagi,1,0,,,,,,,,,,133/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,13.5,Gujarat Titans,Kolkata Knight Riders,Washington Sundar,Shubman Gill,Kartik Tyagi,4,0,,,,,,,,,,137/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,13.6,Gujarat Titans,Kolkata Knight Riders,Washington Sundar,Shubman Gill,Kartik Tyagi,0,1,1,,,,,,,,,138/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,13.6,Gujarat Titans,Kolkata Knight Riders,Washington Sundar,Shubman Gill,Kartik Tyagi,1,0,,,,,,,,,,139/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,14.1,Gujarat Titans,Kolkata Knight Riders,Washington Sundar,Shubman Gill,CV Varun,1,0,,,,,,,,,,140/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,14.2,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,Washington Sundar,CV Varun,1,0,,,,,,,,,,141/2
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,14.3,Gujarat Titans,Kolkata Knight Riders,Washington Sundar,Shubman Gill,CV Varun,0,0,,,,,,caught,Washington Sundar,,,141/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,14.4,Gujarat Titans,Kolkata Knight Riders,GD Phillips,Shubman Gill,CV Varun,1,0,,,,,,,,,,142/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,14.5,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,GD Phillips,CV Varun,1,0,,,,,,,,,,143/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,14.6,Gujarat Titans,Kolkata Knight Riders,GD Phillips,Shubman Gill,CV Varun,1,0,,,,,,,,,,144/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,15.1,Gujarat Titans,Kolkata Knight Riders,GD Phillips,Shubman Gill,AS Roy,0,0,,,,,,,,,,144/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,15.2,Gujarat Titans,Kolkata Knight Riders,GD Phillips,Shubman Gill,AS Roy,0,1,1,,,,,,,,,145/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,15.2,Gujarat Titans,Kolkata Knight Riders,GD Phillips,Shubman Gill,AS Roy,0,0,,,,,,,,,,145/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,15.3,Gujarat Titans,Kolkata Knight Riders,GD Phillips,Shubman Gill,AS Roy,1,0,,,,,,,,,,146/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,15.4,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,GD Phillips,AS Roy,1,0,,,,,,,,,,147/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,15.5,Gujarat Titans,Kolkata Knight Riders,GD Phillips,Shubman Gill,AS Roy,1,0,,,,,,,,,,148/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,15.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,GD Phillips,AS Roy,1,0,,,,,,,,,,149/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,16.1,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,GD Phillips,VG Arora,0,0,,,,,,,,,,149/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,16.2,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,GD Phillips,VG Arora,4,0,,,,,,,,,,153/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,16.3,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,GD Phillips,VG Arora,1,0,,,,,,,,,,154/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,16.4,Gujarat Titans,Kolkata Knight Riders,GD Phillips,Shubman Gill,VG Arora,2,0,,,,,,,,,,156/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,16.5,Gujarat Titans,Kolkata Knight Riders,GD Phillips,Shubman Gill,VG Arora,1,0,,,,,,,,,,157/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,16.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,GD Phillips,VG Arora,0,1,1,,,,,,,,,158/3
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,16.6,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,GD Phillips,VG Arora,0,0,,,,,,caught,Shubman Gill,,,158/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,17.1,Gujarat Titans,Kolkata Knight Riders,GD Phillips,R Tewatia,Kartik Tyagi,1,0,,,,,,,,,,159/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,17.2,Gujarat Titans,Kolkata Knight Riders,R Tewatia,GD Phillips,Kartik Tyagi,1,0,,,,,,,,,,160/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,17.3,Gujarat Titans,Kolkata Knight Riders,GD Phillips,R Tewatia,Kartik Tyagi,4,0,,,,,,,,,,164/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,17.4,Gujarat Titans,Kolkata Knight Riders,GD Phillips,R Tewatia,Kartik Tyagi,4,0,,,,,,,,,,168/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,17.5,Gujarat Titans,Kolkata Knight Riders,GD Phillips,R Tewatia,Kartik Tyagi,1,0,,,,,,,,,,169/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,17.6,Gujarat Titans,Kolkata Knight Riders,R Tewatia,GD Phillips,Kartik Tyagi,1,0,,,,,,,,,,170/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,18.1,Gujarat Titans,Kolkata Knight Riders,R Tewatia,GD Phillips,VG Arora,2,0,,,,,,,,,,172/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,18.2,Gujarat Titans,Kolkata Knight Riders,R Tewatia,GD Phillips,VG Arora,1,0,,,,,,,,,,173/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,18.3,Gujarat Titans,Kolkata Knight Riders,GD Phillips,R Tewatia,VG Arora,0,0,,,,,,,,,,173/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,18.4,Gujarat Titans,Kolkata Knight Riders,GD Phillips,R Tewatia,VG Arora,1,0,,,,,,,,,,174/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,18.5,Gujarat Titans,Kolkata Knight Riders,R Tewatia,GD Phillips,VG Arora,1,0,,,,,,,,,,175/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,18.6,Gujarat Titans,Kolkata Knight Riders,GD Phillips,R Tewatia,VG Arora,1,0,,,,,,,,,,176/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,19.1,Gujarat Titans,Kolkata Knight Riders,GD Phillips,R Tewatia,Ramandeep Singh,0,1,1,,,,,,,,,177/4
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,19.1,Gujarat Titans,Kolkata Knight Riders,GD Phillips,R Tewatia,Ramandeep Singh,0,0,,,,,,caught,GD Phillips,,,177/5
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,19.2,Gujarat Titans,Kolkata Knight Riders,M Shahrukh Khan,R Tewatia,Ramandeep Singh,1,0,,,,,,,,,,178/5
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,19.3,Gujarat Titans,Kolkata Knight Riders,R Tewatia,M Shahrukh Khan,Ramandeep Singh,1,0,,,,,,,,,,179/5
+25,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",2,19.4,Gujarat Titans,Kolkata Knight Riders,M Shahrukh Khan,R Tewatia,Ramandeep Singh,2,0,,,,,,,,,,181/5

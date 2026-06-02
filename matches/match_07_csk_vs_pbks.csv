@@ -1,0 +1,252 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,0.1,Chennai Super Kings,Punjab Kings,SV Samson,RD Gaikwad,Arshdeep Singh,0,1,1,,,,,,,,,1/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,0.1,Chennai Super Kings,Punjab Kings,SV Samson,RD Gaikwad,Arshdeep Singh,0,0,,,,,,,,,,1/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,0.2,Chennai Super Kings,Punjab Kings,SV Samson,RD Gaikwad,Arshdeep Singh,3,0,,,,,,,,,,4/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,0.3,Chennai Super Kings,Punjab Kings,RD Gaikwad,SV Samson,Arshdeep Singh,0,0,,,,,,,,,,4/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,0.4,Chennai Super Kings,Punjab Kings,RD Gaikwad,SV Samson,Arshdeep Singh,1,0,,,,,,,,,,5/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,0.5,Chennai Super Kings,Punjab Kings,SV Samson,RD Gaikwad,Arshdeep Singh,0,0,,,,,,,,,,5/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,0.6,Chennai Super Kings,Punjab Kings,SV Samson,RD Gaikwad,Arshdeep Singh,0,0,,,,,,,,,,5/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,1.1,Chennai Super Kings,Punjab Kings,RD Gaikwad,SV Samson,XC Bartlett,4,0,,,,,,,,,,9/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,1.2,Chennai Super Kings,Punjab Kings,RD Gaikwad,SV Samson,XC Bartlett,0,0,,,,,,,,,,9/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,1.3,Chennai Super Kings,Punjab Kings,RD Gaikwad,SV Samson,XC Bartlett,1,0,,,,,,,,,,10/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,1.4,Chennai Super Kings,Punjab Kings,SV Samson,RD Gaikwad,XC Bartlett,0,0,,,,,,,,,,10/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,1.5,Chennai Super Kings,Punjab Kings,SV Samson,RD Gaikwad,XC Bartlett,4,0,,,,,,,,,,14/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,1.6,Chennai Super Kings,Punjab Kings,SV Samson,RD Gaikwad,XC Bartlett,0,0,,,,,,caught,SV Samson,,,14/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,2.1,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,M Jansen,4,0,,,,,,,,,,18/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,2.2,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,M Jansen,1,0,,,,,,,,,,19/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,2.3,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,M Jansen,0,0,,,,,,,,,,19/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,2.4,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,M Jansen,0,0,,,,,,,,,,19/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,2.5,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,M Jansen,0,5,5,,,,,,,,,24/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,2.5,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,M Jansen,0,0,,,,,,,,,,24/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,2.6,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,M Jansen,0,0,,,,,,,,,,24/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,3.1,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,XC Bartlett,1,0,,,,,,,,,,25/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,3.2,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,XC Bartlett,4,0,,,,,,,,,,29/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,3.3,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,XC Bartlett,4,0,,,,,,,,,,33/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,3.4,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,XC Bartlett,4,0,,,,,,,,,,37/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,3.5,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,XC Bartlett,2,0,,,,,,,,,,39/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,3.6,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,XC Bartlett,0,0,,,,,,,,,,39/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,4.1,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,Vijaykumar Vyshak,1,0,,,,,,,,,,40/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,4.2,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,Vijaykumar Vyshak,0,0,,,,,,,,,,40/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,4.3,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,Vijaykumar Vyshak,6,0,,,,,,,,,,46/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,4.4,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,Vijaykumar Vyshak,2,0,,,,,,,,,,48/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,4.5,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,Vijaykumar Vyshak,0,0,,,,,,,,,,48/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,4.6,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,Vijaykumar Vyshak,1,0,,,,,,,,,,49/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,5.1,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,Arshdeep Singh,0,0,,,,,,,,,,49/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,5.2,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,Arshdeep Singh,0,1,1,,,,,,,,,50/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,5.2,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,Arshdeep Singh,4,0,,,,,,,,,,54/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,5.3,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,Arshdeep Singh,1,0,,,,,,,,,,55/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,5.4,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,Arshdeep Singh,1,0,,,,,,,,,,56/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,5.5,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,Arshdeep Singh,0,0,,,,,,,,,,56/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,5.6,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,Arshdeep Singh,1,0,,,,,,,,,,57/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,6.1,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,M Jansen,6,0,,,,,,,,,,63/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,6.2,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,M Jansen,0,0,,,,,,,,,,63/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,6.3,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,M Jansen,2,0,,,,,,,,,,65/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,6.4,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,M Jansen,0,0,,,,,,,,,,65/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,6.5,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,M Jansen,6,0,,,,,,,,,,71/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,6.6,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,M Jansen,0,0,,,,,,,,,,71/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,7.1,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,YS Chahal,1,0,,,,,,,,,,72/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,7.2,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,YS Chahal,1,0,,,,,,,,,,73/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,7.3,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,YS Chahal,1,0,,,,,,,,,,74/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,7.4,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,YS Chahal,1,0,,,,,,,,,,75/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,7.5,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,YS Chahal,1,0,,,,,,,,,,76/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,7.6,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,YS Chahal,1,0,,,,,,,,,,77/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,8.1,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,MP Stoinis,6,0,,,,,,,,,,83/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,8.2,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,MP Stoinis,6,0,,,,,,,,,,89/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,8.3,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,MP Stoinis,0,1,1,,,,,,,,,90/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,8.3,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,MP Stoinis,1,0,,,,,,,,,,91/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,8.4,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,MP Stoinis,2,0,,,,,,,,,,93/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,8.5,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,MP Stoinis,1,0,,,,,,,,,,94/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,8.6,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,MP Stoinis,0,0,,,,,,,,,,94/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,9.1,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,YS Chahal,1,0,,,,,,,,,,95/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,9.2,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,YS Chahal,0,0,,,,,,,,,,95/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,9.3,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,YS Chahal,2,0,,,,,,,,,,97/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,9.4,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,YS Chahal,1,0,,,,,,,,,,98/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,9.5,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,YS Chahal,2,0,,,,,,,,,,100/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,9.6,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,YS Chahal,1,0,,,,,,,,,,101/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,10.1,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,Vijaykumar Vyshak,1,0,,,,,,,,,,102/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,10.2,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,Vijaykumar Vyshak,1,0,,,,,,,,,,103/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,10.3,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,Vijaykumar Vyshak,2,0,,,,,,,,,,105/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,10.4,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,Vijaykumar Vyshak,1,0,,,,,,,,,,106/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,10.5,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,Vijaykumar Vyshak,4,0,,,,,,,,,,110/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,10.6,Chennai Super Kings,Punjab Kings,A Mhatre,RD Gaikwad,Vijaykumar Vyshak,0,0,,,,,,,,,,110/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,11.1,Chennai Super Kings,Punjab Kings,RD Gaikwad,A Mhatre,YS Chahal,0,0,,,,,,caught,RD Gaikwad,,,110/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,11.2,Chennai Super Kings,Punjab Kings,S Dube,A Mhatre,YS Chahal,1,0,,,,,,,,,,111/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,11.3,Chennai Super Kings,Punjab Kings,A Mhatre,S Dube,YS Chahal,0,0,,,,,,,,,,111/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,11.4,Chennai Super Kings,Punjab Kings,A Mhatre,S Dube,YS Chahal,1,0,,,,,,,,,,112/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,11.5,Chennai Super Kings,Punjab Kings,S Dube,A Mhatre,YS Chahal,0,0,,,,,,,,,,112/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,11.6,Chennai Super Kings,Punjab Kings,S Dube,A Mhatre,YS Chahal,0,2,2,,,,,,,,,114/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,11.6,Chennai Super Kings,Punjab Kings,A Mhatre,S Dube,YS Chahal,1,1,,1,,,,,,,,116/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,11.6,Chennai Super Kings,Punjab Kings,S Dube,A Mhatre,YS Chahal,0,1,1,,,,,,,,,117/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,11.6,Chennai Super Kings,Punjab Kings,S Dube,A Mhatre,YS Chahal,1,0,,,,,,,,,,118/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,12.1,Chennai Super Kings,Punjab Kings,S Dube,A Mhatre,Vijaykumar Vyshak,1,0,,,,,,,,,,119/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,12.2,Chennai Super Kings,Punjab Kings,A Mhatre,S Dube,Vijaykumar Vyshak,4,0,,,,,,,,,,123/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,12.3,Chennai Super Kings,Punjab Kings,A Mhatre,S Dube,Vijaykumar Vyshak,0,0,,,,,,caught,A Mhatre,,,123/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,12.4,Chennai Super Kings,Punjab Kings,Kartik Sharma,S Dube,Vijaykumar Vyshak,0,0,,,,,,,,,,123/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,12.5,Chennai Super Kings,Punjab Kings,Kartik Sharma,S Dube,Vijaykumar Vyshak,1,0,,,,,,,,,,124/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,12.6,Chennai Super Kings,Punjab Kings,S Dube,Kartik Sharma,Vijaykumar Vyshak,1,0,,,,,,,,,,125/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,13.1,Chennai Super Kings,Punjab Kings,S Dube,Kartik Sharma,M Jansen,2,0,,,,,,,,,,127/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,13.2,Chennai Super Kings,Punjab Kings,S Dube,Kartik Sharma,M Jansen,2,0,,,,,,,,,,129/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,13.3,Chennai Super Kings,Punjab Kings,S Dube,Kartik Sharma,M Jansen,1,0,,,,,,,,,,130/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,13.4,Chennai Super Kings,Punjab Kings,Kartik Sharma,S Dube,M Jansen,0,0,,,,,,lbw,Kartik Sharma,,,130/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,13.5,Chennai Super Kings,Punjab Kings,SN Khan,S Dube,M Jansen,0,0,,,,,,,,,,130/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,13.6,Chennai Super Kings,Punjab Kings,SN Khan,S Dube,M Jansen,0,0,,,,,,,,,,130/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,14.1,Chennai Super Kings,Punjab Kings,S Dube,SN Khan,Arshdeep Singh,1,0,,,,,,,,,,131/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,14.2,Chennai Super Kings,Punjab Kings,SN Khan,S Dube,Arshdeep Singh,4,0,,,,,,,,,,135/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,14.3,Chennai Super Kings,Punjab Kings,SN Khan,S Dube,Arshdeep Singh,4,0,,,,,,,,,,139/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,14.4,Chennai Super Kings,Punjab Kings,SN Khan,S Dube,Arshdeep Singh,4,0,,,,,,,,,,143/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,14.5,Chennai Super Kings,Punjab Kings,SN Khan,S Dube,Arshdeep Singh,1,0,,,,,,,,,,144/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,14.6,Chennai Super Kings,Punjab Kings,S Dube,SN Khan,Arshdeep Singh,1,0,,,,,,,,,,145/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,15.1,Chennai Super Kings,Punjab Kings,S Dube,SN Khan,XC Bartlett,2,0,,,,,,,,,,147/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,15.2,Chennai Super Kings,Punjab Kings,S Dube,SN Khan,XC Bartlett,0,0,,,,,,,,,,147/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,15.3,Chennai Super Kings,Punjab Kings,S Dube,SN Khan,XC Bartlett,0,0,,,,,,,,,,147/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,15.4,Chennai Super Kings,Punjab Kings,S Dube,SN Khan,XC Bartlett,1,0,,,,,,,,,,148/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,15.5,Chennai Super Kings,Punjab Kings,SN Khan,S Dube,XC Bartlett,0,1,1,,,,,,,,,149/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,15.5,Chennai Super Kings,Punjab Kings,SN Khan,S Dube,XC Bartlett,6,0,,,,,,,,,,155/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,15.6,Chennai Super Kings,Punjab Kings,SN Khan,S Dube,XC Bartlett,1,0,,,,,,,,,,156/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,16.1,Chennai Super Kings,Punjab Kings,SN Khan,S Dube,Vijaykumar Vyshak,4,0,,,,,,,,,,160/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,16.2,Chennai Super Kings,Punjab Kings,SN Khan,S Dube,Vijaykumar Vyshak,4,0,,,,,,,,,,164/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,16.3,Chennai Super Kings,Punjab Kings,SN Khan,S Dube,Vijaykumar Vyshak,4,0,,,,,,,,,,168/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,16.4,Chennai Super Kings,Punjab Kings,SN Khan,S Dube,Vijaykumar Vyshak,0,0,,,,,,caught,SN Khan,,,168/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,16.5,Chennai Super Kings,Punjab Kings,PR Veer,S Dube,Vijaykumar Vyshak,0,0,,,,,,,,,,168/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,16.6,Chennai Super Kings,Punjab Kings,PR Veer,S Dube,Vijaykumar Vyshak,0,0,,,,,,,,,,168/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,17.1,Chennai Super Kings,Punjab Kings,S Dube,PR Veer,M Jansen,0,1,1,,,,,,,,,169/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,17.1,Chennai Super Kings,Punjab Kings,S Dube,PR Veer,M Jansen,6,0,,,,,,,,,,175/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,17.2,Chennai Super Kings,Punjab Kings,S Dube,PR Veer,M Jansen,1,0,,,,,,,,,,176/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,17.3,Chennai Super Kings,Punjab Kings,PR Veer,S Dube,M Jansen,4,0,,,,,,,,,,180/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,17.4,Chennai Super Kings,Punjab Kings,PR Veer,S Dube,M Jansen,0,0,,,,,,,,,,180/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,17.5,Chennai Super Kings,Punjab Kings,PR Veer,S Dube,M Jansen,1,0,,,,,,,,,,181/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,17.6,Chennai Super Kings,Punjab Kings,S Dube,PR Veer,M Jansen,1,0,,,,,,,,,,182/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,18.1,Chennai Super Kings,Punjab Kings,S Dube,PR Veer,XC Bartlett,4,0,,,,,,,,,,186/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,18.2,Chennai Super Kings,Punjab Kings,S Dube,PR Veer,XC Bartlett,2,0,,,,,,,,,,188/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,18.3,Chennai Super Kings,Punjab Kings,S Dube,PR Veer,XC Bartlett,1,0,,,,,,,,,,189/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,18.4,Chennai Super Kings,Punjab Kings,PR Veer,S Dube,XC Bartlett,1,0,,,,,,,,,,190/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,18.5,Chennai Super Kings,Punjab Kings,S Dube,PR Veer,XC Bartlett,4,0,,,,,,,,,,194/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,18.6,Chennai Super Kings,Punjab Kings,S Dube,PR Veer,XC Bartlett,0,1,1,,,,,,,,,195/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,18.6,Chennai Super Kings,Punjab Kings,S Dube,PR Veer,XC Bartlett,0,0,,,,,,,,,,195/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,19.1,Chennai Super Kings,Punjab Kings,PR Veer,S Dube,Arshdeep Singh,0,1,,,1,,,,,,,196/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,19.2,Chennai Super Kings,Punjab Kings,S Dube,PR Veer,Arshdeep Singh,0,1,1,,,,,,,,,197/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,19.2,Chennai Super Kings,Punjab Kings,S Dube,PR Veer,Arshdeep Singh,4,0,,,,,,,,,,201/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,19.3,Chennai Super Kings,Punjab Kings,S Dube,PR Veer,Arshdeep Singh,0,0,,,,,,,,,,201/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,19.4,Chennai Super Kings,Punjab Kings,S Dube,PR Veer,Arshdeep Singh,0,0,,,,,,,,,,201/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,19.5,Chennai Super Kings,Punjab Kings,S Dube,PR Veer,Arshdeep Singh,4,0,,,,,,,,,,205/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",1,19.6,Chennai Super Kings,Punjab Kings,S Dube,PR Veer,Arshdeep Singh,4,0,,,,,,,,,,209/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,0.1,Punjab Kings,Chennai Super Kings,Priyansh Arya,P Simran Singh,KK Ahmed,0,1,1,,,,,,,,,1/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,0.1,Punjab Kings,Chennai Super Kings,Priyansh Arya,P Simran Singh,KK Ahmed,4,0,,,,,,,,,,5/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,0.2,Punjab Kings,Chennai Super Kings,Priyansh Arya,P Simran Singh,KK Ahmed,6,0,,,,,,,,,,11/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,0.3,Punjab Kings,Chennai Super Kings,Priyansh Arya,P Simran Singh,KK Ahmed,1,0,,,,,,,,,,12/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,0.4,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,KK Ahmed,0,0,,,,,,,,,,12/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,0.5,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,KK Ahmed,0,0,,,,,,,,,,12/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,0.6,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,KK Ahmed,0,1,1,,,,,,,,,13/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,0.6,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,KK Ahmed,0,1,1,,,,,,,,,14/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,0.6,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,KK Ahmed,0,0,,,,,,,,,,14/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,1.1,Punjab Kings,Chennai Super Kings,Priyansh Arya,P Simran Singh,MJ Henry,4,0,,,,,,,,,,18/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,1.2,Punjab Kings,Chennai Super Kings,Priyansh Arya,P Simran Singh,MJ Henry,6,0,,,,,,,,,,24/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,1.3,Punjab Kings,Chennai Super Kings,Priyansh Arya,P Simran Singh,MJ Henry,4,0,,,,,,,,,,28/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,1.4,Punjab Kings,Chennai Super Kings,Priyansh Arya,P Simran Singh,MJ Henry,1,0,,,,,,,,,,29/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,1.5,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,MJ Henry,4,0,,,,,,,,,,33/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,1.6,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,MJ Henry,1,0,,,,,,,,,,34/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,2.1,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,KK Ahmed,0,0,,,,,,,,,,34/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,2.2,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,KK Ahmed,1,0,,,,,,,,,,35/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,2.3,Punjab Kings,Chennai Super Kings,Priyansh Arya,P Simran Singh,KK Ahmed,1,0,,,,,,,,,,36/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,2.4,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,KK Ahmed,0,0,,,,,,,,,,36/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,2.5,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,KK Ahmed,1,0,,,,,,,,,,37/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,2.6,Punjab Kings,Chennai Super Kings,Priyansh Arya,P Simran Singh,KK Ahmed,6,0,,,,,,,,,,43/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,3.1,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,A Kamboj,4,0,,,,,,,,,,47/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,3.2,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,A Kamboj,4,0,,,,,,,,,,51/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,3.3,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,A Kamboj,0,0,,,,,,,,,,51/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,3.4,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,A Kamboj,4,0,,,,,,,,,,55/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,3.5,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,A Kamboj,0,0,,,,,,,,,,55/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,3.6,Punjab Kings,Chennai Super Kings,P Simran Singh,Priyansh Arya,A Kamboj,0,0,,,,,,,,,,55/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,4.1,Punjab Kings,Chennai Super Kings,Priyansh Arya,P Simran Singh,MJ Henry,6,0,,,,,,,,,,61/0
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,4.2,Punjab Kings,Chennai Super Kings,Priyansh Arya,P Simran Singh,MJ Henry,0,0,,,,,,bowled,Priyansh Arya,,,61/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,4.3,Punjab Kings,Chennai Super Kings,C Connolly,P Simran Singh,MJ Henry,0,1,,,,1,,,,,,62/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,4.4,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,MJ Henry,0,0,,,,,,,,,,62/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,4.5,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,MJ Henry,0,0,,,,,,,,,,62/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,4.6,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,MJ Henry,1,0,,,,,,,,,,63/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,5.1,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,KK Ahmed,0,0,,,,,,,,,,63/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,5.2,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,KK Ahmed,4,0,,,,,,,,,,67/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,5.3,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,KK Ahmed,0,0,,,,,,,,,,67/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,5.4,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,KK Ahmed,0,0,,,,,,,,,,67/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,5.5,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,KK Ahmed,1,0,,,,,,,,,,68/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,5.6,Punjab Kings,Chennai Super Kings,C Connolly,P Simran Singh,KK Ahmed,0,0,,,,,,,,,,68/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,6.1,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,Noor Ahmad,1,0,,,,,,,,,,69/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,6.2,Punjab Kings,Chennai Super Kings,C Connolly,P Simran Singh,Noor Ahmad,1,0,,,,,,,,,,70/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,6.3,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,Noor Ahmad,6,0,,,,,,,,,,76/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,6.4,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,Noor Ahmad,0,0,,,,,,,,,,76/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,6.5,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,Noor Ahmad,0,0,,,,,,,,,,76/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,6.6,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,Noor Ahmad,4,0,,,,,,,,,,80/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,7.1,Punjab Kings,Chennai Super Kings,C Connolly,P Simran Singh,RD Chahar,1,0,,,,,,,,,,81/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,7.2,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,RD Chahar,0,0,,,,,,,,,,81/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,7.3,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,RD Chahar,1,0,,,,,,,,,,82/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,7.4,Punjab Kings,Chennai Super Kings,C Connolly,P Simran Singh,RD Chahar,1,0,,,,,,,,,,83/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,7.5,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,RD Chahar,1,0,,,,,,,,,,84/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,7.6,Punjab Kings,Chennai Super Kings,C Connolly,P Simran Singh,RD Chahar,4,0,,,,,,,,,,88/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,8.1,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,Noor Ahmad,3,0,,,,,,,,,,91/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,8.2,Punjab Kings,Chennai Super Kings,C Connolly,P Simran Singh,Noor Ahmad,1,0,,,,,,,,,,92/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,8.3,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,Noor Ahmad,1,0,,,,,,,,,,93/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,8.4,Punjab Kings,Chennai Super Kings,C Connolly,P Simran Singh,Noor Ahmad,1,0,,,,,,,,,,94/1
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,8.5,Punjab Kings,Chennai Super Kings,P Simran Singh,C Connolly,Noor Ahmad,1,0,,,,,,run out,P Simran Singh,,,95/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,8.6,Punjab Kings,Chennai Super Kings,C Connolly,SS Iyer,Noor Ahmad,0,0,,,,,,,,,,95/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,9.1,Punjab Kings,Chennai Super Kings,SS Iyer,C Connolly,RD Chahar,1,0,,,,,,,,,,96/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,9.2,Punjab Kings,Chennai Super Kings,C Connolly,SS Iyer,RD Chahar,0,0,,,,,,,,,,96/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,9.3,Punjab Kings,Chennai Super Kings,C Connolly,SS Iyer,RD Chahar,1,0,,,,,,,,,,97/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,9.4,Punjab Kings,Chennai Super Kings,SS Iyer,C Connolly,RD Chahar,1,0,,,,,,,,,,98/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,9.5,Punjab Kings,Chennai Super Kings,C Connolly,SS Iyer,RD Chahar,4,0,,,,,,,,,,102/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,9.6,Punjab Kings,Chennai Super Kings,C Connolly,SS Iyer,RD Chahar,1,0,,,,,,,,,,103/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,10.1,Punjab Kings,Chennai Super Kings,C Connolly,SS Iyer,Noor Ahmad,4,0,,,,,,,,,,107/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,10.2,Punjab Kings,Chennai Super Kings,C Connolly,SS Iyer,Noor Ahmad,1,0,,,,,,,,,,108/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,10.3,Punjab Kings,Chennai Super Kings,SS Iyer,C Connolly,Noor Ahmad,1,0,,,,,,,,,,109/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,10.4,Punjab Kings,Chennai Super Kings,C Connolly,SS Iyer,Noor Ahmad,4,1,,1,,,,,,,,114/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,10.4,Punjab Kings,Chennai Super Kings,C Connolly,SS Iyer,Noor Ahmad,2,0,,,,,,,,,,116/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,10.5,Punjab Kings,Chennai Super Kings,C Connolly,SS Iyer,Noor Ahmad,1,0,,,,,,,,,,117/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,10.6,Punjab Kings,Chennai Super Kings,SS Iyer,C Connolly,Noor Ahmad,0,0,,,,,,,,,,117/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,11.1,Punjab Kings,Chennai Super Kings,C Connolly,SS Iyer,A Kamboj,4,0,,,,,,,,,,121/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,11.2,Punjab Kings,Chennai Super Kings,C Connolly,SS Iyer,A Kamboj,1,0,,,,,,,,,,122/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,11.3,Punjab Kings,Chennai Super Kings,SS Iyer,C Connolly,A Kamboj,1,0,,,,,,,,,,123/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,11.4,Punjab Kings,Chennai Super Kings,C Connolly,SS Iyer,A Kamboj,4,0,,,,,,,,,,127/2
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,11.5,Punjab Kings,Chennai Super Kings,C Connolly,SS Iyer,A Kamboj,0,0,,,,,,caught,C Connolly,,,127/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,11.6,Punjab Kings,Chennai Super Kings,N Wadhera,SS Iyer,A Kamboj,0,0,,,,,,,,,,127/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,12.1,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,RD Chahar,0,0,,,,,,,,,,127/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,12.2,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,RD Chahar,2,0,,,,,,,,,,129/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,12.3,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,RD Chahar,6,0,,,,,,,,,,135/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,12.4,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,RD Chahar,1,0,,,,,,,,,,136/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,12.5,Punjab Kings,Chennai Super Kings,N Wadhera,SS Iyer,RD Chahar,1,0,,,,,,,,,,137/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,12.6,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,RD Chahar,6,0,,,,,,,,,,143/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,13.1,Punjab Kings,Chennai Super Kings,N Wadhera,SS Iyer,Noor Ahmad,1,0,,,,,,,,,,144/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,13.2,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,Noor Ahmad,0,0,,,,,,,,,,144/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,13.3,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,Noor Ahmad,0,1,1,,,,,,,,,145/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,13.3,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,Noor Ahmad,1,0,,,,,,,,,,146/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,13.4,Punjab Kings,Chennai Super Kings,N Wadhera,SS Iyer,Noor Ahmad,1,0,,,,,,,,,,147/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,13.5,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,Noor Ahmad,1,0,,,,,,,,,,148/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,13.6,Punjab Kings,Chennai Super Kings,N Wadhera,SS Iyer,Noor Ahmad,0,0,,,,,,,,,,148/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,14.1,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,MJ Henry,2,0,,,,,,,,,,150/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,14.2,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,MJ Henry,2,0,,,,,,,,,,152/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,14.3,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,MJ Henry,0,0,,,,,,,,,,152/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,14.4,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,MJ Henry,4,0,,,,,,,,,,156/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,14.5,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,MJ Henry,6,0,,,,,,,,,,162/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,14.6,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,MJ Henry,1,0,,,,,,,,,,163/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,15.1,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,RD Chahar,4,0,,,,,,,,,,167/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,15.2,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,RD Chahar,1,0,,,,,,,,,,168/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,15.3,Punjab Kings,Chennai Super Kings,N Wadhera,SS Iyer,RD Chahar,6,0,,,,,,,,,,174/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,15.4,Punjab Kings,Chennai Super Kings,N Wadhera,SS Iyer,RD Chahar,1,0,,,,,,,,,,175/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,15.5,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,RD Chahar,0,1,1,,,,,,,,,176/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,15.5,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,RD Chahar,1,0,,,,,,,,,,177/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,15.6,Punjab Kings,Chennai Super Kings,N Wadhera,SS Iyer,RD Chahar,0,0,,,,,,,,,,177/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,16.1,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,A Kamboj,4,0,,,,,,,,,,181/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,16.2,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,A Kamboj,0,0,,,,,,,,,,181/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,16.3,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,A Kamboj,0,0,,,,,,,,,,181/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,16.4,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,A Kamboj,4,0,,,,,,,,,,185/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,16.5,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,A Kamboj,0,1,,1,,,,,,,,186/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,16.5,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,A Kamboj,0,0,,,,,,,,,,186/3
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,16.6,Punjab Kings,Chennai Super Kings,SS Iyer,N Wadhera,A Kamboj,0,0,,,,,,caught,SS Iyer,,,186/4
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,17.1,Punjab Kings,Chennai Super Kings,N Wadhera,Shashank Singh,MJ Henry,0,0,,,,,,caught,N Wadhera,,,186/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,17.2,Punjab Kings,Chennai Super Kings,MP Stoinis,Shashank Singh,MJ Henry,4,0,,,,,,,,,,190/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,17.3,Punjab Kings,Chennai Super Kings,MP Stoinis,Shashank Singh,MJ Henry,1,0,,,,,,,,,,191/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,17.4,Punjab Kings,Chennai Super Kings,Shashank Singh,MP Stoinis,MJ Henry,2,0,,,,,,,,,,193/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,17.5,Punjab Kings,Chennai Super Kings,Shashank Singh,MP Stoinis,MJ Henry,4,0,,,,,,,,,,197/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,17.6,Punjab Kings,Chennai Super Kings,Shashank Singh,MP Stoinis,MJ Henry,1,0,,,,,,,,,,198/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,18.1,Punjab Kings,Chennai Super Kings,Shashank Singh,MP Stoinis,A Kamboj,4,0,,,,,,,,,,202/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,18.2,Punjab Kings,Chennai Super Kings,Shashank Singh,MP Stoinis,A Kamboj,2,0,,,,,,,,,,204/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,18.3,Punjab Kings,Chennai Super Kings,Shashank Singh,MP Stoinis,A Kamboj,0,1,1,,,,,,,,,205/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,18.3,Punjab Kings,Chennai Super Kings,Shashank Singh,MP Stoinis,A Kamboj,1,0,,,,,,,,,,206/5
+7,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",2,18.4,Punjab Kings,Chennai Super Kings,MP Stoinis,Shashank Singh,A Kamboj,4,0,,,,,,,,,,210/5

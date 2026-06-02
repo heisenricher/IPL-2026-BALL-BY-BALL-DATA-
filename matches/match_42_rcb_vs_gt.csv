@@ -1,0 +1,218 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,0.1,Royal Challengers Bengaluru,Gujarat Titans,JG Bethell,V Kohli,Mohammed Siraj,0,0,,,,,,,,,,0/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,0.2,Royal Challengers Bengaluru,Gujarat Titans,JG Bethell,V Kohli,Mohammed Siraj,1,0,,,,,,,,,,1/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,0.3,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,Mohammed Siraj,0,0,,,,,,,,,,1/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,0.4,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,Mohammed Siraj,1,0,,,,,,,,,,2/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,0.5,Royal Challengers Bengaluru,Gujarat Titans,JG Bethell,V Kohli,Mohammed Siraj,0,0,,,,,,,,,,2/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,0.6,Royal Challengers Bengaluru,Gujarat Titans,JG Bethell,V Kohli,Mohammed Siraj,4,0,,,,,,,,,,6/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,1.1,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,K Rabada,4,0,,,,,,,,,,10/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,1.2,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,K Rabada,4,0,,,,,,,,,,14/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,1.3,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,K Rabada,4,0,,,,,,,,,,18/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,1.4,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,K Rabada,4,0,,,,,,,,,,22/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,1.5,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,K Rabada,4,0,,,,,,,,,,26/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,1.6,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,K Rabada,1,0,,,,,,,,,,27/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,2.1,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,Mohammed Siraj,0,0,,,,,,,,,,27/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,2.2,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,Mohammed Siraj,6,0,,,,,,,,,,33/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,2.3,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,JG Bethell,Mohammed Siraj,0,1,,,,1,,,,,,34/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,2.4,Royal Challengers Bengaluru,Gujarat Titans,JG Bethell,V Kohli,Mohammed Siraj,0,0,,,,,,caught,JG Bethell,,,34/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,2.5,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,Mohammed Siraj,0,0,,,,,,,,,,34/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,2.6,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,V Kohli,Mohammed Siraj,0,0,,,,,,,,,,34/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,3.1,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,K Rabada,0,1,1,,,,,,,,,35/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,3.1,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,K Rabada,0,0,,,,,,,,,,35/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,3.2,Royal Challengers Bengaluru,Gujarat Titans,V Kohli,D Padikkal,K Rabada,0,0,,,,,,caught,V Kohli,,,35/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,3.3,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,D Padikkal,K Rabada,0,0,,,,,,,,,,35/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,3.4,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,D Padikkal,K Rabada,4,0,,,,,,,,,,39/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,3.5,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,D Padikkal,K Rabada,0,0,,,,,,,,,,39/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,3.6,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,D Padikkal,K Rabada,0,0,,,,,,,,,,39/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,4.1,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,RM Patidar,Mohammed Siraj,0,0,,,,,,,,,,39/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,4.2,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,RM Patidar,Mohammed Siraj,6,0,,,,,,,,,,45/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,4.3,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,RM Patidar,Mohammed Siraj,4,0,,,,,,,,,,49/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,4.4,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,RM Patidar,Mohammed Siraj,0,0,,,,,,,,,,49/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,4.5,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,RM Patidar,Mohammed Siraj,0,0,,,,,,,,,,49/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,4.6,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,RM Patidar,Mohammed Siraj,4,0,,,,,,,,,,53/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,5.1,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,D Padikkal,K Rabada,0,0,,,,,,,,,,53/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,5.2,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,D Padikkal,K Rabada,4,0,,,,,,,,,,57/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,5.3,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,D Padikkal,K Rabada,0,0,,,,,,,,,,57/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,5.4,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,D Padikkal,K Rabada,0,0,,,,,,,,,,57/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,5.5,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,D Padikkal,K Rabada,1,0,,,,,,,,,,58/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,5.6,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,RM Patidar,K Rabada,1,0,,,,,,,,,,59/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,6.1,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,RM Patidar,JO Holder,4,0,,,,,,,,,,63/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,6.2,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,RM Patidar,JO Holder,4,0,,,,,,,,,,67/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,6.3,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,RM Patidar,JO Holder,1,0,,,,,,,,,,68/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,6.4,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,D Padikkal,JO Holder,1,0,,,,,,,,,,69/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,6.5,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,RM Patidar,JO Holder,1,0,,,,,,,,,,70/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,6.6,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,D Padikkal,JO Holder,1,0,,,,,,,,,,71/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,7.1,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,D Padikkal,Arshad Khan,6,0,,,,,,,,,,77/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,7.2,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,D Padikkal,Arshad Khan,2,0,,,,,,,,,,79/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,7.3,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,D Padikkal,Arshad Khan,0,0,,,,,,,,,,79/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,7.4,Royal Challengers Bengaluru,Gujarat Titans,RM Patidar,D Padikkal,Arshad Khan,0,0,,,,,,caught,RM Patidar,,,79/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,7.5,Royal Challengers Bengaluru,Gujarat Titans,JM Sharma,D Padikkal,Arshad Khan,0,0,,,,,,,,,,79/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,7.6,Royal Challengers Bengaluru,Gujarat Titans,JM Sharma,D Padikkal,Arshad Khan,1,0,,,,,,,,,,80/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,8.1,Royal Challengers Bengaluru,Gujarat Titans,JM Sharma,D Padikkal,JO Holder,0,0,,,,,,caught,JM Sharma,,,80/4
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,8.2,Royal Challengers Bengaluru,Gujarat Titans,TH David,D Padikkal,JO Holder,1,0,,,,,,,,,,81/4
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,8.3,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,TH David,JO Holder,0,0,,,,,,,,,,81/4
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,8.4,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,TH David,JO Holder,1,0,,,,,,,,,,82/4
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,8.5,Royal Challengers Bengaluru,Gujarat Titans,TH David,D Padikkal,JO Holder,6,0,,,,,,,,,,88/4
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,8.6,Royal Challengers Bengaluru,Gujarat Titans,TH David,D Padikkal,JO Holder,1,0,,,,,,,,,,89/4
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,9.1,Royal Challengers Bengaluru,Gujarat Titans,TH David,D Padikkal,Rashid Khan,0,0,,,,,,,,,,89/4
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,9.2,Royal Challengers Bengaluru,Gujarat Titans,TH David,D Padikkal,Rashid Khan,1,0,,,,,,,,,,90/4
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,9.3,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,TH David,Rashid Khan,1,0,,,,,,,,,,91/4
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,9.4,Royal Challengers Bengaluru,Gujarat Titans,TH David,D Padikkal,Rashid Khan,0,0,,,,,,caught,TH David,,,91/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,9.5,Royal Challengers Bengaluru,Gujarat Titans,KH Pandya,D Padikkal,Rashid Khan,0,0,,,,,,,,,,91/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,9.6,Royal Challengers Bengaluru,Gujarat Titans,KH Pandya,D Padikkal,Rashid Khan,0,0,,,,,,,,,,91/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,10.1,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,KH Pandya,Arshad Khan,1,0,,,,,,,,,,92/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,10.2,Royal Challengers Bengaluru,Gujarat Titans,KH Pandya,D Padikkal,Arshad Khan,4,0,,,,,,,,,,96/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,10.3,Royal Challengers Bengaluru,Gujarat Titans,KH Pandya,D Padikkal,Arshad Khan,0,0,,,,,,caught,KH Pandya,,,96/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,10.4,Royal Challengers Bengaluru,Gujarat Titans,R Shepherd,D Padikkal,Arshad Khan,0,0,,,,,,,,,,96/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,10.5,Royal Challengers Bengaluru,Gujarat Titans,R Shepherd,D Padikkal,Arshad Khan,0,0,,,,,,,,,,96/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,10.6,Royal Challengers Bengaluru,Gujarat Titans,R Shepherd,D Padikkal,Arshad Khan,1,0,,,,,,,,,,97/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,11.1,Royal Challengers Bengaluru,Gujarat Titans,R Shepherd,D Padikkal,Rashid Khan,1,0,,,,,,,,,,98/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,11.2,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,R Shepherd,Rashid Khan,0,0,,,,,,,,,,98/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,11.3,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,R Shepherd,Rashid Khan,1,0,,,,,,,,,,99/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,11.4,Royal Challengers Bengaluru,Gujarat Titans,R Shepherd,D Padikkal,Rashid Khan,0,0,,,,,,,,,,99/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,11.5,Royal Challengers Bengaluru,Gujarat Titans,R Shepherd,D Padikkal,Rashid Khan,1,0,,,,,,,,,,100/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,11.6,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,R Shepherd,Rashid Khan,0,0,,,,,,,,,,100/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,12.1,Royal Challengers Bengaluru,Gujarat Titans,R Shepherd,D Padikkal,K Rabada,0,1,,,,1,,,,,,101/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,12.2,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,R Shepherd,K Rabada,4,0,,,,,,,,,,105/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,12.3,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,R Shepherd,K Rabada,6,0,,,,,,,,,,111/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,12.4,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,R Shepherd,K Rabada,1,0,,,,,,,,,,112/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,12.5,Royal Challengers Bengaluru,Gujarat Titans,R Shepherd,D Padikkal,K Rabada,0,0,,,,,,,,,,112/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,12.6,Royal Challengers Bengaluru,Gujarat Titans,R Shepherd,D Padikkal,K Rabada,1,0,,,,,,,,,,113/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,13.1,Royal Challengers Bengaluru,Gujarat Titans,R Shepherd,D Padikkal,Rashid Khan,0,0,,,,,,,,,,113/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,13.2,Royal Challengers Bengaluru,Gujarat Titans,R Shepherd,D Padikkal,Rashid Khan,6,0,,,,,,,,,,119/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,13.3,Royal Challengers Bengaluru,Gujarat Titans,R Shepherd,D Padikkal,Rashid Khan,0,0,,,,,,,,,,119/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,13.4,Royal Challengers Bengaluru,Gujarat Titans,R Shepherd,D Padikkal,Rashid Khan,6,0,,,,,,,,,,125/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,13.5,Royal Challengers Bengaluru,Gujarat Titans,R Shepherd,D Padikkal,Rashid Khan,1,0,,,,,,,,,,126/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,13.6,Royal Challengers Bengaluru,Gujarat Titans,D Padikkal,R Shepherd,Rashid Khan,0,0,,,,,,bowled,D Padikkal,,,126/7
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,14.1,Royal Challengers Bengaluru,Gujarat Titans,R Shepherd,VR Iyer,JO Holder,0,0,,,,,,caught,R Shepherd,,,126/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,14.2,Royal Challengers Bengaluru,Gujarat Titans,B Kumar,VR Iyer,JO Holder,3,0,,,,,,,,,,129/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,14.3,Royal Challengers Bengaluru,Gujarat Titans,VR Iyer,B Kumar,JO Holder,1,0,,,,,,,,,,130/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,14.4,Royal Challengers Bengaluru,Gujarat Titans,B Kumar,VR Iyer,JO Holder,0,0,,,,,,,,,,130/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,14.5,Royal Challengers Bengaluru,Gujarat Titans,B Kumar,VR Iyer,JO Holder,1,0,,,,,,,,,,131/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,14.6,Royal Challengers Bengaluru,Gujarat Titans,VR Iyer,B Kumar,JO Holder,1,0,,,,,,,,,,132/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,15.1,Royal Challengers Bengaluru,Gujarat Titans,VR Iyer,B Kumar,Rashid Khan,0,0,,,,,,,,,,132/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,15.2,Royal Challengers Bengaluru,Gujarat Titans,VR Iyer,B Kumar,Rashid Khan,0,0,,,,,,,,,,132/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,15.3,Royal Challengers Bengaluru,Gujarat Titans,VR Iyer,B Kumar,Rashid Khan,1,0,,,,,,,,,,133/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,15.4,Royal Challengers Bengaluru,Gujarat Titans,B Kumar,VR Iyer,Rashid Khan,0,0,,,,,,,,,,133/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,15.5,Royal Challengers Bengaluru,Gujarat Titans,B Kumar,VR Iyer,Rashid Khan,0,0,,,,,,,,,,133/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,15.6,Royal Challengers Bengaluru,Gujarat Titans,B Kumar,VR Iyer,Rashid Khan,0,0,,,,,,,,,,133/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,16.1,Royal Challengers Bengaluru,Gujarat Titans,VR Iyer,B Kumar,JO Holder,0,0,,,,,,,,,,133/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,16.2,Royal Challengers Bengaluru,Gujarat Titans,VR Iyer,B Kumar,JO Holder,0,1,,,,1,,,,,,134/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,16.3,Royal Challengers Bengaluru,Gujarat Titans,B Kumar,VR Iyer,JO Holder,1,0,,,,,,,,,,135/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,16.4,Royal Challengers Bengaluru,Gujarat Titans,VR Iyer,B Kumar,JO Holder,0,0,,,,,,,,,,135/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,16.5,Royal Challengers Bengaluru,Gujarat Titans,VR Iyer,B Kumar,JO Holder,1,0,,,,,,,,,,136/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,16.6,Royal Challengers Bengaluru,Gujarat Titans,B Kumar,VR Iyer,JO Holder,0,0,,,,,,,,,,136/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,17.1,Royal Challengers Bengaluru,Gujarat Titans,VR Iyer,B Kumar,Arshad Khan,0,1,1,,,,,,,,,137/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,17.1,Royal Challengers Bengaluru,Gujarat Titans,VR Iyer,B Kumar,Arshad Khan,0,0,,,,,,,,,,137/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,17.2,Royal Challengers Bengaluru,Gujarat Titans,VR Iyer,B Kumar,Arshad Khan,1,0,,,,,,,,,,138/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,17.3,Royal Challengers Bengaluru,Gujarat Titans,B Kumar,VR Iyer,Arshad Khan,0,0,,,,,,,,,,138/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,17.4,Royal Challengers Bengaluru,Gujarat Titans,B Kumar,VR Iyer,Arshad Khan,4,0,,,,,,,,,,142/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,17.5,Royal Challengers Bengaluru,Gujarat Titans,B Kumar,VR Iyer,Arshad Khan,0,0,,,,,,,,,,142/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,17.6,Royal Challengers Bengaluru,Gujarat Titans,B Kumar,VR Iyer,Arshad Khan,1,0,,,,,,,,,,143/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,18.1,Royal Challengers Bengaluru,Gujarat Titans,B Kumar,VR Iyer,Mohammed Siraj,0,0,,,,,,,,,,143/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,18.2,Royal Challengers Bengaluru,Gujarat Titans,B Kumar,VR Iyer,Mohammed Siraj,4,0,,,,,,,,,,147/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,18.3,Royal Challengers Bengaluru,Gujarat Titans,B Kumar,VR Iyer,Mohammed Siraj,1,0,,,,,,,,,,148/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,18.4,Royal Challengers Bengaluru,Gujarat Titans,VR Iyer,B Kumar,Mohammed Siraj,2,0,,,,,,,,,,150/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,18.5,Royal Challengers Bengaluru,Gujarat Titans,VR Iyer,B Kumar,Mohammed Siraj,4,0,,,,,,,,,,154/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,18.6,Royal Challengers Bengaluru,Gujarat Titans,VR Iyer,B Kumar,Mohammed Siraj,1,0,,,,,,,,,,155/8
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,19.1,Royal Challengers Bengaluru,Gujarat Titans,VR Iyer,B Kumar,Arshad Khan,0,0,,,,,,caught,VR Iyer,,,155/9
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",1,19.2,Royal Challengers Bengaluru,Gujarat Titans,JR Hazlewood,B Kumar,Arshad Khan,0,0,,,,,,run out,JR Hazlewood,,,155/10
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,0.1,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,B Kumar,1,0,,,,,,,,,,1/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,0.2,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,B Kumar,4,0,,,,,,,,,,5/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,0.3,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,B Kumar,6,0,,,,,,,,,,11/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,0.4,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,B Kumar,0,0,,,,,,,,,,11/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,0.5,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,B Kumar,1,0,,,,,,,,,,12/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,0.6,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,B Kumar,0,0,,,,,,,,,,12/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,1.1,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,JR Hazlewood,4,0,,,,,,,,,,16/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,1.2,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,JR Hazlewood,4,0,,,,,,,,,,20/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,1.3,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,JR Hazlewood,0,0,,,,,,,,,,20/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,1.4,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,JR Hazlewood,6,0,,,,,,,,,,26/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,1.5,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,JR Hazlewood,4,0,,,,,,,,,,30/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,1.6,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,JR Hazlewood,6,0,,,,,,,,,,36/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,2.1,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,B Kumar,4,0,,,,,,,,,,40/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,2.2,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,B Kumar,1,0,,,,,,,,,,41/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,2.3,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,B Kumar,0,0,,,,,,,,,,41/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,2.4,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,B Kumar,0,0,,,,,,,,,,41/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,2.5,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,B Sai Sudharsan,B Kumar,1,0,,,,,,,,,,42/0
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,2.6,Gujarat Titans,Royal Challengers Bengaluru,B Sai Sudharsan,Shubman Gill,B Kumar,0,0,,,,,,caught,B Sai Sudharsan,,,42/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,3.1,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,JC Buttler,JR Hazlewood,0,0,,,,,,,,,,42/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,3.2,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,JC Buttler,JR Hazlewood,5,0,,,,,,,,,,47/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,3.3,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Shubman Gill,JR Hazlewood,1,0,,,,,,,,,,48/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,3.4,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,JC Buttler,JR Hazlewood,1,0,,,,,,,,,,49/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,3.5,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Shubman Gill,JR Hazlewood,0,0,,,,,,,,,,49/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,3.6,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Shubman Gill,JR Hazlewood,6,0,,,,,,,,,,55/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,4.1,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,JC Buttler,B Kumar,1,0,,,,,,,,,,56/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,4.2,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Shubman Gill,B Kumar,0,0,,,,,,,,,,56/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,4.3,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Shubman Gill,B Kumar,0,0,,,,,,,,,,56/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,4.4,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Shubman Gill,B Kumar,0,0,,,,,,,,,,56/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,4.5,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Shubman Gill,B Kumar,1,0,,,,,,,,,,57/1
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,4.6,Gujarat Titans,Royal Challengers Bengaluru,Shubman Gill,JC Buttler,B Kumar,0,0,,,,,,caught,Shubman Gill,,,57/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,5.1,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,JR Hazlewood,1,0,,,,,,,,,,58/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,5.2,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,JC Buttler,JR Hazlewood,1,0,,,,,,,,,,59/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,5.3,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,JR Hazlewood,0,0,,,,,,,,,,59/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,5.4,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,JR Hazlewood,0,0,,,,,,,,,,59/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,5.5,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,JR Hazlewood,4,0,,,,,,,,,,63/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,5.6,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,JR Hazlewood,6,0,,,,,,,,,,69/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,6.1,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,JC Buttler,Suyash Sharma,1,0,,,,,,,,,,70/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,6.2,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,Suyash Sharma,0,1,1,,,,,,,,,71/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,6.2,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,Suyash Sharma,6,0,,,,,,,,,,77/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,6.3,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,Suyash Sharma,6,0,,,,,,,,,,83/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,6.4,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,Suyash Sharma,1,0,,,,,,,,,,84/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,6.5,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,JC Buttler,Suyash Sharma,1,0,,,,,,,,,,85/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,6.6,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,Suyash Sharma,1,0,,,,,,,,,,86/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,7.1,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,B Kumar,4,0,,,,,,,,,,90/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,7.2,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,B Kumar,2,0,,,,,,,,,,92/2
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,7.3,Gujarat Titans,Royal Challengers Bengaluru,JC Buttler,Washington Sundar,B Kumar,0,0,,,,,,bowled,JC Buttler,,,92/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,7.4,Gujarat Titans,Royal Challengers Bengaluru,M Shahrukh Khan,Washington Sundar,B Kumar,1,0,,,,,,,,,,93/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,7.5,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,M Shahrukh Khan,B Kumar,0,0,,,,,,,,,,93/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,7.6,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,M Shahrukh Khan,B Kumar,1,0,,,,,,,,,,94/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,8.1,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,M Shahrukh Khan,R Shepherd,0,0,,,,,,,,,,94/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,8.2,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,M Shahrukh Khan,R Shepherd,1,0,,,,,,,,,,95/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,8.3,Gujarat Titans,Royal Challengers Bengaluru,M Shahrukh Khan,Washington Sundar,R Shepherd,1,0,,,,,,,,,,96/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,8.4,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,M Shahrukh Khan,R Shepherd,0,0,,,,,,,,,,96/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,8.5,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,M Shahrukh Khan,R Shepherd,0,0,,,,,,,,,,96/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,8.6,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,M Shahrukh Khan,R Shepherd,6,0,,,,,,,,,,102/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,9.1,Gujarat Titans,Royal Challengers Bengaluru,M Shahrukh Khan,Washington Sundar,JR Hazlewood,0,0,,,,,,,,,,102/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,9.2,Gujarat Titans,Royal Challengers Bengaluru,M Shahrukh Khan,Washington Sundar,JR Hazlewood,0,0,,,,,,,,,,102/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,9.3,Gujarat Titans,Royal Challengers Bengaluru,M Shahrukh Khan,Washington Sundar,JR Hazlewood,1,0,,,,,,,,,,103/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,9.4,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,M Shahrukh Khan,JR Hazlewood,1,0,,,,,,,,,,104/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,9.5,Gujarat Titans,Royal Challengers Bengaluru,M Shahrukh Khan,Washington Sundar,JR Hazlewood,4,0,,,,,,,,,,108/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,9.6,Gujarat Titans,Royal Challengers Bengaluru,M Shahrukh Khan,Washington Sundar,JR Hazlewood,1,0,,,,,,,,,,109/3
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,10.1,Gujarat Titans,Royal Challengers Bengaluru,M Shahrukh Khan,Washington Sundar,R Shepherd,0,0,,,,,,caught,M Shahrukh Khan,,,109/4
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,10.2,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,Washington Sundar,R Shepherd,0,1,1,,,,,,,,,110/4
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,10.2,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,Washington Sundar,R Shepherd,1,0,,,,,,,,,,111/4
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,10.3,Gujarat Titans,Royal Challengers Bengaluru,Washington Sundar,R Tewatia,R Shepherd,0,0,,,,,,lbw,Washington Sundar,,,111/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,10.4,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,R Tewatia,R Shepherd,6,0,,,,,,,,,,117/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,10.5,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,R Tewatia,R Shepherd,1,0,,,,,,,,,,118/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,10.6,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,JO Holder,R Shepherd,4,0,,,,,,,,,,122/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,11.1,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,R Tewatia,Suyash Sharma,1,0,,,,,,,,,,123/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,11.2,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,JO Holder,Suyash Sharma,0,0,,,,,,,,,,123/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,11.3,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,JO Holder,Suyash Sharma,0,0,,,,,,,,,,123/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,11.4,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,JO Holder,Suyash Sharma,4,0,,,,,,,,,,127/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,11.5,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,JO Holder,Suyash Sharma,4,0,,,,,,,,,,131/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,11.6,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,JO Holder,Suyash Sharma,1,0,,,,,,,,,,132/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,12.1,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,JO Holder,R Shepherd,1,0,,,,,,,,,,133/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,12.2,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,R Tewatia,R Shepherd,0,0,,,,,,,,,,133/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,12.3,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,R Tewatia,R Shepherd,1,0,,,,,,,,,,134/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,12.4,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,JO Holder,R Shepherd,1,0,,,,,,,,,,135/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,12.5,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,R Tewatia,R Shepherd,0,0,,,,,,,,,,135/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,12.6,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,R Tewatia,R Shepherd,2,0,,,,,,,,,,137/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,13.1,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,JO Holder,Suyash Sharma,1,0,,,,,,,,,,138/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,13.2,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,R Tewatia,Suyash Sharma,0,0,,,,,,,,,,138/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,13.3,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,R Tewatia,Suyash Sharma,1,0,,,,,,,,,,139/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,13.4,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,JO Holder,Suyash Sharma,0,1,1,,,,,,,,,140/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,13.4,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,JO Holder,Suyash Sharma,1,0,,,,,,,,,,141/5
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,13.5,Gujarat Titans,Royal Challengers Bengaluru,JO Holder,R Tewatia,Suyash Sharma,0,0,,,,,,caught,JO Holder,,,141/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,13.6,Gujarat Titans,Royal Challengers Bengaluru,Rashid Khan,R Tewatia,Suyash Sharma,0,0,,,,,,,,,,141/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,14.1,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,Rashid Khan,R Shepherd,0,1,1,,,,,,,,,142/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,14.1,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,Rashid Khan,R Shepherd,0,0,,,,,,,,,,142/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,14.2,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,Rashid Khan,R Shepherd,1,0,,,,,,,,,,143/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,14.3,Gujarat Titans,Royal Challengers Bengaluru,Rashid Khan,R Tewatia,R Shepherd,1,0,,,,,,,,,,144/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,14.4,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,Rashid Khan,R Shepherd,1,0,,,,,,,,,,145/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,14.5,Gujarat Titans,Royal Challengers Bengaluru,Rashid Khan,R Tewatia,R Shepherd,0,0,,,,,,,,,,145/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,14.6,Gujarat Titans,Royal Challengers Bengaluru,Rashid Khan,R Tewatia,R Shepherd,0,0,,,,,,,,,,145/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,15.1,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,Rashid Khan,Suyash Sharma,4,0,,,,,,,,,,149/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,15.2,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,Rashid Khan,Suyash Sharma,2,0,,,,,,,,,,151/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,15.3,Gujarat Titans,Royal Challengers Bengaluru,R Tewatia,Rashid Khan,Suyash Sharma,1,0,,,,,,,,,,152/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,15.4,Gujarat Titans,Royal Challengers Bengaluru,Rashid Khan,R Tewatia,Suyash Sharma,2,0,,,,,,,,,,154/6
+42,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",2,15.5,Gujarat Titans,Royal Challengers Bengaluru,Rashid Khan,R Tewatia,Suyash Sharma,4,0,,,,,,,,,,158/6

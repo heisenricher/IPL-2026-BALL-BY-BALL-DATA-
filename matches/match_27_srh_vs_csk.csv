@@ -1,0 +1,258 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,team_score
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.1,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,TM Head,MW Short,0,0,,,,,,,,,,0/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.2,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,TM Head,MW Short,1,0,,,,,,,,,,1/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.3,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,MW Short,0,0,,,,,,,,,,1/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.4,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,MW Short,1,0,,,,,,,,,,2/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.5,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,TM Head,MW Short,1,0,,,,,,,,,,3/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.6,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,MW Short,0,1,1,,,,,,,,,4/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.6,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,MW Short,0,0,,,,,,,,,,4/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.1,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,TM Head,Mukesh Choudhary,6,0,,,,,,,,,,10/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.2,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,TM Head,Mukesh Choudhary,2,0,,,,,,,,,,12/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.3,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,TM Head,Mukesh Choudhary,1,0,,,,,,,,,,13/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.4,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,Mukesh Choudhary,0,0,,,,,,,,,,13/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.5,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,Mukesh Choudhary,0,0,,,,,,,,,,13/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1.6,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,Mukesh Choudhary,0,1,,,,1,,,,,,14/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.1,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,MW Short,1,0,,,,,,,,,,15/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.2,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,TM Head,MW Short,6,0,,,,,,,,,,21/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.3,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,TM Head,MW Short,1,0,,,,,,,,,,22/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.4,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,MW Short,0,0,,,,,,,,,,22/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.5,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,MW Short,0,0,,,,,,,,,,22/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2.6,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,MW Short,1,0,,,,,,,,,,23/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.1,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,A Kamboj,6,0,,,,,,,,,,29/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.2,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,A Kamboj,0,0,,,,,,,,,,29/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.3,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,A Kamboj,0,0,,,,,,,,,,29/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.4,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,A Kamboj,1,0,,,,,,,,,,30/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.5,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,TM Head,A Kamboj,4,0,,,,,,,,,,34/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3.6,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,TM Head,A Kamboj,4,0,,,,,,,,,,38/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.1,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,MW Short,1,0,,,,,,,,,,39/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.2,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,TM Head,MW Short,4,0,,,,,,,,,,43/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.3,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,TM Head,MW Short,4,0,,,,,,,,,,47/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.4,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,TM Head,MW Short,4,0,,,,,,,,,,51/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.5,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,TM Head,MW Short,6,0,,,,,,,,,,57/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4.6,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,TM Head,MW Short,6,0,,,,,,,,,,63/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.1,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,Mukesh Choudhary,4,0,,,,,,,,,,67/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.2,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,Mukesh Choudhary,0,0,,,,,,,,,,67/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.3,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,Mukesh Choudhary,4,0,,,,,,,,,,71/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.4,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,Mukesh Choudhary,4,0,,,,,,,,,,75/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.5,Sunrisers Hyderabad,Chennai Super Kings,TM Head,Abhishek Sharma,Mukesh Choudhary,0,0,,,,,,caught,TM Head,,,75/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5.6,Sunrisers Hyderabad,Chennai Super Kings,Ishan Kishan,Abhishek Sharma,Mukesh Choudhary,0,0,,,,,,caught,Ishan Kishan,,,75/2
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.1,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,H Klaasen,Noor Ahmad,0,4,,,4,,,,,,,79/2
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.2,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,H Klaasen,Noor Ahmad,0,1,1,,,,,,,,,80/2
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.2,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,H Klaasen,Noor Ahmad,1,0,,,,,,,,,,81/2
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.3,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Abhishek Sharma,Noor Ahmad,0,0,,,,,,,,,,81/2
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.4,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Abhishek Sharma,Noor Ahmad,1,0,,,,,,,,,,82/2
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.5,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,H Klaasen,Noor Ahmad,1,0,,,,,,,,,,83/2
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6.6,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Abhishek Sharma,Noor Ahmad,0,1,,,,1,,,,,,84/2
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.1,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Abhishek Sharma,J Overton,1,0,,,,,,,,,,85/2
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.2,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,H Klaasen,J Overton,4,0,,,,,,,,,,89/2
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.3,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,H Klaasen,J Overton,2,0,,,,,,,,,,91/2
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.4,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,H Klaasen,J Overton,1,0,,,,,,,,,,92/2
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.5,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Abhishek Sharma,J Overton,0,1,,,,1,,,,,,93/2
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,7.6,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,H Klaasen,J Overton,0,0,,,,,,caught,Abhishek Sharma,,,93/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.1,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Aniket Verma,Gurjapneet Singh,0,0,,,,,,,,,,93/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.2,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Aniket Verma,Gurjapneet Singh,6,0,,,,,,,,,,99/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.3,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Aniket Verma,Gurjapneet Singh,0,0,,,,,,,,,,99/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.4,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Aniket Verma,Gurjapneet Singh,0,0,,,,,,,,,,99/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.5,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Aniket Verma,Gurjapneet Singh,1,0,,,,,,,,,,100/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,8.6,Sunrisers Hyderabad,Chennai Super Kings,Aniket Verma,H Klaasen,Gurjapneet Singh,0,0,,,,,,,,,,100/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.1,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Aniket Verma,Noor Ahmad,1,0,,,,,,,,,,101/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.2,Sunrisers Hyderabad,Chennai Super Kings,Aniket Verma,H Klaasen,Noor Ahmad,1,0,,,,,,,,,,102/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.3,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Aniket Verma,Noor Ahmad,4,0,,,,,,,,,,106/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.4,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Aniket Verma,Noor Ahmad,4,0,,,,,,,,,,110/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.5,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Aniket Verma,Noor Ahmad,1,0,,,,,,,,,,111/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,9.6,Sunrisers Hyderabad,Chennai Super Kings,Aniket Verma,H Klaasen,Noor Ahmad,1,0,,,,,,,,,,112/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.1,Sunrisers Hyderabad,Chennai Super Kings,Aniket Verma,H Klaasen,J Overton,0,0,,,,,,caught,Aniket Verma,,,112/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.2,Sunrisers Hyderabad,Chennai Super Kings,Nithish Kumar Reddy,H Klaasen,J Overton,1,0,,,,,,,,,,113/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.3,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Nithish Kumar Reddy,J Overton,0,0,,,,,,,,,,113/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.4,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Nithish Kumar Reddy,J Overton,2,0,,,,,,,,,,115/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.5,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Nithish Kumar Reddy,J Overton,2,0,,,,,,,,,,117/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,10.6,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Nithish Kumar Reddy,J Overton,1,0,,,,,,,,,,118/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.1,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Nithish Kumar Reddy,Gurjapneet Singh,1,0,,,,,,,,,,119/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.2,Sunrisers Hyderabad,Chennai Super Kings,Nithish Kumar Reddy,H Klaasen,Gurjapneet Singh,1,0,,,,,,,,,,120/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.3,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Nithish Kumar Reddy,Gurjapneet Singh,0,0,,,,,,,,,,120/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.4,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Nithish Kumar Reddy,Gurjapneet Singh,4,0,,,,,,,,,,124/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.5,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Nithish Kumar Reddy,Gurjapneet Singh,1,0,,,,,,,,,,125/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,11.6,Sunrisers Hyderabad,Chennai Super Kings,Nithish Kumar Reddy,H Klaasen,Gurjapneet Singh,6,0,,,,,,,,,,131/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.1,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Nithish Kumar Reddy,Noor Ahmad,1,0,,,,,,,,,,132/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.2,Sunrisers Hyderabad,Chennai Super Kings,Nithish Kumar Reddy,H Klaasen,Noor Ahmad,2,0,,,,,,,,,,134/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.3,Sunrisers Hyderabad,Chennai Super Kings,Nithish Kumar Reddy,H Klaasen,Noor Ahmad,0,0,,,,,,,,,,134/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.4,Sunrisers Hyderabad,Chennai Super Kings,Nithish Kumar Reddy,H Klaasen,Noor Ahmad,1,0,,,,,,,,,,135/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.5,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Nithish Kumar Reddy,Noor Ahmad,4,0,,,,,,,,,,139/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,12.6,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Nithish Kumar Reddy,Noor Ahmad,0,0,,,,,,,,,,139/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.1,Sunrisers Hyderabad,Chennai Super Kings,Nithish Kumar Reddy,H Klaasen,J Overton,1,0,,,,,,,,,,140/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.2,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Nithish Kumar Reddy,J Overton,4,0,,,,,,,,,,144/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.3,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Nithish Kumar Reddy,J Overton,2,0,,,,,,,,,,146/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.4,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,Nithish Kumar Reddy,J Overton,1,0,,,,,,,,,,147/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.5,Sunrisers Hyderabad,Chennai Super Kings,Nithish Kumar Reddy,H Klaasen,J Overton,0,0,,,,,,caught,Nithish Kumar Reddy,,,147/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,13.6,Sunrisers Hyderabad,Chennai Super Kings,S Arora,H Klaasen,J Overton,1,0,,,,,,,,,,148/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.1,Sunrisers Hyderabad,Chennai Super Kings,S Arora,H Klaasen,Gurjapneet Singh,1,0,,,,,,,,,,149/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.2,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,S Arora,Gurjapneet Singh,0,0,,,,,,,,,,149/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.3,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,S Arora,Gurjapneet Singh,1,0,,,,,,,,,,150/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.4,Sunrisers Hyderabad,Chennai Super Kings,S Arora,H Klaasen,Gurjapneet Singh,0,0,,,,,,,,,,150/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.5,Sunrisers Hyderabad,Chennai Super Kings,S Arora,H Klaasen,Gurjapneet Singh,4,0,,,,,,,,,,154/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,14.6,Sunrisers Hyderabad,Chennai Super Kings,S Arora,H Klaasen,Gurjapneet Singh,0,0,,,,,,,,,,154/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.1,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,S Arora,Noor Ahmad,6,0,,,,,,,,,,160/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.2,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,S Arora,Noor Ahmad,1,0,,,,,,,,,,161/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.3,Sunrisers Hyderabad,Chennai Super Kings,S Arora,H Klaasen,Noor Ahmad,1,0,,,,,,,,,,162/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.4,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,S Arora,Noor Ahmad,1,0,,,,,,,,,,163/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.5,Sunrisers Hyderabad,Chennai Super Kings,S Arora,H Klaasen,Noor Ahmad,0,0,,,,,,,,,,163/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,15.6,Sunrisers Hyderabad,Chennai Super Kings,S Arora,H Klaasen,Noor Ahmad,0,0,,,,,,,,,,163/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.1,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,S Arora,J Overton,1,0,,,,,,,,,,164/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.2,Sunrisers Hyderabad,Chennai Super Kings,S Arora,H Klaasen,J Overton,1,0,,,,,,,,,,165/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.3,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,S Arora,J Overton,4,0,,,,,,,,,,169/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.4,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,S Arora,J Overton,0,1,1,,,,,,,,,170/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.4,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,S Arora,J Overton,2,0,,,,,,,,,,172/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.5,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,S Arora,J Overton,1,0,,,,,,,,,,173/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,16.6,Sunrisers Hyderabad,Chennai Super Kings,S Arora,H Klaasen,J Overton,4,0,,,,,,,,,,177/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.1,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,S Arora,A Kamboj,0,0,,,,,,,,,,177/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.2,Sunrisers Hyderabad,Chennai Super Kings,H Klaasen,S Arora,A Kamboj,0,0,,,,,,bowled,H Klaasen,,,177/6
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.3,Sunrisers Hyderabad,Chennai Super Kings,LS Livingstone,S Arora,A Kamboj,0,1,,,,1,,,,,,178/6
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.4,Sunrisers Hyderabad,Chennai Super Kings,S Arora,LS Livingstone,A Kamboj,1,0,,,,,,,,,,179/6
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.5,Sunrisers Hyderabad,Chennai Super Kings,LS Livingstone,S Arora,A Kamboj,0,0,,,,,,,,,,179/6
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,17.6,Sunrisers Hyderabad,Chennai Super Kings,LS Livingstone,S Arora,A Kamboj,0,0,,,,,,,,,,179/6
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.1,Sunrisers Hyderabad,Chennai Super Kings,S Arora,LS Livingstone,Gurjapneet Singh,0,0,,,,,,caught,S Arora,,,179/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.2,Sunrisers Hyderabad,Chennai Super Kings,Shivang Kumar,LS Livingstone,Gurjapneet Singh,0,0,,,,,,,,,,179/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.3,Sunrisers Hyderabad,Chennai Super Kings,Shivang Kumar,LS Livingstone,Gurjapneet Singh,0,0,,,,,,,,,,179/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.4,Sunrisers Hyderabad,Chennai Super Kings,Shivang Kumar,LS Livingstone,Gurjapneet Singh,0,1,1,,,,,,,,,180/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.4,Sunrisers Hyderabad,Chennai Super Kings,Shivang Kumar,LS Livingstone,Gurjapneet Singh,0,0,,,,,,,,,,180/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.5,Sunrisers Hyderabad,Chennai Super Kings,Shivang Kumar,LS Livingstone,Gurjapneet Singh,6,0,,,,,,,,,,186/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,18.6,Sunrisers Hyderabad,Chennai Super Kings,Shivang Kumar,LS Livingstone,Gurjapneet Singh,1,0,,,,,,,,,,187/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.1,Sunrisers Hyderabad,Chennai Super Kings,Shivang Kumar,LS Livingstone,A Kamboj,1,0,,,,,,,,,,188/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.2,Sunrisers Hyderabad,Chennai Super Kings,LS Livingstone,Shivang Kumar,A Kamboj,1,0,,,,,,,,,,189/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.3,Sunrisers Hyderabad,Chennai Super Kings,Shivang Kumar,LS Livingstone,A Kamboj,4,0,,,,,,,,,,193/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.4,Sunrisers Hyderabad,Chennai Super Kings,Shivang Kumar,LS Livingstone,A Kamboj,0,0,,,,,,caught,Shivang Kumar,,,193/8
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.5,Sunrisers Hyderabad,Chennai Super Kings,PP Hinge,LS Livingstone,A Kamboj,0,1,,,1,,,,,,,194/8
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,19.6,Sunrisers Hyderabad,Chennai Super Kings,LS Livingstone,PP Hinge,A Kamboj,0,0,,,,,,caught,LS Livingstone,,,194/9
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.1,Chennai Super Kings,Sunrisers Hyderabad,SV Samson,RD Gaikwad,PP Hinge,6,0,,,,,,,,,,6/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.2,Chennai Super Kings,Sunrisers Hyderabad,SV Samson,RD Gaikwad,PP Hinge,1,0,,,,,,,,,,7/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.3,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,SV Samson,PP Hinge,0,0,,,,,,,,,,7/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.4,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,SV Samson,PP Hinge,0,0,,,,,,,,,,7/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.5,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,SV Samson,PP Hinge,4,0,,,,,,,,,,11/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,0.6,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,SV Samson,PP Hinge,4,0,,,,,,,,,,15/0
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.1,Chennai Super Kings,Sunrisers Hyderabad,SV Samson,RD Gaikwad,Nithish Kumar Reddy,0,0,,,,,,caught,SV Samson,,,15/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.2,Chennai Super Kings,Sunrisers Hyderabad,A Mhatre,RD Gaikwad,Nithish Kumar Reddy,0,0,,,,,,,,,,15/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.3,Chennai Super Kings,Sunrisers Hyderabad,A Mhatre,RD Gaikwad,Nithish Kumar Reddy,0,0,,,,,,,,,,15/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.4,Chennai Super Kings,Sunrisers Hyderabad,A Mhatre,RD Gaikwad,Nithish Kumar Reddy,0,0,,,,,,,,,,15/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.5,Chennai Super Kings,Sunrisers Hyderabad,A Mhatre,RD Gaikwad,Nithish Kumar Reddy,3,0,,,,,,,,,,18/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.6,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,A Mhatre,Nithish Kumar Reddy,0,1,1,,,,,,,,,19/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,1.6,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,A Mhatre,Nithish Kumar Reddy,4,0,,,,,,,,,,23/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.1,Chennai Super Kings,Sunrisers Hyderabad,A Mhatre,RD Gaikwad,PP Hinge,6,0,,,,,,,,,,29/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.2,Chennai Super Kings,Sunrisers Hyderabad,A Mhatre,RD Gaikwad,PP Hinge,0,0,,,,,,,,,,29/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.3,Chennai Super Kings,Sunrisers Hyderabad,A Mhatre,RD Gaikwad,PP Hinge,4,0,,,,,,,,,,33/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.4,Chennai Super Kings,Sunrisers Hyderabad,A Mhatre,RD Gaikwad,PP Hinge,0,1,1,,,,,,,,,34/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.4,Chennai Super Kings,Sunrisers Hyderabad,A Mhatre,RD Gaikwad,PP Hinge,0,1,1,,,,,,,,,35/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.4,Chennai Super Kings,Sunrisers Hyderabad,A Mhatre,RD Gaikwad,PP Hinge,4,0,,,,,,,,,,39/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.5,Chennai Super Kings,Sunrisers Hyderabad,A Mhatre,RD Gaikwad,PP Hinge,4,0,,,,,,,,,,43/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2.6,Chennai Super Kings,Sunrisers Hyderabad,A Mhatre,RD Gaikwad,PP Hinge,4,0,,,,,,,,,,47/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.1,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,A Mhatre,Sakib Hussain,0,5,5,,,,,,,,,52/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.1,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,A Mhatre,Sakib Hussain,0,0,,,,,,,,,,52/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.2,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,A Mhatre,Sakib Hussain,0,0,,,,,,,,,,52/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.3,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,A Mhatre,Sakib Hussain,1,0,,,,,,,,,,53/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.4,Chennai Super Kings,Sunrisers Hyderabad,A Mhatre,RD Gaikwad,Sakib Hussain,1,0,,,,,,,,,,54/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.5,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,A Mhatre,Sakib Hussain,1,0,,,,,,,,,,55/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.6,Chennai Super Kings,Sunrisers Hyderabad,A Mhatre,RD Gaikwad,Sakib Hussain,0,1,1,,,,,,,,,56/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3.6,Chennai Super Kings,Sunrisers Hyderabad,A Mhatre,RD Gaikwad,Sakib Hussain,4,0,,,,,,,,,,60/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.1,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,A Mhatre,Nithish Kumar Reddy,0,1,1,,,,,,,,,61/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.1,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,A Mhatre,Nithish Kumar Reddy,2,0,,,,,,,,,,63/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.2,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,A Mhatre,Nithish Kumar Reddy,2,0,,,,,,,,,,65/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.3,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,A Mhatre,Nithish Kumar Reddy,1,0,,,,,,,,,,66/1
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.4,Chennai Super Kings,Sunrisers Hyderabad,A Mhatre,RD Gaikwad,Nithish Kumar Reddy,0,0,,,,,,caught,A Mhatre,,,66/2
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.5,Chennai Super Kings,Sunrisers Hyderabad,MW Short,RD Gaikwad,Nithish Kumar Reddy,0,0,,,,,,,,,,66/2
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4.6,Chennai Super Kings,Sunrisers Hyderabad,MW Short,RD Gaikwad,Nithish Kumar Reddy,0,0,,,,,,,,,,66/2
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.1,Chennai Super Kings,Sunrisers Hyderabad,RD Gaikwad,MW Short,E Malinga,0,0,,,,,,caught,RD Gaikwad,,,66/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.2,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,E Malinga,2,0,,,,,,,,,,68/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.3,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,E Malinga,0,1,1,,,,,,,,,69/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.3,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,E Malinga,1,0,,,,,,,,,,70/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.4,Chennai Super Kings,Sunrisers Hyderabad,MW Short,SN Khan,E Malinga,4,0,,,,,,,,,,74/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.5,Chennai Super Kings,Sunrisers Hyderabad,MW Short,SN Khan,E Malinga,1,0,,,,,,,,,,75/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5.6,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,E Malinga,1,0,,,,,,,,,,76/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.1,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,Shivang Kumar,0,0,,,,,,,,,,76/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.2,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,Shivang Kumar,4,0,,,,,,,,,,80/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.3,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,Shivang Kumar,1,0,,,,,,,,,,81/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.4,Chennai Super Kings,Sunrisers Hyderabad,MW Short,SN Khan,Shivang Kumar,1,0,,,,,,,,,,82/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.5,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,Shivang Kumar,0,0,,,,,,,,,,82/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6.6,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,Shivang Kumar,1,0,,,,,,,,,,83/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.1,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,Abhishek Sharma,4,0,,,,,,,,,,87/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.2,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,Abhishek Sharma,1,0,,,,,,,,,,88/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.3,Chennai Super Kings,Sunrisers Hyderabad,MW Short,SN Khan,Abhishek Sharma,2,0,,,,,,,,,,90/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.4,Chennai Super Kings,Sunrisers Hyderabad,MW Short,SN Khan,Abhishek Sharma,4,0,,,,,,,,,,94/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.5,Chennai Super Kings,Sunrisers Hyderabad,MW Short,SN Khan,Abhishek Sharma,1,0,,,,,,,,,,95/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7.6,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,Abhishek Sharma,1,0,,,,,,,,,,96/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.1,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,Shivang Kumar,1,0,,,,,,,,,,97/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.2,Chennai Super Kings,Sunrisers Hyderabad,MW Short,SN Khan,Shivang Kumar,0,0,,,,,,,,,,97/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.3,Chennai Super Kings,Sunrisers Hyderabad,MW Short,SN Khan,Shivang Kumar,0,0,,,,,,,,,,97/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.4,Chennai Super Kings,Sunrisers Hyderabad,MW Short,SN Khan,Shivang Kumar,1,0,,,,,,,,,,98/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.5,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,Shivang Kumar,2,0,,,,,,,,,,100/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,8.6,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,Shivang Kumar,4,0,,,,,,,,,,104/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.1,Chennai Super Kings,Sunrisers Hyderabad,MW Short,SN Khan,Sakib Hussain,1,0,,,,,,,,,,105/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.2,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,Sakib Hussain,1,0,,,,,,,,,,106/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.3,Chennai Super Kings,Sunrisers Hyderabad,MW Short,SN Khan,Sakib Hussain,2,0,,,,,,,,,,108/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.4,Chennai Super Kings,Sunrisers Hyderabad,MW Short,SN Khan,Sakib Hussain,1,0,,,,,,,,,,109/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.5,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,Sakib Hussain,1,0,,,,,,,,,,110/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,9.6,Chennai Super Kings,Sunrisers Hyderabad,MW Short,SN Khan,Sakib Hussain,1,0,,,,,,,,,,111/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.1,Chennai Super Kings,Sunrisers Hyderabad,MW Short,SN Khan,E Malinga,1,0,,,,,,,,,,112/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.2,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,E Malinga,0,0,,,,,,,,,,112/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.3,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,E Malinga,0,0,,,,,,,,,,112/3
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.4,Chennai Super Kings,Sunrisers Hyderabad,SN Khan,MW Short,E Malinga,0,0,,,,,,caught,SN Khan,,,112/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.5,Chennai Super Kings,Sunrisers Hyderabad,D Brevis,MW Short,E Malinga,0,0,,,,,,,,,,112/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,10.6,Chennai Super Kings,Sunrisers Hyderabad,D Brevis,MW Short,E Malinga,0,0,,,,,,,,,,112/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.1,Chennai Super Kings,Sunrisers Hyderabad,MW Short,D Brevis,Shivang Kumar,0,0,,,,,,,,,,112/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.2,Chennai Super Kings,Sunrisers Hyderabad,MW Short,D Brevis,Shivang Kumar,1,0,,,,,,,,,,113/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.3,Chennai Super Kings,Sunrisers Hyderabad,D Brevis,MW Short,Shivang Kumar,0,0,,,,,,,,,,113/4
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.4,Chennai Super Kings,Sunrisers Hyderabad,D Brevis,MW Short,Shivang Kumar,0,0,,,,,,caught,D Brevis,,,113/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.5,Chennai Super Kings,Sunrisers Hyderabad,S Dube,MW Short,Shivang Kumar,1,0,,,,,,,,,,114/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,11.6,Chennai Super Kings,Sunrisers Hyderabad,MW Short,S Dube,Shivang Kumar,1,0,,,,,,,,,,115/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.1,Chennai Super Kings,Sunrisers Hyderabad,MW Short,S Dube,Nithish Kumar Reddy,1,0,,,,,,,,,,116/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.2,Chennai Super Kings,Sunrisers Hyderabad,S Dube,MW Short,Nithish Kumar Reddy,1,0,,,,,,,,,,117/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.3,Chennai Super Kings,Sunrisers Hyderabad,MW Short,S Dube,Nithish Kumar Reddy,0,0,,,,,,,,,,117/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.4,Chennai Super Kings,Sunrisers Hyderabad,MW Short,S Dube,Nithish Kumar Reddy,1,0,,,,,,,,,,118/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.5,Chennai Super Kings,Sunrisers Hyderabad,S Dube,MW Short,Nithish Kumar Reddy,1,0,,,,,,,,,,119/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,12.6,Chennai Super Kings,Sunrisers Hyderabad,MW Short,S Dube,Nithish Kumar Reddy,1,0,,,,,,,,,,120/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.1,Chennai Super Kings,Sunrisers Hyderabad,MW Short,S Dube,PP Hinge,2,1,,1,,,,,,,,123/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.1,Chennai Super Kings,Sunrisers Hyderabad,MW Short,S Dube,PP Hinge,1,0,,,,,,,,,,124/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.2,Chennai Super Kings,Sunrisers Hyderabad,S Dube,MW Short,PP Hinge,0,0,,,,,,,,,,124/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.3,Chennai Super Kings,Sunrisers Hyderabad,S Dube,MW Short,PP Hinge,0,0,,,,,,,,,,124/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.4,Chennai Super Kings,Sunrisers Hyderabad,S Dube,MW Short,PP Hinge,6,0,,,,,,,,,,130/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.5,Chennai Super Kings,Sunrisers Hyderabad,S Dube,MW Short,PP Hinge,1,0,,,,,,,,,,131/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,13.6,Chennai Super Kings,Sunrisers Hyderabad,MW Short,S Dube,PP Hinge,4,0,,,,,,,,,,135/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.1,Chennai Super Kings,Sunrisers Hyderabad,S Dube,MW Short,Sakib Hussain,1,0,,,,,,,,,,136/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.2,Chennai Super Kings,Sunrisers Hyderabad,MW Short,S Dube,Sakib Hussain,0,1,1,,,,,,,,,137/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.2,Chennai Super Kings,Sunrisers Hyderabad,MW Short,S Dube,Sakib Hussain,1,0,,,,,,,,,,138/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.3,Chennai Super Kings,Sunrisers Hyderabad,S Dube,MW Short,Sakib Hussain,1,0,,,,,,,,,,139/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.4,Chennai Super Kings,Sunrisers Hyderabad,MW Short,S Dube,Sakib Hussain,1,0,,,,,,,,,,140/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.5,Chennai Super Kings,Sunrisers Hyderabad,S Dube,MW Short,Sakib Hussain,1,0,,,,,,,,,,141/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,14.6,Chennai Super Kings,Sunrisers Hyderabad,MW Short,S Dube,Sakib Hussain,0,0,,,,,,,,,,141/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.1,Chennai Super Kings,Sunrisers Hyderabad,S Dube,MW Short,E Malinga,4,0,,,,,,,,,,145/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.2,Chennai Super Kings,Sunrisers Hyderabad,S Dube,MW Short,E Malinga,2,0,,,,,,,,,,147/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.3,Chennai Super Kings,Sunrisers Hyderabad,S Dube,MW Short,E Malinga,1,0,,,,,,,,,,148/5
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.4,Chennai Super Kings,Sunrisers Hyderabad,MW Short,S Dube,E Malinga,0,0,,,,,,caught,MW Short,,,148/6
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.5,Chennai Super Kings,Sunrisers Hyderabad,J Overton,S Dube,E Malinga,1,0,,,,,,,,,,149/6
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,15.6,Chennai Super Kings,Sunrisers Hyderabad,S Dube,J Overton,E Malinga,0,0,,,,,,,,,,149/6
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.1,Chennai Super Kings,Sunrisers Hyderabad,J Overton,S Dube,Sakib Hussain,1,0,,,,,,,,,,150/6
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.2,Chennai Super Kings,Sunrisers Hyderabad,S Dube,J Overton,Sakib Hussain,0,1,1,,,,,,,,,151/6
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.2,Chennai Super Kings,Sunrisers Hyderabad,S Dube,J Overton,Sakib Hussain,1,0,,,,,,,,,,152/6
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.3,Chennai Super Kings,Sunrisers Hyderabad,J Overton,S Dube,Sakib Hussain,0,1,1,,,,,,,,,153/6
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.3,Chennai Super Kings,Sunrisers Hyderabad,J Overton,S Dube,Sakib Hussain,0,0,,,,,,,,,,153/6
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.4,Chennai Super Kings,Sunrisers Hyderabad,J Overton,S Dube,Sakib Hussain,1,0,,,,,,,,,,154/6
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.5,Chennai Super Kings,Sunrisers Hyderabad,S Dube,J Overton,Sakib Hussain,0,0,,,,,,bowled,S Dube,,,154/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,16.6,Chennai Super Kings,Sunrisers Hyderabad,A Kamboj,J Overton,Sakib Hussain,1,0,,,,,,,,,,155/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.1,Chennai Super Kings,Sunrisers Hyderabad,A Kamboj,J Overton,E Malinga,1,0,,,,,,,,,,156/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.2,Chennai Super Kings,Sunrisers Hyderabad,J Overton,A Kamboj,E Malinga,2,0,,,,,,,,,,158/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.3,Chennai Super Kings,Sunrisers Hyderabad,J Overton,A Kamboj,E Malinga,0,0,,,,,,,,,,158/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.4,Chennai Super Kings,Sunrisers Hyderabad,J Overton,A Kamboj,E Malinga,4,0,,,,,,,,,,162/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.5,Chennai Super Kings,Sunrisers Hyderabad,J Overton,A Kamboj,E Malinga,2,0,,,,,,,,,,164/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,17.6,Chennai Super Kings,Sunrisers Hyderabad,J Overton,A Kamboj,E Malinga,1,0,,,,,,,,,,165/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.1,Chennai Super Kings,Sunrisers Hyderabad,J Overton,A Kamboj,Nithish Kumar Reddy,0,0,,,,,,,,,,165/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.2,Chennai Super Kings,Sunrisers Hyderabad,J Overton,A Kamboj,Nithish Kumar Reddy,1,0,,,,,,,,,,166/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.3,Chennai Super Kings,Sunrisers Hyderabad,A Kamboj,J Overton,Nithish Kumar Reddy,1,0,,,,,,,,,,167/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.4,Chennai Super Kings,Sunrisers Hyderabad,J Overton,A Kamboj,Nithish Kumar Reddy,1,0,,,,,,,,,,168/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.5,Chennai Super Kings,Sunrisers Hyderabad,A Kamboj,J Overton,Nithish Kumar Reddy,6,0,,,,,,,,,,174/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.6,Chennai Super Kings,Sunrisers Hyderabad,A Kamboj,J Overton,Nithish Kumar Reddy,0,1,1,,,,,,,,,175/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,18.6,Chennai Super Kings,Sunrisers Hyderabad,A Kamboj,J Overton,Nithish Kumar Reddy,2,0,,,,,,,,,,177/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.1,Chennai Super Kings,Sunrisers Hyderabad,J Overton,A Kamboj,PP Hinge,2,0,,,,,,,,,,179/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.2,Chennai Super Kings,Sunrisers Hyderabad,J Overton,A Kamboj,PP Hinge,0,1,,,,1,,,,,,180/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.3,Chennai Super Kings,Sunrisers Hyderabad,A Kamboj,J Overton,PP Hinge,0,1,,1,,,,,,,,181/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.3,Chennai Super Kings,Sunrisers Hyderabad,A Kamboj,J Overton,PP Hinge,1,0,,,,,,,,,,182/7
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.4,Chennai Super Kings,Sunrisers Hyderabad,J Overton,A Kamboj,PP Hinge,0,0,,,,,,caught,J Overton,,,182/8
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.5,Chennai Super Kings,Sunrisers Hyderabad,Noor Ahmad,A Kamboj,PP Hinge,1,0,,,,,,,,,,183/8
+27,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,19.6,Chennai Super Kings,Sunrisers Hyderabad,A Kamboj,Noor Ahmad,PP Hinge,1,0,,,,,,,,,,184/8
